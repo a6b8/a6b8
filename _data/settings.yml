@@ -1,12 +1,12 @@
 #-------------------------------
 # General Site Settings
 
-title: Banholzer
+title: a6b8
 logo: 
 author: themefisher
-description: this is meta description
-email: hi@andreasbanholzer.com
-phone: +49 175 2536161‬
+description: under construction...
+email: hello@13plus4.com
+phone: skype andreas.banholzer
 address: Berlin, Germany
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
@@ -91,8 +91,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Interaction Design, color: '#fdb157', value: '40%'}
-- {name: Developer, color: '#9473e6', value: '70%'}
+- {name: Web Design, color: '#fdb157', value: '90%'}
+- {name: Logo Design, color: '#9473e6', value: '60%'}
+- {name: After Effects, color: '#bdecf6', value: '80%'}
+- {name: Web App, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
