@@ -21,6 +21,8 @@ defaults:
 include:
   - _pages
 
+destination: ./docs
+
 sass:
   sass_dir: assets/scss
   style: compressed
