@@ -22,7 +22,7 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics: # UA-XXXXXX-X
+google-analytics: G-VPKWQT8VZQ
 
 
 #-------------------------------
@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Andreas <br> Developer
+  hero-title: Hi! I’m <br> Andreas <br> Developer & Designer
 
 social:
 - {icon: "ti-github", link: "https://github.com/a6b8"}
@@ -289,4 +289,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: hello@13plus4.com
