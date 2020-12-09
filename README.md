@@ -5,4 +5,4 @@
 # My current Projects
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=statosio.js&title_color=graywhite)
-
+[![CDNJS](https://img.shields.io/cdnjs/v/air-datepicker.svg)](https://cdnjs.com/libraries/statosio)
