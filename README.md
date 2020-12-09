@@ -4,5 +4,5 @@
 
 # My current Projects
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=statosio.js&title_color=graywhite&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=statosio.js&title_color=graywhite)
 
