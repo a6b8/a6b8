@@ -1,7 +1,6 @@
-![overviw](https://github-readme-stats.vercel.app/api?username=a6b8&show_icons=true&theme=merko)
+![overviw](https://github-readme-stats.vercel.app/api?username=a6b8&show_icons=true&theme=graywhite)
 
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a6b8&langs_count=8&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-C
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a6b8&langs_count=8&theme=graywhite)]
 
 # My current Projects
 
