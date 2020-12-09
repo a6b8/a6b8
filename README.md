@@ -2,10 +2,7 @@
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a6b8&langs_count=8&theme=graywhite&layout=compact)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=statosio.js&title_color=graywhite&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
 # My current Projects
 
-## statosio.js
-[d3.statosio.com](https://d3.statosio.com)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=statosio.js&title_color=graywhite&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
