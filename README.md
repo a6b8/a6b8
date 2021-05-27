@@ -4,10 +4,7 @@
 
 ## Open Source Projects
 
-***2021***<br>
-Statosio.js<br>
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=statosio.js&title_color=graywhite)
-[![CDNJS](https://img.shields.io/cdnjs/v/statosio.svg)](https://cdnjs.com/libraries/statosio)
-<br>
-Rss Discover Service<br>
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=curlai--discover-service&title_color=graywhite)
+| Year | Name | Stats |
+|--- | --- | --- |
+| 2021 | Statosio | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=statosio.js&title_color=graywhite) |
+| 2021 | Rss Discover Service | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=curlai--discover-service&title_color=graywhite) |
