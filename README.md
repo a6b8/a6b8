@@ -7,8 +7,7 @@ tmp = name
   .map { | n | n.chr }
 a, b = tmp.slice!( 1...name.index( 32 ) ), tmp.slice( 2.. )
 print 'a' + a.length.to_s + 'b' + b.length.to_s
-
->> a6b8
+# > a6b8
 ```
 
 
