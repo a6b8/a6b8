@@ -1,11 +1,11 @@
 <img src="assets/welcome.png" height="70" />
 
-```RUBY
-name = [97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114]
+```Ruby
+name = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
 tmp = name
   .reject { | n | n==32 }
   .map { | n | n.chr }
-a, b = tmp.slice!( 1...t.index( 32 ) ), tmp.slice( 2.. )
+a, b = tmp.slice!( 1...name.index( 32 ) ), tmp.slice( 2.. )
 ```
 
 
