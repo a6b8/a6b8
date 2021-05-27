@@ -4,9 +4,9 @@
 
 ## Open Source Projects
 
-| Year | Name | Stats | Links |
+| Year | Category | Project | Links |
 |--- | --- | --- | --- |
-| 2021 | Rss Discover Service | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=rss-discover-service&title_color=graywhite) |
-| 2020 | d3.statosio.com - Documentation | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=d3.statosio.com&title_color=graywhite) | [Repository](https://github.com/a6b8/d3.statosio.com) [Website](https://d3.statosio.com)
-| 2020 | statosio.js | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=statosio.js&title_color=graywhite) | [Repository](https://github.com/a6b8/statosio.js) |
+| 2021 | ```Ruby```, ```Api``` | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=rss-discover-service&title_color=graywhite) |
+| 2020 | ```Documentation```  | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=d3.statosio.com&title_color=graywhite) | [Repository](https://github.com/a6b8/d3.statosio.com) [Website](https://d3.statosio.com), [cdnjs.com](https://cdnjs.com/libraries/statosio)
+| 2020 | statosio.js | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=statosio.js&title_color=graywhite) | [Repository](https://github.com/a6b8/statosio.js) | [Introduction Video](https://www.youtube.com/watch?v=i6od9O8jz1E)
 
