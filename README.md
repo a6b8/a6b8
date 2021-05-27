@@ -1,4 +1,4 @@
-# Welcome to my Profile!
+<img src="assets/welcome.png" height="100" />
 On this Page you can find a selection of my Open-Source Work. In Terms of Programming Languages and Libraries this selection is kind of representativ. I usally work with a bigger variety of tools.
 
 <br>
