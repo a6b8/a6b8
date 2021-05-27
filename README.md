@@ -7,7 +7,7 @@ On this Page you can find a selection of my Open-Source Work. In Terms of Progra
 
 | Stats | Languages |
 | :-- | :-- |
-| ![overview](https://github-readme-stats.vercel.app/api?username=a6b8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) | ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a6b8&langs_count=8&theme=graywhite&layout=compact) |
+| ![overview](https://github-readme-stats.vercel.app/api?username=a6b8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) | ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a6b8&langs_count=8&theme=graywhite&layout=compact&hide_border=true) |
 
 <br>
 <br>
