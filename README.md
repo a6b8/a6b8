@@ -1,4 +1,4 @@
-<img src="assets/welcome.png" height="70" />
+<img src="assets/welcome-1.png" height="70" />
 
 ```Ruby
 name = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
@@ -15,7 +15,7 @@ On this Page you can find a selection of my Open-Source Work. In Terms of Progra
 <br>
 <br>
 <br>
-<img src="assets/overview.png" height="60" />
+<img src="assets/overview-1.png" height="60" />
 
 | Github Stats | Languages |
 | :-- | :-- |
@@ -23,7 +23,7 @@ On this Page you can find a selection of my Open-Source Work. In Terms of Progra
 
 <br>
 <br>
-<img src="assets/public-profile.png" height="60" />
+<img src="assets/open-source-projects-1.png" height="60" />
 > Here is a list of some of my open source projects. Feel free to reach out, send pull request or give feedback.
 
 | Year | Project | Description | Tags | Links |
