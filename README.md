@@ -2,7 +2,8 @@
 On this Page you can find a selection of my Open-Source Work. In Terms of Programming Languages and Libraries this selection is kind of representativ. I usally work with a bigger variety of tools.
 
 
-![Overview](assets/overview.png)
+<img src="assets/overview.png" width="200" />
+
 | My Stats | My Languages |
 | --- | --- |
 | ![overview](https://github-readme-stats.vercel.app/api?username=a6b8&show_icons=true&theme=graywhite) | ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a6b8&langs_count=8&theme=graywhite&layout=compact) |
