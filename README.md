@@ -24,6 +24,7 @@ On this Page you can find a selection of my Open-Source Work. In Terms of Progra
 <br>
 <br>
 <img src="assets/open-source-projects-1.png" height="60" />
+
 > Here is a list of some of my open source projects. Feel free to reach out, send pull request or give feedback.
 
 | Year | Project | Description | Status | Tags | Links |
