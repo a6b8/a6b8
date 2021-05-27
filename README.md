@@ -1,11 +1,12 @@
 # Welcome to my Profile!
 
 
-![overviw](https://github-readme-stats.vercel.app/api?username=a6b8&show_icons=true&theme=graywhite)
+![overview](https://github-readme-stats.vercel.app/api?username=a6b8&show_icons=true&theme=graywhite)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a6b8&langs_count=8&theme=graywhite&layout=compact)
 
 ## Open Source Projects
+Here is a list of some of my open source projects. Feel free to reach out, send pull request or give feedback.
 
 | Year | Project | Tags | Links |
 |--- | --- | --- | --- |
