@@ -7,7 +7,7 @@
 
 ## Open Source Projects
 
-| Year | Tags | Project | Links |
+| Year | Project | Tags | Links |
 |--- | --- | --- | --- |
 | 2021 | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=rss-discover-service&title_color=graywhite) |```Ruby```, ```Api```, ```Sinatra```, ```XML```, ```JSON```, ```Heroku``` |  [Github: Repository](https://github.com/a6b8/rss-discover-service) |
 | 2020 | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=d3.statosio.com&title_color=graywhite) | ```Documentation```, ```Ruby```, ```Jekyll``` | - [Github: Repository](https://github.com/a6b8/d3.statosio.com)<br> - [Documentation: d3.statosio.com](https://d3.statosio.com)<br> - [Cdnjs: Detailsite](https://cdnjs.com/libraries/statosio)
