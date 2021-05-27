@@ -7,4 +7,4 @@
 | Year | Name | Stats |
 |--- | --- | --- |
 | 2021 | Statosio | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=statosio.js&title_color=graywhite) |
-| 2021 | Rss Discover Service | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=curlai--discover-service&title_color=graywhite) |
+| 2021 | Rss Discover Service | ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=a6b8&repo=rss-discover-service&title_color=graywhite) |
