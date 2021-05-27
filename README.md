@@ -17,7 +17,7 @@ On this Page you can find a selection of my Open-Source Work. In Terms of Progra
 <br>
 <img src="assets/overview.png" height="60" />
 
-| Stats | Languages |
+| Github Stats | Languages |
 | :-- | :-- |
 | ![overview](https://github-readme-stats.vercel.app/api?username=a6b8&show_icons=true&hide_title=true&icon_color=CAD1D8&text_color=CAD1D8&bg_color=0E1116&hide_border=true&title_color=CAD1D8) | ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a6b8&langs_count=8&show_icons=true&hide_title=true&icon_color=CAD1D8&text_color=CAD1D8&bg_color=0E1116&hide_border=true&title_color=CAD1D8&layout=compact) |
 
