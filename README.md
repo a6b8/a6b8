@@ -7,7 +7,6 @@ chars = ords
   .map { | n | n.chr }
 a, b = chars.slice!( 1...ords.index( 32 ) ), chars.slice( 2.. )
 user_name = 'a' + a.length.to_s + 'b' + b.length.to_s
-
 # > a6b8
 ```
 
