@@ -1,13 +1,17 @@
 <img src="assets/welcome-1.png" height="70" />
 
 ```Ruby
-chars = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
-name = chars
+result = { full: '', github: '' }
+ords = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
+chars = ords
   .reject { | n | n==32 }
   .map { | n | n.chr }
-a, b = name.slice!( 1...chars.index( 32 ) ), name.slice( 2.. )
-user_name = 'a' + a.length.to_s + 'b' + b.length.to_s
-print user_name
+a, b = chars.slice!( 1...ords.index( 32 ) ), chars.slice( 2.. )
+result[:full] = 'a[' + a.length.to_s + '], b[' + b.length.to_s + ']'
+result[:github] = result[:full]
+  .split('')
+  .select { | n | n.match /^[a-zA-Z0-9]+$/ }
+  .join()
 # > a6b8
 ```
 
