@@ -1,12 +1,13 @@
 <img src="assets/welcome-1.png" height="70" />
 
 ```Ruby
-name = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
-tmp = name
+ chars = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
+name = chars
   .reject { | n | n==32 }
   .map { | n | n.chr }
-a, b = tmp.slice!( 1...name.index( 32 ) ), tmp.slice( 2.. )
-print 'a' + a.length.to_s + 'b' + b.length.to_s
+a, b = name.slice!( 1...chars.index( 32 ) ), name.slice( 2.. )
+user_name = 'a' + a.length.to_s + 'b' + b.length.to_s
+print user_name
 # > a6b8
 ```
 
