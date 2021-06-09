@@ -1,5 +1,3 @@
-<img src="assets/welcome-1.png" height="70" />
-
 ## Release Sommer 2021
 - [x] Statosio for ruby (June 2021)
 - [x] Statosio for wordpress (June 2021)
@@ -9,6 +7,8 @@
 - [ ] Statosio for Elementor
 - [ ] Options Validatior for Javascript
 
+
+<img src="assets/welcome-1.png" height="70" />
 
 ```Ruby
 ords = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
