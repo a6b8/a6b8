@@ -1,4 +1,6 @@
 ## Release Sommer 2021
+My mission is to share all my closed sources projects with others over the web. Plus a proper documentation.
+
 - [x] [Statosio for ruby (June 2021)](https://github.com/a6b8/statosio.rb)
 - [x] [Statosio for wordpress (June 2021)](https://github.com/a6b8/statosio.wp)
 - [x] [Statosio Helpers (June 2021)](https://github.com/a6b8/statosio-tooolbox)
