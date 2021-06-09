@@ -1,5 +1,15 @@
 <img src="assets/welcome-1.png" height="70" />
 
+## Release Sommer 2021
+- [x] Statosio for ruby (June 2021)
+- [x] Statosio for wordpress (June 2021)
+- [x] Statosio Helpers (June 2021)
+- [ ] Invoice Generator for Ruby
+- [ ] Local Path creator for Ruby
+- [ ] Statosio for Elementor
+- [ ] Options Validatior for Javascript
+
+
 ```Ruby
 ords = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
 chars = ords
@@ -10,16 +20,6 @@ user_name = 'a' + a.length.to_s + 'b' + b.length.to_s
 
 # > a6b8
 ```
-
-## Release Sommer 2021
-- [x] Statosio for ruby (June 2021)
-- [x] Statosio for wordpress (June 2021)
-- [x] Statosio Helpers (June 2021)
-- [ ] Invoice Generator for Ruby
-- [ ] Local Path creator for Ruby
-- [ ] Statosio for Elementor
-- [ ] Options Validatior for Javascript
-
 
 On this Page you can find a selection of my Open-Source Work. In Terms of Programming Languages and Libraries this selection is kind of representativ. I usally work with a bigger variety of tools.
 <br>
