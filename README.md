@@ -12,9 +12,13 @@ user_name = 'a' + a.length.to_s + 'b' + b.length.to_s
 ```
 
 ## Release Sommer 2021
-- [x] Statosio.rb
-- [x] Statosio.wp
-- [x] Statosio Helpers
+- [x] Statosio for ruby (June 2021)
+- [x] Statosio for wordpress (June 2021)
+- [x] Statosio Helpers (June 2021)
+- [ ] Invoice Generator for Ruby
+- [ ] Local Path creator for Ruby
+- [ ] Statosio for Elementor
+- [ ] Options Validatior for Javascript
 
 
 On this Page you can find a selection of my Open-Source Work. In Terms of Programming Languages and Libraries this selection is kind of representativ. I usally work with a bigger variety of tools.
