@@ -1,11 +1,12 @@
 ## Release Sommer 2021
 - [x] [Statosio for ruby (June 2021)](https://github.com/a6b8/statosio.rb)
 - [x] [Statosio for wordpress (June 2021)](https://github.com/a6b8/statosio.wp)
-- [x] Statosio Helpers (June 2021)
+- [x] [Statosio Helpers (June 2021)](https://github.com/a6b8/statosio-tooolbox)
 - [ ] Invoice Generator for Ruby
 - [ ] Local Path creator for Ruby
 - [ ] Statosio for Elementor
 - [ ] Options Validatior for Javascript
+- [ ] Blockchain ETL Documentation
 
 
 <img src="assets/welcome-1.png" height="70" />
