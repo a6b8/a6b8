@@ -4,6 +4,7 @@ My mission is to share all my internal used code snippets with the world. Rewrit
 - [x] [Statosio for ruby (June 2021)](https://github.com/a6b8/statosio.rb)
 - [x] [Statosio for wordpress (June 2021)](https://github.com/a6b8/statosio.wp)
 - [x] [Statosio Helpers (June 2021)](https://github.com/a6b8/statosio-tooolbox)
+- [ ] AsciiToSvg Generator for ruby
 - [ ] Invoice Generator for Ruby
 - [ ] Local Path creator for Ruby
 - [ ] XML Tree Renderer
