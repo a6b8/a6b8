@@ -1,8 +1,8 @@
 ## Release Sommer 2021
 My mission is to share all my internal used code snippets with the world. Rewrite the code to modules and add a proper documentation.
 
-- [x] [Statosio for ruby (June 2021)](https://github.com/a6b8/statosio.rb)
-- [x] [Statosio for wordpress (June 2021)](https://github.com/a6b8/statosio.wp)
+- [x] [Statosio for ruby (June 2021)](https://github.com/a6b8/statosio-for-ruby)
+- [x] [Statosio for wordpress (June 2021)](https://github.com/a6b8/statosio-for-wordpress)
 - [x] [Statosio Sandbox (June 2021)](https://github.com/a6b8/statosio-sandbox)
 - [x] [Ascii-To-Svg Generator for ruby (June 2021)](https://github.com/a6b8/ascii-to-svg-generator-for-ruby)
 - [ ] Invoice Generator for Ruby
