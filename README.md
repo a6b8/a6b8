@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/ascii-to-svg-for-ruby/readme/headlines/test1.svg" height="60px" banner="Welcome">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/release-sommer.svg" height="60px" banner="Release Sommer">
 
 ## Release Sommer 2021
 My mission is to share all my internal used code snippets with the world. Rewrite the code to modules and add a proper documentation.
@@ -20,7 +20,7 @@ My mission is to share all my internal used code snippets with the world. Rewrit
 - [ ] Blockchain ETL Documentation
 
 
-<img src="assets/welcome-1.png" height="70" />
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/welcome.svg" height="60px" banner="Welcome">
 
 ```Ruby
 ords = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
@@ -38,6 +38,7 @@ On this Page you can find a selection of my Open-Source Work. In Terms of Progra
 <br>
 <br>
 <img src="assets/overview-1.png" height="60" />
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/overview.svg" height="60px" banner="Overview">
 
 | **Github Stats** | **Languages** |
 | :-- | :-- |
@@ -45,7 +46,7 @@ On this Page you can find a selection of my Open-Source Work. In Terms of Progra
 
 <br>
 <br>
-<img src="assets/open-source-projects-1.png" height="60" />
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/open-source-projects.svg" height="60px" banner="Open Source Projects">
 
 > Here is a list of some of my open source projects. Feel free to reach out, send pull request or give feedback.
 
@@ -59,6 +60,5 @@ On this Page you can find a selection of my Open-Source Work. In Terms of Progra
 | 2018 | Placeholder Webpage for Docker | Highly flexible Placeholder / Fallback Node.js Webservver as a Docker Image, optimized for Rancher and Docker-Compose. | Final | ```Docker-Compose```, ```Javascript```, ```Node.js```, ```p5.js```, ```Rancher``` | <ul><li>[Github: Repository](https://github.com/a6b8/placeholder-webpage-docker)</ul></li> | 
 | 2018 | YAML Generator | Visual YAML Generator for creating a Boilerplate Loadbalancing & Port Routing Infrastructure | Deprecated | ```Docker-Compose```, ```Javascript```, ```p5.js```, ```Rancher```, ```YAML``` | <ul><li>[Github: Repository](https://github.com/a6b8/yaml-generator-loadbalancer)</ul></li> | 
 
-## Support my Work
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/support-my-work.svg" height="60px" banner="Support my Work">
 Donate by [Paypal](https://www.paypal.com/donate?hosted_button_id=XKYLQ9FBGC4RG)
-
