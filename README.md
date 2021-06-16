@@ -7,6 +7,10 @@ My mission is to share all my internal used code snippets with the world. Rewrit
 - [x] [Ascii to Svg Generator for Ruby (June 2021)](https://github.com/a6b8/ascii-to-svg-generator-for-ruby)
 - [ ] Invoice Generator for Ruby
 - [ ] Local Path creator for Ruby
+- [ ] Create Calendar
+- [ ] Merge pdf
+- [ ] Footer pdf
+- [ ] Digital Ocean Quick Function
 - [ ] XML Tree Renderer
 - [ ] Statosio for Elementor
 - [ ] Options Validatior for Javascript
