@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/release-sommer.svg" height="60px" banner="Release Sommer">
 
-## Release Sommer 2021
 My mission is to share all my internal used code snippets with the world. Rewrite the code to modules and add a proper documentation.
 
 - [x] [Statosio for Ruby (June 2021)](https://github.com/a6b8/statosio-for-ruby)
@@ -18,8 +17,9 @@ My mission is to share all my internal used code snippets with the world. Rewrit
 - [ ] Statosio for Elementor
 - [ ] Options Validatior for Javascript
 - [ ] Blockchain ETL Documentation
-
-
+<br>
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/welcome.svg" height="60px" banner="Welcome">
 
 ```Ruby
@@ -37,13 +37,12 @@ On this Page you can find a selection of my Open-Source Work. In Terms of Progra
 <br>
 <br>
 <br>
-<img src="assets/overview-1.png" height="60" />
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/overview.svg" height="60px" banner="Overview">
 
 | **Github Stats** | **Languages** |
 | :-- | :-- |
 | ![overview](https://github-readme-stats.vercel.app/api?username=a6b8&show_icons=true&hide_title=true&icon_color=CAD1D8&text_color=CAD1D8&bg_color=0E1116&hide_border=true&title_color=6CCF64) | ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a6b8&langs_count=8&show_icons=true&hide_title=true&icon_color=CAD1D8&text_color=CAD1D8&bg_color=0E1116&hide_border=true&title_color=CAD1D8&layout=compact) |
-
+<br>
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/open-source-projects.svg" height="60px" banner="Open Source Projects">
