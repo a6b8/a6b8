@@ -10,6 +10,7 @@ MarkdownTitlesToSvg.generate(
     markdowns,
     'a6b8',
     {
+        style__color__default: '#5F93DC'
         #font__source__google_fonts__name: 'Alfa Slab One'
     }
 )
