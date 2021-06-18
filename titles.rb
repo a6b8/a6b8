@@ -9,5 +9,7 @@ markdowns = [
 MarkdownTitlesToSvg.generate( 
     markdowns,
     'a6b8',
-    {}
+    {
+        font__source__google_fonts__name: 'Alfa Slab One'
+    }
 )
