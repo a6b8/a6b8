@@ -13,7 +13,7 @@ MarkdownTitlesToSvg.generate(
         font__google_fonts__h1__name: 'Courgette',
         #style__color__default: '#EA8872'
         style__h1__color__default: '#EA8872',
-        style__default__stroke__weight: 10px,
+        style__default__stroke__weight: '10px',
         style__default__color__default: '#EA8872'
         #font__source__google_fonts__name: 'Alfa Slab One'
     }
