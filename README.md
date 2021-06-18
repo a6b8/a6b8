@@ -20,7 +20,7 @@ My mission is to share all my internal used code snippets with the world. Rewrit
 <br>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/welcome.svg" height="60px" banner="Welcome">
+<img href="#pookie" src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/welcome.svg" height="60px" banner="Welcome">
 
 ```Ruby
 ords = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
