@@ -19,7 +19,6 @@ My mission is to share all my internal used code snippets with the world. Rewrit
 - [ ] Blockchain ETL Documentation
 <br>
 <br>
-<br>
 <img href="#pookie" src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/welcome.svg" height="60px" banner="Welcome">
 
 ```Ruby
