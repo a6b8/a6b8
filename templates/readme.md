@@ -1,0 +1,42 @@
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/templates/readme/headlines/Headline.svg" height="55px" alt="Headline">
+
+Short Description Text 
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/templates/readme/headlines/examples.svg" height="55px" alt="Examples">
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/templates/readme/headlines/quickstart.svg" height="55px" alt="Quickstart">
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/templates/readme/headlines/parameters.svg" height="55px" alt="Parameters">
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/templates/readme/headlines/options.svg" height="55px" alt="Options">
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/templates/readme/headlines/contributing.svg" height="55px" alt="Contributing">
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/a6b8/statosio-for-wordpress. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/a6b8/statosio/blob/master/CODE_OF_CONDUCT.md).
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/templates/readme/headlines/license.svg" height="55px" alt="License">
+
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/templates/readme/headlines/code-of-conduct.svg" height="55px" alt="Code of Conduct">
+    
+Everyone interacting in the Statosio project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/a6b8/templates/blob/master/CODE_OF_CONDUCT.md).
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/templates/readme/headlines/support-my-work.svg" height="55px" alt="Support my Work">
+    
+Donate by [https://www.paypal.com](https://www.paypal.com/donate?hosted_button_id=XKYLQ9FBGC4RG)
