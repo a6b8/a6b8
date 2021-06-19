@@ -1,3 +1,17 @@
+<img href="#pookie" src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/welcome.svg" height="55px" alt="Welcome">
+
+```Ruby
+ords = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
+chars = ords
+  .reject { | n | n==32 }
+  .map { | n | n.chr }
+a, b = chars.slice!( 1...ords.index( 32 ) ), chars.slice( 2.. )
+user_name = 'a' + a.length.to_s + 'b' + b.length.to_s
+
+# > a6b8
+```
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/release-sommer.svg" height="55px" alt="# Release Sommer">
 
 My mission is to share all my internal used code snippets with the world. Rewrite the code to modules and add a proper documentation.
@@ -17,23 +31,9 @@ My mission is to share all my internal used code snippets with the world. Rewrit
 - [ ] Statosio for Elementor
 - [ ] Options Validatior for Javascript
 - [ ] Blockchain ETL Documentation
-<br>
-<br>
-<img href="#pookie" src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/welcome.svg" height="55px" alt="Welcome">
 
-```Ruby
-ords = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
-chars = ords
-  .reject { | n | n==32 }
-  .map { | n | n.chr }
-a, b = chars.slice!( 1...ords.index( 32 ) ), chars.slice( 2.. )
-user_name = 'a' + a.length.to_s + 'b' + b.length.to_s
-
-# > a6b8
-```
 
 On this Page you can find a selection of my Open-Source Work. In Terms of Programming Languages and Libraries this selection is kind of representativ. I usally work with a bigger variety of tools.
-<br>
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/overview.svg" height="55px" alt="Overview">
