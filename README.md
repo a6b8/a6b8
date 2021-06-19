@@ -1,4 +1,4 @@
-<img href="#pookie" src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/welcome.svg" height="55px" alt="Welcome">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/welcome.svg" height="55px" alt="# Welcome">
 
 ```Ruby
 ords = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
