@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/Headline.svg" height="55px" alt="Headline">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/Headline.svg" height="55px" alt="# Headline">
 
 Short Description Text 
 <br>
