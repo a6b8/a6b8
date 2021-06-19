@@ -7,7 +7,8 @@ markdowns = [
     'https://raw.githubusercontent.com/a6b8/statosio-for-wordpress/main/README.md',
     'https://raw.githubusercontent.com/a6b8/statosio.js/main/README.md',
     'https://raw.githubusercontent.com/a6b8/statosio-sandbox/main/README.md',
-    'https://raw.githubusercontent.com/a6b8/a6b8/main/templates/readme.md'
+    'https://raw.githubusercontent.com/a6b8/a6b8/main/templates/readme.md',
+    'https://raw.githubusercontent.com/a6b8/markdown-titles-to-svg-for-ruby/main/README.md'
 ]
 
 MarkdownTitlesToSvg.generate( 
