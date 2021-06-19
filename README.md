@@ -62,3 +62,5 @@ On this Page you can find a selection of my Open-Source Work. In Terms of Progra
 <br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/support-my-work.svg" height="55px" alt="Support my Work">
 Donate by [Paypal](https://www.paypal.com/donate?hosted_button_id=XKYLQ9FBGC4RG)
+
+Links: [Ruby Gems](https://rubygems.org/profiles/a6b8)
