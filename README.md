@@ -23,10 +23,9 @@ My mission is to share all my internal used code snippets with the world. Rewrit
 - [x] [Markdown Titles to Svg for Ruby (June 2021)](https://github.com/a6b8/markdown-titles-to-svg-for-ruby)
 - [ ] On-Chain Ascii Validator Webform
 - [ ] Invoice Generator for Ruby
-- [ ] [Local Path Builder for Ruby (June 2021)](https://github.com/a6b8/local-path-builder-for-ruby)
+- [x] [Local Path Builder for Ruby (June 2021)](https://github.com/a6b8/local-path-builder-for-ruby)
 - [ ] Create Calendar
-- [ ] Merge pdf
-- [ ] Footer pdf
+- [ ] [Images with Footer to pdf (June 2021)]()
 - [ ] Digital Ocean Quick Function
 - [ ] XML Tree Renderer
 - [ ] Statosio for Elementor
