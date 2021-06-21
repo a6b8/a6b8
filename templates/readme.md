@@ -21,9 +21,10 @@ Short Description Text
 1. [Options](#options)<br>
 1. [Contributing](#contributing)<br>
 2. [Limitations](#limitations)<br>
-3. [License](#license)<br>
-4. [Code of Conduct](#code-of-conduct)<br>
-5. [Support my Work](#support-my-work)<br>
+3. [Credits](#credits)<br>
+4. [License](#license)<br>
+5. [Code of Conduct](#code-of-conduct)<br>
+6. [Support my Work](#support-my-work)<br>
 
 <br>
 <br>
@@ -104,6 +105,12 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/a6b8/[
 <br>
 <a href="#table-of-contents">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/limitations.svg" height="55px" name="limitations" alt="Limitations">
+</a>
+<br>
+<br>
+<br>
+<a href="#table-of-contents">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/credits.svg" height="55px" name="credits" alt="Credits">
 </a>
 <br>
 <br>
