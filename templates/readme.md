@@ -12,15 +12,15 @@ Short Description Text
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/table-of-contents.svg" height="55px" name="quickstart" alt="Table of Contents">
-[Headline](#headline)
-[Examples](#examples)
-[Quickstart](#quickstart)
-[Parameters](#parameters)
-[Options](#options)
-[Contributing](#contributing)
-[License](#license)
-[Code of Conduct](#code-of-conduct)
-[Support my Work](#support-my-work)
+[Headline](#headline)<br>
+[Examples](#examples)<br>
+[Quickstart](#quickstart)<br>
+[Parameters](#parameters)<br>
+[Options](#options)<br>
+[Contributing](#contributing)<br>
+[License](#license)<br>
+[Code of Conduct](#code-of-conduct)<br>
+[Support my Work](#support-my-work)<br>
 <br>
 <br>
 <br>
