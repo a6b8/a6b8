@@ -9,8 +9,6 @@ CHANGE VARIALBES
 | 5 | [GITHUB_USERNAME] | "a6b8" |
 
 <-- START HERE -->
-
-
 <a href="#table-of-contents">
 <img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/Headline.svg" height="55px" name="headline" alt="# Headline">
 </a>
@@ -123,13 +121,16 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[GITHU
 <br>
 <br>
 <br>
+
 <a href="#table-of-contents">
 <img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/credits.svg" height="55px" name="credits" alt="Credits">
 </a>
+
 - Test
 <br>
 <br>
 <br>
+
 <a href="#table-of-contents">
 <img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/license.svg" height="55px" name="license" alt="License">
 </a>
