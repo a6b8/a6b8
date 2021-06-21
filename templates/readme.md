@@ -1,5 +1,18 @@
+CHANGE VARIALBES
+
+| NR | REPLACE | Example |
+| :--- | :--- | :--- |
+| 1 | [REPOSITORY_DEST] | "documents-with-footer-to-pdf"|
+| 2 | [REPOSITORY_ORIGIN] | "a6b8" |
+| 3 |  test | test |
+| 4 | [GITHUB_RAW] | "https://raw.githubusercontent.com/" |
+| 5 | [GITHUB_USERNAME] | "a6b8" |
+
+<-- START HERE -->
+
+
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/Headline.svg" height="55px" name="headline" alt="# Headline">
+<img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/Headline.svg" height="55px" name="headline" alt="# Headline">
 </a>
 
 Short Description Text 
@@ -7,29 +20,29 @@ Short Description Text
 <br>
 <br>
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/examples.svg" height="55px" name="examples" alt="Examples">
+<img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/examples.svg" height="55px" name="examples" alt="Examples">
 </a>
 <br>
 <br>
 <br>
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/table-of-contents.svg" height="55px" name="table-of-contents" alt="Table of Contents">
+<img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/table-of-contents.svg" height="55px" name="table-of-contents" alt="Table of Contents">
 </a>
 <br>
 1. [Quickstart](#quickstart)<br>
-1. [Parameters](#parameters)<br>
-1. [Options](#options)<br>
-1. [Contributing](#contributing)<br>
-2. [Limitations](#limitations)<br>
-3. [Credits](#credits)<br>
-4. [License](#license)<br>
-5. [Code of Conduct](#code-of-conduct)<br>
-6. [Support my Work](#support-my-work)<br>
+2. [Parameters](#parameters)<br>
+3. [Options](#options)<br>
+4. [Contributing](#contributing)<br>
+5. [Limitations](#limitations)<br>
+6. [Credits](#credits)<br>
+7. [License](#license)<br>
+8. [Code of Conduct](#code-of-conduct)<br>
+9. [Support my Work](#support-my-work)<br>
 
 <br>
 <br>
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/quickstart.svg" height="55px" name="quickstart" alt="Quickstart">
+<img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/quickstart.svg" height="55px" name="quickstart" alt="Quickstart">
 </a>
 
 ```ruby
@@ -38,7 +51,7 @@ Short Description Text
 <br>
 <br>
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/local-path-builder-for-ruby/readme/headlines/setup.svg" height="55px" name="setup" alt="Setup">
+<img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/local-path-builder-for-ruby/readme/headlines/setup.svg" height="55px" name="setup" alt="Setup">
 </a>
 
 Add this line to your application's Gemfile:
@@ -63,7 +76,7 @@ On Rubygems:
 <br>
 <br>
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/methods.svg" height="55px" name="methods" alt="Methods">
+<img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/methods.svg" height="55px" name="methods" alt="Methods">
 </a>
 
 ### .example()
@@ -91,34 +104,34 @@ Hash
 <br>
 <br>
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/options.svg" height="55px" name="options" alt="Options">
+<img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/options.svg" height="55px" name="options" alt="Options">
 </a>
 <br>
 <br>
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/contributing.svg" height="55px" name="contributing" alt="Contributing">
+<img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/contributing.svg" height="55px" name="contributing" alt="Contributing">
 </a>
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/a6b8/[REPOSITORY]. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/a6b8/[REPOSITORY]/blob/master/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/[GITHUB_USERNAME]/[REPOSITORY_DEST]. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[GITHUB_USERNAME]/[REPOSITORY_DEST]/blob/master/CODE_OF_CONDUCT.md).
 <br>
 <br>
 <br>
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/limitations.svg" height="55px" name="limitations" alt="Limitations">
+<img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/limitations.svg" height="55px" name="limitations" alt="Limitations">
 </a>
 - Test
 <br>
 <br>
 <br>
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/credits.svg" height="55px" name="credits" alt="Credits">
+<img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/credits.svg" height="55px" name="credits" alt="Credits">
 </a>
 - Test
 <br>
 <br>
 <br>
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/license.svg" height="55px" name="license" alt="License">
+<img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/license.svg" height="55px" name="license" alt="License">
 </a>
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
@@ -126,15 +139,15 @@ The gem is available as open source under the terms of the [MIT License](https:/
 <br>
 <br>
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/code-of-conduct.svg" height="55px" name="code-of-conduct" alt="Code of Conduct">
+<img src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/code-of-conduct.svg" height="55px" name="code-of-conduct" alt="Code of Conduct">
 </a>
     
-Everyone interacting in the [REPOSITORY] project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/a6b8/[REPOSITORY]/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the [REPOSITORY_DEST] project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[GITHUB_USERNAME]/[REPOSITORY_DEST]/blob/master/CODE_OF_CONDUCT.md).
 <br>
 <br>
 <br>
 <a href="#table-of-contents">
-<img href="#table-of-contents" src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/support-my-work.svg" height="55px" name="support-my-work" alt="Support my Work">
+<img href="#table-of-contents" src="[GITHUB_RAW]/[GITHUB_USERNAME]/[REPOSITORY_ORIGIN]/main/docs/[REPOSITORY_DEST]/readme/headlines/support-my-work.svg" height="55px" name="support-my-work" alt="Support my Work">
 </a>
     
 Donate by [https://www.paypal.com](https://www.paypal.com/donate?hosted_button_id=XKYLQ9FBGC4RG)
