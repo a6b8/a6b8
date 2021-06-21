@@ -51,6 +51,6 @@ Everyone interacting in the Statosio project's codebases, issue trackers, chat r
 <br>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/support-my-work.svg" height="55px" name="support-my-work" alt="Support my Work">
+<img href="#table-of-contents" src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/support-my-work.svg" height="55px" name="support-my-work" alt="Support my Work">
     
 Donate by [https://www.paypal.com](https://www.paypal.com/donate?hosted_button_id=XKYLQ9FBGC4RG)
