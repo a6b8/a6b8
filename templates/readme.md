@@ -11,15 +11,15 @@ Short Description Text
 <br>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/table-of-contents.svg" height="55px" name="quickstart" alt="Table of Contents"><br>
-- [Quickstart](#quickstart)<br>
-- [Parameters](#parameters)<br>
-- [Options](#options)<br>
-- [Contributing](#contributing)<br>
-- [License](#license)<br>
-- [Code of Conduct](#code-of-conduct)<br>
-- [Support my Work](#support-my-work)<br>
-<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/table-of-contents.svg" height="55px" name="table-of-contents" alt="Table of Contents"><br>
+1. [Quickstart](#quickstart)<br>
+1. [Parameters](#parameters)<br>
+1. [Options](#options)<br>
+1. [Contributing](#contributing)<br>
+1. [License](#license)<br>
+1. [Code of Conduct](#code-of-conduct)<br>
+1. [Support my Work](#support-my-work)<br>
+
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/[REPOSITORY]/readme/headlines/quickstart.svg" height="55px" name="quickstart" alt="Quickstart">
