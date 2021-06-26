@@ -11,10 +11,6 @@ user_name = 'a' + a.length.to_s + 'b' + b.length.to_s
 # > a6b8
 ```
 
-## Hack Money - Hackathon
-On-Chain Ascii Validator Webform
-<br>
-<br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/release-sommer.svg" height="55px" alt="Release Sommer">
 
 My mission is to share all my internal used code snippets with the world. Rewrite the code to modules and add a proper documentation.
