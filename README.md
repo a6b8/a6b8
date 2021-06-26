@@ -20,7 +20,7 @@ My mission is to share all my internal used code snippets with the world. Rewrit
 - [x] [Statosio Sandbox (June 2021)](https://github.com/a6b8/statosio-sandbox)
 - [x] [Ascii to Svg Generator for Ruby (June 2021)](https://github.com/a6b8/ascii-to-svg-generator-for-ruby)
 - [x] [Markdown Titles to Svg for Ruby (June 2021)](https://github.com/a6b8/markdown-titles-to-svg-for-ruby)
-- [ ] [On-Chain Ascii Validator Webform (June 2021)](/Users/andreasbanholzer/PROJEKTE/2021-05-27--github-profile/2/a6b8)
+- [ ] [On-Chain Ascii Validator Webform (June 2021)](https://github.com/a6b8/art-validator-for-nft-projects)
 - [ ] Invoice Generator for Ruby
 - [x] [Local Path Builder for Ruby (June 2021)](https://github.com/a6b8/local-path-builder-for-ruby)
 - [ ] Create Calendar
