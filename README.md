@@ -28,7 +28,7 @@ My mission is to share all my internal used code snippets with the world. Rewrit
 - [ ] Digital Ocean Quick Function
 - [ ] XML Tree Renderer
 - [ ] Statosio for Elementor
-- [ ] Options Validatior for Javascript
+- [ ] Options Validatior for Ruby
 - [ ] Monitor Uniswap Pairs
 
 
