@@ -10,7 +10,8 @@ markdowns = [
     #'https://raw.githubusercontent.com/a6b8/a6b8/main/templates/readme.md',
     'https://raw.githubusercontent.com/a6b8/markdown-titles-to-svg-for-ruby/main/README.md',
     'https://raw.githubusercontent.com/a6b8/local-path-builder-for-ruby/main/README.md',
-    'https://raw.githubusercontent.com/a6b8/documents-with-footer-to-pdf-for-ruby/main/README.md'
+    'https://raw.githubusercontent.com/a6b8/documents-with-footer-to-pdf-for-ruby/main/README.md',
+    'https://raw.githubusercontent.com/a6b8/xml-tree-viewer-for-ruby/main/README.md'
 ]
 
 
