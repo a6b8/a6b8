@@ -26,7 +26,7 @@ My mission is to share all my internal used code snippets with the world. Rewrit
 - [ ] Create Calendar
 - [x] [Documents with Footer to pdf for Ruby (June 2021)](https://github.com/a6b8/documents-with-footer-to-pdf-for-ruby)
 - [ ] Digital Ocean Quick Function
-- [ ] XML Tree Renderer
+- [x] [XML Tree Renderer](https://github.com/a6b8/xml-tree-viewer-for-ruby)
 - [ ] Statosio for Elementor
 - [ ] Options Validatior for Ruby
 - [ ] Monitor Uniswap Pairs
