@@ -5,7 +5,7 @@ hash = {
   params: {
     repo_dest: {
       gsub: "[REPOSITORY_DEST]",
-      text: "documents-with-footer-to-pdf"
+      text: "xml-tree-viewer-for-ruby"
     },
     repo_origin: {
       gsub: "[REPOSITORY_ORIGIN]",
