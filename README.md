@@ -21,7 +21,7 @@ My mission is to share all my internal used code snippets with the world. Rewrit
 - [x] [Ascii to Svg Generator for Ruby (June 2021)](https://github.com/a6b8/ascii-to-svg-generator-for-ruby)
 - [x] [Markdown Titles to Svg for Ruby (June 2021)](https://github.com/a6b8/markdown-titles-to-svg-for-ruby)
 - [ ] [On-Chain Ascii Validator Webform (June 2021)](https://github.com/a6b8/art-validator-for-nft-projects)
-- [ ] Invoice Generator for Ruby
+- [ ] [Invoice Generator for Ruby(July 2021)](https://github.com/a6b8/invoice-builder-for-ruby)
 - [x] [Local Path Builder for Ruby (June 2021)](https://github.com/a6b8/local-path-builder-for-ruby)
 - [ ] Create Calendar
 - [x] [Documents with Footer to pdf for Ruby (June 2021)](https://github.com/a6b8/documents-with-footer-to-pdf-for-ruby)
