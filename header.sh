@@ -1,4 +1,4 @@
-echo 'Github Overview'
+echo '> Github Overview'
 
 if [[ -d "./__generate/node_modules" ]];
 then
@@ -8,5 +8,5 @@ else
 fi
 
 echo '> Header'
-rube ./__generate/heaader.rb
+ruby ./__generate/header.rb
 node ./__generate/header-check.js

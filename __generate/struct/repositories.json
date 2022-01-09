@@ -8,106 +8,106 @@
         }
     },
     "types": {
-        "ruby": "🟥",
-        "javascript": "🟩",
-        "php": "🟦",
+        "ruby": "🍒",
+        "javascript": "🍏",
+        "php": "🫐",
         "docs": "📖"
     },
     "projects": [
         {
-        "type": "ruby",
-        "name": "Masked Ape Club for Ruby",
-        "github": "masked-ape-club-for-ruby",
-        "docs": true,
-        "gem": "masked_ape_club",
-        "circle_ci": "1"
+            "type": "ruby",
+            "name": "Masked Ape Club for Ruby",
+            "github": "masked-ape-club-for-ruby",
+            "docs": true,
+            "gem": "masked_ape_club",
+            "circle_ci": "1"
         },
         {
-        "type": "ruby",
-        "name": "Feed Into for Ruby",
-        "github": "feed-into-for-ruby",
-        "docs": true,
-        "gem": "feed_into",
-        "circle_ci": "1"
+            "type": "ruby",
+            "name": "Feed Into for Ruby",
+            "github": "feed-into-for-ruby",
+            "docs": true,
+            "gem": "feed_into",
+            "circle_ci": "1"
         },
         {
-        "type": "ruby",
-        "name": "Console Hash Array for Ruby",
-        "github": "console-hash-array-for-ruby",
-        "docs": true,
-        "gem": "console_hash_array",
-        "circle_ci": "1"
+            "type": "ruby",
+            "name": "Console Hash Array for Ruby",
+            "github": "console-hash-array-for-ruby",
+            "docs": true,
+            "gem": "console_hash_array",
+            "circle_ci": "1"
         },
         {
-        "type": "ruby",
-        "name": "Write Invoice for Ruby",
-        "github": "write-invoice-for-ruby",
-        "docs": true,
-        "gem": "write_invoice",
-        "circle_ci": "1"
+            "type": "ruby",
+            "name": "Write Invoice for Ruby",
+            "github": "write-invoice-for-ruby",
+            "docs": true,
+            "gem": "write_invoice",
+            "circle_ci": "1"
         },
         {
-        "type": "ruby",
-        "name": "Statosio for Ruby",
-        "github": "statosio-for-ruby",
-        "docs": true,
-        "gem": "statosio",
-        "circle_ci": "1"
+            "type": "ruby",
+            "name": "Statosio for Ruby",
+            "github": "statosio-for-ruby",
+            "docs": true,
+            "gem": "statosio",
+            "circle_ci": "1"
         },
         {
-        "type": "ruby",
-        "name": "Ascii to svg Generator for Ruby",
-        "github": "ascii-to-svg-generator-for-ruby",
-        "docs": true,
-        "gem": "ascii_to_svg",
-        "circle_ci": "1"
+            "type": "ruby",
+            "name": "Ascii to svg Generator for Ruby",
+            "github": "ascii-to-svg-generator-for-ruby",
+            "docs": true,
+            "gem": "ascii_to_svg",
+            "circle_ci": "1"
         },
         {
-        "type": "ruby",
-        "name": "Markdown Titles to svg for Ruby",
-        "github": "markdown-titles-to-svg-for-ruby",
-        "docs": true,
-        "gem": "markdown_titles_to_svg",
-        "circle_ci": "1"
+            "type": "ruby",
+            "name": "Markdown Titles to svg for Ruby",
+            "github": "markdown-titles-to-svg-for-ruby",
+            "docs": true,
+            "gem": "markdown_titles_to_svg",
+            "circle_ci": "1"
         },
         {
-        "type": "ruby",
-        "name": "Local Path Builder for Ruby",
-        "github": "local-path-builder-for-ruby",
-        "docs": true,
-        "gem": "local_path_builder",
-        "circle_ci": "1"
+            "type": "ruby",
+            "name": "Local Path Builder for Ruby",
+            "github": "local-path-builder-for-ruby",
+            "docs": true,
+            "gem": "local_path_builder",
+            "circle_ci": "1"
         },
         {
-        "type": "ruby",
-        "name": "Documents with Footer to pdf for Ruby",
-        "github": "documents-with-footer-to-pdf-for-ruby",
-        "docs": true,
-        "gem": "documents_with_footer_to_pdf",
-        "circle_ci": "1"
+            "type": "ruby",
+            "name": "Documents with Footer to pdf for Ruby",
+            "github": "documents-with-footer-to-pdf-for-ruby",
+            "docs": true,
+            "gem": "documents_with_footer_to_pdf",
+            "circle_ci": "1"
         },
         {
-        "type": "ruby",
-        "name": "Xml Tree Viewer for Ruby",
-        "github": "xml-tree-viewer-for-ruby",
-        "docs": true,
-        "gem": "xml_tree_viewer",
-        "circle_ci": "1"
+            "type": "ruby",
+            "name": "Xml Tree Viewer for Ruby",
+            "github": "xml-tree-viewer-for-ruby",
+            "docs": true,
+            "gem": "xml_tree_viewer",
+            "circle_ci": "1"
         },
         {
-        "type": "php",
-        "name": "Statosio for Wordpress",
-        "github": "statosio-for-wordpress",
-        "docs": true,
-        "circle_ci": "1"
+            "type": "php",
+            "name": "Statosio for Wordpress",
+            "github": "statosio-for-wordpress",
+            "docs": true,
+            "circle_ci": "1"
         },
         {
-        "type": "javascript",
-        "name": "Statosio for Javascript",
-        "github": "statosio-for-javascript",
-        "docs": true,
-        "js": "statosio",
-        "circle_ci": "1"
+            "type": "javascript",
+            "name": "Statosio for Javascript",
+            "github": "statosio-for-javascript",
+            "docs": true,
+            "js": "statosio",
+            "circle_ci": "1"
         }
     ],
     "theme": {
