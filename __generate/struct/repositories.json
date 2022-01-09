@@ -1,0 +1,181 @@
+{
+    "meta": {
+        "github_user": "a6b8",
+        "gem_user": "a6b8",
+        "hn_user": "Andreas_3d",
+        "image": {
+            "selector": "name"
+        }
+    },
+    "types": {
+        "ruby": "🟥",
+        "javascript": "🟩",
+        "php": "🟦",
+        "docs": "📖"
+    },
+    "projects": [
+        {
+        "type": "ruby",
+        "name": "Masked Ape Club for Ruby",
+        "github": "masked-ape-club-for-ruby",
+        "docs": true,
+        "gem": "masked_ape_club",
+        "circle_ci": "1"
+        },
+        {
+        "type": "ruby",
+        "name": "Feed Into for Ruby",
+        "github": "feed-into-for-ruby",
+        "docs": true,
+        "gem": "feed_into",
+        "circle_ci": "1"
+        },
+        {
+        "type": "ruby",
+        "name": "Console Hash Array for Ruby",
+        "github": "console-hash-array-for-ruby",
+        "docs": true,
+        "gem": "console_hash_array",
+        "circle_ci": "1"
+        },
+        {
+        "type": "ruby",
+        "name": "Write Invoice for Ruby",
+        "github": "write-invoice-for-ruby",
+        "docs": true,
+        "gem": "write_invoice",
+        "circle_ci": "1"
+        },
+        {
+        "type": "ruby",
+        "name": "Statosio for Ruby",
+        "github": "statosio-for-ruby",
+        "docs": true,
+        "gem": "statosio",
+        "circle_ci": "1"
+        },
+        {
+        "type": "ruby",
+        "name": "Ascii to svg Generator for Ruby",
+        "github": "ascii-to-svg-generator-for-ruby",
+        "docs": true,
+        "gem": "ascii_to_svg",
+        "circle_ci": "1"
+        },
+        {
+        "type": "ruby",
+        "name": "Markdown Titles to svg for Ruby",
+        "github": "markdown-titles-to-svg-for-ruby",
+        "docs": true,
+        "gem": "markdown_titles_to_svg",
+        "circle_ci": "1"
+        },
+        {
+        "type": "ruby",
+        "name": "Local Path Builder for Ruby",
+        "github": "local-path-builder-for-ruby",
+        "docs": true,
+        "gem": "local_path_builder",
+        "circle_ci": "1"
+        },
+        {
+        "type": "ruby",
+        "name": "Documents with Footer to pdf for Ruby",
+        "github": "documents-with-footer-to-pdf-for-ruby",
+        "docs": true,
+        "gem": "documents_with_footer_to_pdf",
+        "circle_ci": "1"
+        },
+        {
+        "type": "ruby",
+        "name": "Xml Tree Viewer for Ruby",
+        "github": "xml-tree-viewer-for-ruby",
+        "docs": true,
+        "gem": "xml_tree_viewer",
+        "circle_ci": "1"
+        },
+        {
+        "type": "php",
+        "name": "Statosio for Wordpress",
+        "github": "statosio-for-wordpress",
+        "docs": true,
+        "circle_ci": "1"
+        },
+        {
+        "type": "javascript",
+        "name": "Statosio for Javascript",
+        "github": "statosio-for-javascript",
+        "docs": true,
+        "js": "statosio",
+        "circle_ci": "1"
+        }
+    ],
+    "theme": {
+        "color": [ 
+            "0E1116",
+            "171B21"
+        ],
+        "logo": "F3A966",
+        "logoColor": "F3A966",
+        "style": "flat"
+    },
+    "endpoints": {
+        "cdnjs": "https://img.shields.io/cdnjs/v/{{js_name}}",
+        "cdnjs_profile": "https://cdnjs.com/libraries/{{js_name}}",
+        "circle_ci": "https://img.shields.io/circleci/build/github/{{gh_user}}/{{gh_repo}}/main",
+        "circle_ci_status": "https://circleci.com/api/v1.1/project/github/{{gh_user}}/{{gh_repo}}",
+        "gem_version": "https://img.shields.io/gem/v/{{gem_name}}",
+        "gem_downloads": "https://img.shields.io/gem/dt/{{gem_name}}",
+        "github_repo": "https://github.com/{{gh_user}}/{{gh_repo}}",
+        "github_last_commit": "https://img.shields.io/github/last-commit/{{gh_user}}/{{gh_repo}}",
+        "github_api_repo": "https://api.github.com/repos/{{gh_user}}/{{gh_repo}}",
+        "github_repo_stars": "https://img.shields.io/github/stars/{{gh_user}}/{{gh_repo}}",
+        "github_license": "https://img.shields.io/github/license/{{gh_user}}/{{gh_repo}}",
+        "hackernews_karma": "https://img.shields.io/hackernews/user-karma/{{hn_user}}",
+        "librariesio_ruby": "https://shields.io/librariesio/release/rubygems/{{gem_name}}/latest",
+        "librariesio_npm": "https://shields.io/librariesio/release/npm/{{npm_name}}/latest",
+        "ruby_gem": "https://rubygems.org/gems/{{gem_name}}",
+        "ruby_gem_count": "https://shields.io/gem/u/{{gem_user}}",
+        "shield_io": "https://img.shields.io/badge/-{{label}}-{{color}}",
+        "snyk": "https://shields.io/snyk/vulnerabilities/github/{{gh_user}}/{{gh_repo}}",
+        "toc": "#table-of-contents"
+    },
+    "style": {
+        "custom": {
+            "emoji": "🟥",
+            "font": "Trocchi",
+            "format": {
+                "text_align": "left",
+                "bold": false
+            },
+            "fill": {
+                "color": "#CAD1D8",
+                "opacity": 1.0
+            },
+            "stroke": {
+                "color": "none",
+                "width": "10px",
+                "linecap": "butt",
+                "opacity": 1.0
+            }
+        },
+        "default": {
+            "emoji": "🟧",
+            "font": "Nunito",
+            "format": {
+                "text_align": "left",
+                "bold": false
+            },
+            "fill": {
+                "color": "#CAD1D8",
+                "opacity": 1.0
+            },
+            "stroke": {
+                "color": "none",
+                "width": "10px",
+                "linecap": "butt",
+                "opacity": 1.0
+            }
+        }
+    }
+}

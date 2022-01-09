@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "name": "Statosio",
+            "url": "https://docs.statosio.com",
+            "struct": "https://github.com/a6b8/docs.statosio.com/blob/main/__generate/struct/blocks.json",
+            "doc": "https://github.com/a6b8/docs.statosio.com",
+            "lib": "https://github.com/a6b8/statosio.js",
+            "logo": "https://docs.statosio.com/assets/images/statosio.png",
+            "uptime": "m786809205-43089a21ef2cbf3c086bad86"
+        },
+        {
+            "name": "Write Invoice",
+            "url": "https://docs.writeinvoice.com",
+            "doc": "https://github.com/a6b8/write-invoice-for-ruby-documentation",
+            "struct": "https://github.com/a6b8/write-invoice-for-ruby-documentation/blob/main/__generate/struct/blocks.json",
+            "lib": "https://github.com/a6b8/write-invoice-for-ruby",
+            "logo": "https://docs.writeinvoice.com/assets/images/logo.png"
+        }
+    ],
+    "endpoints": {
+        "uptime_robot": "https://shields.io/uptimerobot/status/{{uptime_key}}"
+    }
+}
