@@ -71,11 +71,10 @@ My mission is to share all my internal used code snippets with the world. Theref
 | 🍒 [overview_markdown_table.rb](https://gist.github.com/a6b8/e9496ea255d8db40ade0cd7ac4217cee) | Overview Markdown Table | 6869 | Oct, 2021 |
 | 🍒 [shuffle_hash_of_arrays.rb](https://gist.github.com/a6b8/42724db49e52327ad12428744b0b6915) | Shuffle hash of arrays | 2812 | Oct, 2021 |
 
-
 <br>
 <br>
 
-### 📝 Dedicated Documentations
+### 📝 Documentations
 
 | Name | Struct | Pages | Tutorials | Options | Examples | Url |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

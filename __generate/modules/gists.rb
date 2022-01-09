@@ -45,7 +45,7 @@ module Gists
            # strs << "### #{table[:key]}\n"
            # strs << "\n"
             strs << table[:table]
-            strs << "\n"
+            #strs << "\n"
         end
 
         return strs
