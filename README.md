@@ -62,9 +62,9 @@ My mission is to share all my internal used code snippets with the world. Theref
 | :--- | :--- | :--- | :--- |
 | 🍒 [allow_list.rb](https://gist.github.com/a6b8/4b7276ff89b4aad7064f81b807a34f4c) | Hash to Allow/Block List Array in Ruby | 5409 | Jun, 2021 |
 | 🍒 [bump_version_number.rb](https://gist.github.com/a6b8/ca9b1b9b3f3c898c3e78da42c1fc7603) | Bump Version Number | 420 | Sep, 2021 |
-| 🍏 [compare_array_of_strings.js](https://gist.github.com/a6b8/250ee76db881b4e0ad43a992278de42d) | Array of Strings comparison.  | 2340 | Dec, 2021 |
+| 🍏 [compareArrayOfStrings.js](https://gist.github.com/a6b8/250ee76db881b4e0ad43a992278de42d) | Array of Strings comparison.  | 2340 | Jan, 2022 |
 | 🍒 [env_load.rb](https://gist.github.com/a6b8/1805414b8ff076c326f5a05de429e776) | Load  .env file without  a module | 642 | Dec, 2021 |
-| 🍏 [find-broken-links.js](https://gist.github.com/a6b8/c9459bf12f05a92d97cca87f79921396) | Find Broken Links | 862 | Jan, 2022 |
+| 🍏 [findBrokenLinks.js](https://gist.github.com/a6b8/c9459bf12f05a92d97cca87f79921396) | Find Broken Links | 862 | Jan, 2022 |
 | 🍒 [google_fonts_download.rb](https://gist.github.com/a6b8/45116327936c0edae17f8a8138efa07d) | Google Font Download as .ttf | 1862 | Oct, 2021 |
 | 🍒 [markdown_options_tables.rb](https://gist.github.com/a6b8/3f05e93bd4c73eb71d1e047d46c28cf3) | Create Option Markdown | 1715 | Jul, 2021 |
 | 🍒 [options_validation.rb](https://gist.github.com/a6b8/d2edaadcdd93fbc22fffe977079abe64) | Options Validation | 3612 | Oct, 2021 |
