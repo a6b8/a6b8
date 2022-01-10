@@ -178,7 +178,7 @@ module Repositories
     struct = {
       title: nil,
       doc: nil,
-      release: nil,
+     # release: nil,
       version: nil,
       updated: nil,
       test: nil,
@@ -189,7 +189,7 @@ module Repositories
   
     struct[:title] = title( item, obj )
     struct[:doc] = doc( item, obj )
-    struct[:release] = release( item, index, obj )
+   # struct[:release] = release( item, index, obj )
     struct[:version] = version( item, index, obj )
     struct[:stars] = stars( item, index, obj )
     struct[:space] = space( item, index, obj )
@@ -221,7 +221,15 @@ module Repositories
     end
     
     
-    [ :title, :doc, :version, :statistics, :updated, :test ].each do | key |
+    [ 
+      :title, 
+      :doc, 
+      #:release, 
+      :version, 
+      :statistics, 
+      :updated, 
+      :test 
+    ].each do | key |
       str = nil
       
       if !item[ key ].nil?
