@@ -15,6 +15,7 @@ user_name = "a#{a.length}b#{b.length}"
 
 
 ```console
+$ whois andreas.dev
 
                         `:////:.                       andreas@local
                     -//sydMdh.://////:.`               -------------------
