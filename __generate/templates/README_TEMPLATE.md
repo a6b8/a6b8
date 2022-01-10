@@ -74,7 +74,8 @@ On this Page you can find a selection of my open-source work. In terms of progra
 ## 🤸🏻 Last Activties
 
 ### Coding
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Github
 <!--START_SECTION:activity-->
