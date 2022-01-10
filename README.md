@@ -13,6 +13,27 @@ user_name = "a#{a.length}b#{b.length}"
 # > a6b8
 ```
 
+
+```console
+                    'c.          andreasbanholzer@itsaMe-4.local 
+                 ,xNMM.          ------------------------------- 
+               .OMMMMo           OS: macOS 11.6 20G165 x86_64 
+               OMMM0,            Host: MacBookPro13,2 
+     .;loddo:' loolloddol;.      Kernel: 20.6.0 
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 3 days, 7 hours, 55 mins 
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 259 (brew) 
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.8 
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1440x900@2x 
+:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua 
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Quartz Compositor 
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Graphite (Dark) 
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal: Apple_Terminal 
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   Terminal Font: MesloLGMForPowerline-Regula 
+    kMMMMMMMMMMMMMMMMMMMMMMd     CPU: Intel i7-6567U (4) @ 3.30GHz 
+     ;KMMMMMMMWXXWMMMMMMMk.      GPU: Intel Iris Graphics 550 
+       .cooc,.    .,coo:.        Memory: 9741MiB / 16384MiB 
+```
+
 On this Page you can find a selection of my open-source work. In terms of programming languages and libraries this selection is kind of representativ. I usally work with a bigger variety of tools.
 
 <a href="#language">
