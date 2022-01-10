@@ -333,11 +333,15 @@ module Repositories
                             .gsub( '{{gh_repo}}', current[:github] )
                         str = a( str, url )
                     when :vulnerabilities
-                        str = image( item[ key] )
-                        # url = obj[:endpoints][:github_license_link]
-                        #     .gsub( '{{gh_user}}', obj[:meta][:github_user] )
-                        #     .gsub( '{{gh_repo}}', current[:github] )
-                        str = a( str )              
+                        if [ :ruby, :javascript ].includes? current[:type]
+                            str = image( item[ key] )
+                            # url = obj[:endpoints][:github_license_link]
+                            #     .gsub( '{{gh_user}}', obj[:meta][:github_user] )
+                            #     .gsub( '{{gh_repo}}', current[:github] )
+                            str = a( str )  
+                        else
+                            str = ''
+                        end
                     else
                 end
             end
