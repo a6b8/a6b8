@@ -354,14 +354,19 @@ module Repositories
         str = a( str, u )
     
         #space = image( item[:space] )
-        space = a( '📈', item[:space])
+        space = a( '📈', item[:space] )
     
         !item[ :statistics ].eql?( ' ' ) ? str = space + str : str = space
         item[ :statistics ]
             .insert( 0, str )
+
+        item[ :test ]
+            .insert( 0, item[:vulnerabilities] )
         
         item.except!( :stars ) 
-        item.except!( :space ) 
+        item.except!( :space )
+        item.except!( :vulnerabilities ) 
+        
         return item
     end
   
