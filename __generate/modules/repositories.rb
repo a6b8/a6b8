@@ -183,6 +183,16 @@ module Repositories
 
             return result
         end
+
+
+        def self.vulnerabilities( item, index, obj )
+            result = obj[:endpoints][:snyk]
+                .gsub( '{{gh_user}}', obj[:meta][:github_user] )
+                .gsub( '{{gh_repo}}', item[:github] )
+            result.concat( theme( index, obj, { token: item[:circle_ci], label: '' } ) )
+
+            return result
+        end
       
     
         struct = {
@@ -193,7 +203,8 @@ module Repositories
             updated: nil,
             test: nil,
             statistics: nil,
-            license: nil
+            license: nil,
+            vulnerabilities: nil
         }
   
         item[:type] = item[:type].to_sym
@@ -208,6 +219,7 @@ module Repositories
         struct[:updated] = updated( item, index, obj )
         struct[:test] = test( item, index, obj )
         struct[:license] = license( item, index, obj )
+        struct[:vulnerabilities] = vulnerabilities( item, index, obj )
         
         return struct
     end
@@ -319,6 +331,12 @@ module Repositories
                             .gsub( '{{gh_user}}', obj[:meta][:github_user] )
                             .gsub( '{{gh_repo}}', current[:github] )
                         str = a( str, url )
+                    when :vulnerabilities
+                        str = image( item[ key] )
+                        # url = obj[:endpoints][:github_license_link]
+                        #     .gsub( '{{gh_user}}', obj[:meta][:github_user] )
+                        #     .gsub( '{{gh_repo}}', current[:github] )
+                        str = a( str, '' )                    
                     else
                 end
             end
