@@ -108,8 +108,8 @@ module Gists
                     str = " #{row[:updated]} |"
                     c.push( str )
                 when 'Size'
-                    str = " #{row[:size]} |"
-                    c.push( str )
+                    #str = " #{row[:size]} |"
+                    #c.push( str )
                 end
             end
 
