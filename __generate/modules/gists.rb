@@ -90,7 +90,7 @@ module Gists
 
     def self.create_table( struct )
         strs = ''
-        columns = [ 'Name', 'Description', 'Size', 'Updated' ]
+        columns = [ 'Name', 'Description', 'Updated' ]
         strs << columns.map { | a |  " #{a} |" }.join( '' ).insert( 0, '|' ).concat( "\n" )
         strs << columns.map { | a |  " :--- |" }.join( '' ).insert( 0, '|' ).concat( "\n" )
 

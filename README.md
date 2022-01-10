@@ -58,8 +58,8 @@ My mission is to share all my internal used code snippets with the world. Theref
 
 ### 📓 Snippets
 
-| Name | Description | Size | Updated |
-| :--- | :--- | :--- | :--- |
+| Name | Description | Updated |
+| :--- | :--- | :--- |
 | 🍒 [allow_list.rb](https://gist.github.com/a6b8/4b7276ff89b4aad7064f81b807a34f4c) | Hash to Allow/Block List Array in Ruby | Jun, 2021 |
 | 🍒 [bump_version_number.rb](https://gist.github.com/a6b8/ca9b1b9b3f3c898c3e78da42c1fc7603) | Bump Version Number | Sep, 2021 |
 | 🍏 [compareArrayOfStrings.js](https://gist.github.com/a6b8/250ee76db881b4e0ad43a992278de42d) | Array of Strings comparison.  | Jan, 2022 |
