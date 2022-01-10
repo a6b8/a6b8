@@ -333,8 +333,9 @@ module Repositories
         str = image( item[:stars] )
         str = a( str, u )
     
-        space = image( item[:space] )
-        space = a( space, '#latest-projects' )
+        #space = image( item[:space] )
+        #space = a( space, '#latest-projects' )
+        space = ', '
     
         !item[ :statistics ].eql?( ' ' ) ? str = str + space : ''
         item[ :statistics ].insert( 0, str )
