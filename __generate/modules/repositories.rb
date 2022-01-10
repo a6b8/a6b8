@@ -348,7 +348,7 @@ module Repositories
                                         .concat( '/package-lock.json')
                             end
 
-                            str = a( str )
+                            str = a( str, url )
                         else
                             str = ''
                         end
