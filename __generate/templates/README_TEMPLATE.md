@@ -43,7 +43,7 @@ My mission is to share all my internal used code snippets with the world. Theref
 <br>
 <br>
 
-### 📓 Snippets
+### 📝 Snippets
 
 <<--GISTS-->>
 
@@ -51,20 +51,11 @@ My mission is to share all my internal used code snippets with the world. Theref
 <br>
 <br>
 
-### 📝 Documentations
+### 🏗️ Documentations
 
 <<--DOCS-->>
 <br>
 <br>
-
-
-### More Stuff 
-
-- [Dockerhub](https://hub.docker.com/u/a6b8)
-- [Github Gist](https://gist.github.com/a6b8)
-- [Npm](https://www.npmjs.com/~a6b8)
-- [RubyGems](https://rubygems.org/profiles/a6b8)
-
 
 <br>
 <a href="#welcome">
@@ -83,11 +74,12 @@ My mission is to share all my internal used code snippets with the world. Theref
 
 | Logo | Name |
 | :--- | :--- |
-| <a href="https://twitter.com/a6b8"><img align="left" alt="Andreas´s Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a> | Twitter | 
+| <a href="https://twitter.com/a6b8"><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg#gh-dark-mode-only" /></a> | Twitter | 
 | <a href="https://www.linkedin.com/in/andreas-banholzer/"><img align="left" alt="Andreas´s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a> | LinkedIn |
+| <a href="https://hub.docker.com/u/a6b8"><img align="left" alt="Andreas´s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/dockerhub.svg" /> </a> | LinkedIn |
 
 
-<br>
+
 <br>
 
 <a href="#welcome">
