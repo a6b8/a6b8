@@ -80,6 +80,9 @@ My mission is to share all my internal used code snippets with the world. Theref
 
 ### 📚 Modules
 
+<details><summary>CLICK ME</summary>
+<p>
+
 | Title | ToC | Version | Updated | CI/CD | Statistics | License |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | 🍒 [Ascii to svg Generator for Ruby](https://github.com/a6b8/ascii-to-svg-generator-for-ruby) | [📖](https://github.com/a6b8/ascii-to-svg-generator-for-ruby#table-of-contents) | <a href="https://rubygems.org/gems/ascii_to_svg"><img src="https://img.shields.io/gem/v/ascii_to_svg?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://api.github.com/repos/a6b8/ascii-to-svg-generator-for-ruby"><img src="https://img.shields.io/github/last-commit/a6b8/ascii-to-svg-generator-for-ruby?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://circleci.com/api/v1.1/project/github/a6b8/ascii-to-svg-generator-for-ruby"><img src="https://img.shields.io/circleci/build/github/a6b8/ascii-to-svg-generator-for-ruby/main?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a><a href="https://github.com/a6b8/ascii-to-svg-generator-for-ruby/blob/main/Gemfile.lock"><img src="https://shields.io/snyk/vulnerabilities/github/a6b8/ascii-to-svg-generator-for-ruby?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a> | <a href="https://github.com/a6b8/ascii-to-svg-generator-for-ruby/graphs/traffic">📈</a><a href="https://github.com/a6b8/ascii-to-svg-generator-for-ruby/stargazers"><img src="https://img.shields.io/github/stars/a6b8/ascii-to-svg-generator-for-ruby?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a><a href="https://rubygems.org/gems/ascii_to_svg"><img src="https://img.shields.io/gem/dt/ascii_to_svg?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/ascii-to-svg-generator-for-ruby/blob/main/LICENSE.txt"><img src="https://img.shields.io/github/license/a6b8/ascii-to-svg-generator-for-ruby?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a> |
@@ -96,6 +99,10 @@ My mission is to share all my internal used code snippets with the world. Theref
 | 🍒 [Xml Tree Viewer for Ruby](https://github.com/a6b8/xml-tree-viewer-for-ruby) | [📖](https://github.com/a6b8/xml-tree-viewer-for-ruby#table-of-contents) | <a href="https://rubygems.org/gems/xml_tree_viewer"><img src="https://img.shields.io/gem/v/xml_tree_viewer?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://api.github.com/repos/a6b8/xml-tree-viewer-for-ruby"><img src="https://img.shields.io/github/last-commit/a6b8/xml-tree-viewer-for-ruby?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://circleci.com/api/v1.1/project/github/a6b8/xml-tree-viewer-for-ruby"><img src="https://img.shields.io/circleci/build/github/a6b8/xml-tree-viewer-for-ruby/main?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a><a href="https://github.com/a6b8/xml-tree-viewer-for-ruby/blob/main/Gemfile.lock"><img src="https://shields.io/snyk/vulnerabilities/github/a6b8/xml-tree-viewer-for-ruby?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a> | <a href="https://github.com/a6b8/xml-tree-viewer-for-ruby/graphs/traffic">📈</a><a href="https://github.com/a6b8/xml-tree-viewer-for-ruby/stargazers"><img src="https://img.shields.io/github/stars/a6b8/xml-tree-viewer-for-ruby?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&label="></a><a href="https://rubygems.org/gems/xml_tree_viewer"><img src="https://img.shields.io/gem/dt/xml_tree_viewer?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/xml-tree-viewer-for-ruby/blob/main/LICENSE.txt"><img src="https://img.shields.io/github/license/a6b8/xml-tree-viewer-for-ruby?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a> |
 
 🟥 Ruby 🟩 JavaScript 🟦 php
+
+</p>
+</details>
+
 <br>
 <br>
 

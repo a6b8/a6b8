@@ -80,9 +80,16 @@ My mission is to share all my internal used code snippets with the world. Theref
 
 ### 📚 Modules
 
+<details><summary>CLICK ME</summary>
+<p>
+
 <<--REPOS-->>
 
 🟥 Ruby 🟩 JavaScript 🟦 php
+
+</p>
+</details>
+
 <br>
 <br>
 
