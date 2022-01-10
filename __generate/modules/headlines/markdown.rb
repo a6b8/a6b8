@@ -72,10 +72,13 @@ module Markdown
 
                     if keys.include? selector
                         raw = image.attribute( selector ).value.strip
+                        #print raw
                         # print "#{raw}: "
                         # puts "Raw: #{raw} \nTest: #{raw.start_with?( '#' )}"
                         item[:type] = raw.start_with?( '#' ) ? :custom : :default
 
+                        #print " > #{item[:type]}"
+                        #puts
                         #print '1 OK: '
                         # print "#{item[:type]} >> "
 

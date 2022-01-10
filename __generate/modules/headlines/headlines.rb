@@ -2,13 +2,11 @@ module Headlines
     @@tabs
     @@config
 
-    def self.generate( struct:, silent: false )
+    def self.generate( struct:, silent: true )
         @@tabs = '      '
         config = JSON
             .parse( open( struct ).read )
             .with_indifferent_access
-
-        silent = true
 
         path_root = File.expand_path( '..', Dir.pwd )
         path_docs = "#{path_root}/docs/"
@@ -200,7 +198,10 @@ module Headlines
             list = readmes[ index ][:headers][:items]
                 .map { | a | a[:text] }
 
-            structure = list.map do | search |
+            # puts index
+            
+            structure = list.map.with_index do | search |
+                # puts search.to_s
                 f = tests.find { | a | a[ 0 ].eql? search }
                 emj = f.nil? ? "#{other}" : "#{f[ 1 ]}"
                 !silent ? print( emj ) : ''
@@ -209,8 +210,11 @@ module Headlines
 
             r1 = test1 == structure.first( 5 )
             r2 = test2 == structure.last( 4 )
-
             result = [ r1, r2 ].all?
+
+            space = ( 18 - structure.length ).times.to_a.map { | a | "⬛️" }.join( '' )
+
+            !silent ? print( "   #{result ? "#{space}✅" : "#{space}❌"}" ) : ''
             results.push( result )
 
             !silent ? puts : ''

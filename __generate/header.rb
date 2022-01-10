@@ -21,7 +21,7 @@ repos.each do | key, value |
     if value
         case key
         when :headlines
-            tests = Headlines.generate( struct: path_repos )
+            tests = Headlines.generate( struct: path_repos, silent: false )
             all = tests.map { | a | a[ a.keys[ 0] ] }.all?
             str = '  - Headlines'
             space = str_space( tabs, str )

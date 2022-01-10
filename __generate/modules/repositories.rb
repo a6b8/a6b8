@@ -221,7 +221,7 @@ module Repositories
     end
     
     
-    [ :title, :doc, :release, :version, :statistics, :updated, :test ].each do | key |
+    [ :title, :doc, :version, :statistics, :updated, :test ].each do | key |
       str = nil
       
       if !item[ key ].nil?
