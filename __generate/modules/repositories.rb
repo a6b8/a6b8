@@ -336,8 +336,10 @@ module Repositories
         #space = image( item[:space] )
         space = a( '📈', item[:space])
     
-        !item[ :statistics ].eql?( ' ' ) ? str = space + str : ''
-        item[ :statistics ].insert( 0, str )
+        !item[ :statistics ].eql?( ' ' ) ? str = str : space
+        item[ :statistics ]
+            .insert( 0, str )
+            .concat( space )
         
         item.except!( :stars ) 
         item.except!( :space ) 
