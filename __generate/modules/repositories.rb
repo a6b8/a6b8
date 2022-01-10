@@ -342,7 +342,7 @@ module Repositories
                             case current[:type]
                                 when :ruby
                                     url = url
-                                        .concat( '/blob/main/gemfile.lock')
+                                        .concat( '/blob/main/Gemfile.lock')
                                 when :javascript
                                     url = url
                                         .concat( '/blob/main/package-lock.json')
