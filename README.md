@@ -13,7 +13,7 @@ user_name = "a#{a.length}b#{b.length}"
 # > a6b8
 ```
 
-
+<div style="background-color: rgb(50, 50, 50);">
 ```console
 
                         `:////:.                       andreas@local
@@ -44,15 +44,16 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
                     -NMM:                              -------------------
                      sMy                               First Buy with BTC: 2013
                      .d.                               First Meta Mask IX: 2016
-                                                       Smart Contract: Namecoin, Mastercoin...
-                       :                               NFTs: Fan since Colored Coins, Etheria...
+                                                       Smart Contracts: Since Namecoin, Mastercoin...
+                       :                               NFTs: Since Colored Coins, Etheria...
                        s                               Active Development: 2020
                        y                          
-                       N`                         
+                       N`                         ~~This is green~~
                       .M+                         
                       :Mh                         
                       .ms                         
 ```
+</div>
 
 On this Page you can find a selection of my open-source work. In terms of programming languages and libraries this selection is kind of representativ. I usally work with a bigger variety of tools.
 
