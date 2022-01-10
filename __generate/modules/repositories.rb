@@ -361,12 +361,12 @@ module Repositories
             .insert( 0, str )
 
         item[ :test ]
-            .insert( 0, item[:vulnerabilities] )
+            .concat( item[:vulnerabilities] )
         
         item.except!( :stars ) 
         item.except!( :space )
         item.except!( :vulnerabilities ) 
-        
+
         return item
     end
   
