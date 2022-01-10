@@ -335,7 +335,7 @@ module Repositories
     
         #space = image( item[:space] )
         #space = a( space, '#latest-projects' )
-        space = ', '
+        space = '-'
     
         !item[ :statistics ].eql?( ' ' ) ? str = str + space : ''
         item[ :statistics ].insert( 0, str )
