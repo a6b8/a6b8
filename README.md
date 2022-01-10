@@ -54,19 +54,18 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
                       .ms                         
 ```
 
-
-On this Page you can find a selection of my open-source work. In terms of programming languages and libraries this selection is kind of representativ. I usally work with a bigger variety of tools.
-
 <br>
 <br>
 
-## 🤸🏻 Last Activties
+<a href="#hi-my-name">
+  <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/coding.svg" height="38px" alt="Latest Projects" name="latest-projects">
+</a>
 
-### Coding
+### 🧑🏻‍💻 Last Week
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### Github
+### 🤸🏻 Latest Github Activities
 <!--START_SECTION:activity-->
 
 
@@ -74,7 +73,7 @@ On this Page you can find a selection of my open-source work. In terms of progra
 <br>
 
 <a href="#hi-my-name">
-  <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/latest-projects.svg" height="38px" alt="Latest Projects" name="latest-projects">
+  <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/latest-projects.svg" height="38px" alt="Active Projects" name="Active Projects">
 </a>
 
 My mission is to share all my internal used code snippets with the world. Therefore i rewrite the code to modules and add a proper documentation to it.
@@ -130,7 +129,6 @@ My mission is to share all my internal used code snippets with the world. Theref
 <br>
 
 
-
 <br>
 <a href="#welcome">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/stats.svg" height="38px" alt="Statistic" name="statistic">
@@ -141,24 +139,11 @@ My mission is to share all my internal used code snippets with the world. Theref
 | <a href="#stats">![overview](https://github-readme-stats.vercel.app/api?username=a6b8&show_icons=true&hide_title=true&icon_color=CAD1D8&text_color=CAD1D8&bg_color=0E1116&hide_border=true&title_color=6CCF64) | ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a6b8&langs_count=8&show_icons=true&hide_title=true&icon_color=CAD1D8&text_color=CAD1D8&bg_color=0E1116&hide_border=true&title_color=CAD1D8&layout=compact)</a> |
 
 <br>
-
-<a href="#welcome">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/social.svg" height="38px" alt="Social" name="social">
-</a>
-
-| Logo | Name |
-| :--- | :--- |
-| <a href="https://twitter.com/a6b8"><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg#gh-dark-mode-only" /></a> | Twitter | 
-| <a href="https://www.linkedin.com/in/andreas-banholzer/"><img align="left" alt="Andreas´s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a> | LinkedIn |
-| <a href="https://hub.docker.com/u/a6b8"><img align="left" alt="Andreas´s LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/dockerhub.svg" /> </a> | LinkedIn |
-
-
-
 <br>
 
 <a href="#welcome">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/support-my-work.svg" height="38px" alt="Support my Work">
 </a>
 
-<a href="https://www.buymeacoffee.com/a6b8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="40"></a>
+<a href="https://www.buymeacoffee.com/a6b8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" height="40"></a>
 
