@@ -253,7 +253,8 @@ module Repositories
             :statistics, 
             :updated, 
             :test,
-            :license
+            :license,
+            :vulnerabilities
         ].each do | key |
             str = nil
             
