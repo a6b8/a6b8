@@ -128,6 +128,12 @@ My mission is to share all my internal used code snippets with the world. Theref
 <br>
 <br>
 
+## 🤸🏻 Last Activties
+
+<!--START_SECTION:activity-->
+<br>
+<br>
+
 <br>
 <a href="#welcome">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/stats.svg" height="38px" alt="Statistic" name="statistic">
