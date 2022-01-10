@@ -71,6 +71,18 @@ On this Page you can find a selection of my open-source work. In terms of progra
 <br>
 <br>
 
+## 🤸🏻 Last Activties
+
+### Coding
+
+
+### Github
+<!--START_SECTION:activity-->
+
+
+<br>
+<br>
+
 <a href="#hi-my-name">
   <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/latest-projects.svg" height="38px" alt="Latest Projects" name="latest-projects">
 </a>
@@ -127,11 +139,7 @@ My mission is to share all my internal used code snippets with the world. Theref
 
 <br>
 
-## 🤸🏻 Last Activties
 
-<!--START_SECTION:activity-->
-<br>
-<br>
 
 <br>
 <a href="#welcome">
