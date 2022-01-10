@@ -322,7 +322,7 @@ module Repositories
                     else
                 end
             end
-        !str.nil? ? item[ key ] = str : item[ key ] = ' ' 
+            !str.nil? ? item[ key ] = str : item[ key ] = ' ' 
         end
     
         u = obj[:endpoints][:github_repo]
@@ -336,7 +336,7 @@ module Repositories
         #space = image( item[:space] )
         space = a( '📈', item[:space])
     
-        !item[ :statistics ].eql?( ' ' ) ? str = space + str : space
+        !item[ :statistics ].eql?( ' ' ) ? str = space + str : str = space
         item[ :statistics ]
             .insert( 0, str )
         
