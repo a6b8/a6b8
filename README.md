@@ -78,9 +78,12 @@ On this Page you can find a selection of my open-source work. In terms of progra
 
 My mission is to share all my internal used code snippets with the world. Therefore i rewrite the code to modules and add a proper documentation to it.
 
-### 📚 Modules
 
-<details><summary>CLICK ME</summary>
+
+<details>
+<summary>
+### 📚 Modules
+</summary>
 <p>
 
 | Title | ToC | Version | Updated | CI/CD | Statistics | License |
