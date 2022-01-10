@@ -339,7 +339,6 @@ module Repositories
         !item[ :statistics ].eql?( ' ' ) ? str = space + str : space
         item[ :statistics ]
             .insert( 0, str )
-            .concat( space )
         
         item.except!( :stars ) 
         item.except!( :space ) 
