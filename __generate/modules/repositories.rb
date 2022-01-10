@@ -137,9 +137,9 @@ module Repositories
   
   
         def self.space( item, index, obj )
-            result = obj[:endpoints][:shield_io]
-                .gsub( '{{label}}', ' / ' )
-                .gsub( '{{color}}', obj[:theme][:color][ index % 2 ] )
+            result = obj[:endpoints][:github_traffic]
+                .gsub( '{{gh_user}}', obj[:meta][:github_user] )
+                .gsub( '{{gh_repo}}', item[:github] )
         end
   
   
@@ -219,17 +219,17 @@ module Repositories
         end
     
     
-        def self.image( str )
-            str
+        def self.image( src )
+            src
                 .insert( 0, '<img src="')
                 .concat( '">')
         end
     
     
-        def self.a( str, href="#latest-projects" )
-        str
-            .insert( 0, "<a href=\"#{href}\">" )
-            .concat( '</a>')    
+        def self.a( content, href="#latest-projects" )
+            content
+                .insert( 0, "<a href=\"#{href}\">" )
+                .concat( '</a>')    
         end
     
     
@@ -334,8 +334,7 @@ module Repositories
         str = a( str, u )
     
         #space = image( item[:space] )
-        #space = a( space, '#latest-projects' )
-        space = '-'
+        space = a( 'Test', item[:space])
     
         !item[ :statistics ].eql?( ' ' ) ? str = str + space : ''
         item[ :statistics ].insert( 0, str )
