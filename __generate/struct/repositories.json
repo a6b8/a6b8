@@ -131,6 +131,7 @@
         "github_api_repo": "https://api.github.com/repos/{{gh_user}}/{{gh_repo}}",
         "github_repo_stars": "https://img.shields.io/github/stars/{{gh_user}}/{{gh_repo}}",
         "github_license": "https://img.shields.io/github/license/{{gh_user}}/{{gh_repo}}",
+        "github_license_link": "https://github.com/{{gh_user}}/{{gh_repo}}/blob/main/LICENSE.txt",
         "hackernews_karma": "https://img.shields.io/hackernews/user-karma/{{hn_user}}",
         "librariesio_ruby": "https://shields.io/librariesio/release/rubygems/{{gem_name}}/latest",
         "librariesio_npm": "https://shields.io/librariesio/release/npm/{{npm_name}}/latest",
