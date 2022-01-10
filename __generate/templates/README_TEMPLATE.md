@@ -13,9 +13,8 @@ user_name = "a#{a.length}b#{b.length}"
 # > a6b8
 ```
 
-
 ```console
-$ whois andreas.dev
+$ neofetch andreas
 
                         `:////:.                       andreas@local
                     -//sydMdh.://////:.`               -------------------
@@ -43,7 +42,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
                   `hMMmMMy 
                    `dMNMm`                             Blockchain
                     -NMM:                              -------------------
-                     sMy                               First Buy with BTC: 2013
+                     sMy                               First physical purchase w BTC: 2013
                      .d.                               First Meta Mask IX: 2016
                                                        Smart Contracts: Since Namecoin, Mastercoin...
                        :                               NFTs: Since Colored Coins, Etheria...
@@ -78,21 +77,11 @@ On this Page you can find a selection of my open-source work. In terms of progra
 
 My mission is to share all my internal used code snippets with the world. Therefore i rewrite the code to modules and add a proper documentation to it.
 
-
-
-<details>
-<summary>
 ### 📚 Modules
-</summary>
-<p>
 
 <<--REPOS-->>
 
 🟥 Ruby 🟩 JavaScript 🟦 php
-
-</p>
-</details>
-
 <br>
 <br>
 
