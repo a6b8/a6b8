@@ -335,10 +335,20 @@ module Repositories
                     when :vulnerabilities
                         if [ :ruby, :javascript ].include? current[:type]
                             str = image( item[ key] )
-                            # url = obj[:endpoints][:github_license_link]
-                            #     .gsub( '{{gh_user}}', obj[:meta][:github_user] )
-                            #     .gsub( '{{gh_repo}}', current[:github] )
-                            str = a( str )  
+                            url = obj[:endpoints][:github_repo]
+                                .gsub( '{{gh_user}}', obj[:meta][:github_user] )
+                                .gsub( '{{gh_repo}}', current[:github] )
+
+                            case current[:type]
+                                when :ruby
+                                    url = url
+                                        .concat( '/gemfile.lock')
+                                when :javascript
+                                    url = url
+                                        .concat( '/package-lock.json')
+                            end
+                            
+                            str = a( str ) s
                         else
                             str = ''
                         end
