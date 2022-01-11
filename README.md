@@ -13,11 +13,6 @@ user_name = "a#{a.length}b#{b.length}"
 # > a6b8
 ```
 
-<p align="center">
-  <a href="https://andreas.dev">Website</a> •
-  <a href="https://twitter.com/_a6b8">Twitter</a>
-</p>
-
 - 🔭 I’m currently working on **interchangable on-chain svg nfts**
 - 🌱 I’m currently learning **Solidity and Web3 stuff**
 - 💬 Ask me about **Art, Creative Coding & Ruby**
