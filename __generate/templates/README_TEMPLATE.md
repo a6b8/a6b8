@@ -60,7 +60,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/welcome.svg" height="38px" alt="Coding" name="Welcome">
 </a><br>
 
-- 🔭 I’m currently working on **interchangable on-chain svg nfts**
+- 🔭 I’m currently working on **interchangable on-chain nfts**
 - 🌱 I’m currently learning **Solidity and Web3 stuff**
 - 💬 Ask me about **Art, Creative Coding & Ruby**
 - 📫 How to reach me: [@_a6b8_](https://twitter.com/_a6b8_) on Twitter
