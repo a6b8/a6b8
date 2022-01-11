@@ -2,18 +2,6 @@
   <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/hi-my-name-is.svg" height="38px" alt="# Hi! My Name is" name="hi-my-name">
 </a>
 
-<p align="center">
-  <a href="https://andreas.dev">Website</a> •
-  <a href="https://twitter.com/_a6b8">Twitter</a>
-</p>
-
-- 🔭 I’m currently working on **interchangable on-chain svg nfts**
-- 🌱 I’m currently learning **Solidity and Web3 stuff**
-- 💬 Ask me about **Art, Creative Coding & Ruby**
-- 📫 How to reach me: [@_a6b8_](https://twitter.com/_a6b8_) on Twitter
-- ⚡ Fun fact: In my Hometown were the name "America" invented. [(Waldseemüller, 1492-1520)](https://en.wikipedia.org/wiki/Martin_Waldseemüller)
- 
-
 ```Ruby
 ords = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
 chars = ords
@@ -24,6 +12,17 @@ user_name = "a#{a.length}b#{b.length}"
 
 # > a6b8
 ```
+
+<p align="center">
+  <a href="https://andreas.dev">Website</a> •
+  <a href="https://twitter.com/_a6b8">Twitter</a>
+</p>
+
+- 🔭 I’m currently working on **interchangable on-chain svg nfts**
+- 🌱 I’m currently learning **Solidity and Web3 stuff**
+- 💬 Ask me about **Art, Creative Coding & Ruby**
+- 📫 How to reach me: [@_a6b8_](https://twitter.com/_a6b8_) on Twitter
+- ⚡ Fun fact: In my Hometown were the name "America" invented. [(Waldseemüller, 1492-1520)](https://en.wikipedia.org/wiki/Martin_Waldseemüller)
 
 ```console
 $ neofetch andreas
