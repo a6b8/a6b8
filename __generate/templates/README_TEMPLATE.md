@@ -42,10 +42,10 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
                   `hMMmMMy 
                    `dMNMm`                             Blockchain
                     -NMM:                              -------------------
-                     sMy                               First physical purchase w BTC: 2013
+                     sMy                               First BTC: 2013
                      .d.                               First Meta Mask IX: 2016
-                                                       Smart Contracts: Since Namecoin, Mastercoin...
-                       :                               NFTs: Since Colored Coins, Etheria...
+                                                       Smart Contracts: Watching since Namecoin, Mastercoin...
+                       :                               NFTs: Watching since Colored Coins, Etheria...
                        s                               Active Development: 2020
                        y                          
                        N`                         
