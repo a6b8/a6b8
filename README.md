@@ -1,9 +1,8 @@
+<details open><summary>
 <a href="#hi-my-name">
   <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/hi!-my-name-is.svg" height="38px" alt="# Hi! My Name is" name="Hi! My Name is...">
 </a>
-
-<details open>
-<summary></summary>
+</summary>
 
 ```Ruby
 ords = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
