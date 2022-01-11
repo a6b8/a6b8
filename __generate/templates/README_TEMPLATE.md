@@ -14,7 +14,7 @@ user_name = "a#{a.length}b#{b.length}"
 ```
 
 ```console
-$ neofetch andreas
+$ neofetch a6b8
 
                         `:////:.                       andreas@local
                     -//sydMdh.://////:.`               -------------------
@@ -57,8 +57,8 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 <br>
 
 <a href="#hi-my-name">
-  <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/coding.svg" height="38px" alt="Coding" name="Coding">
-</a>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/coding.svg" height="38px" alt="Coding" name="Coding">
+</a><br>
 
 - 🔭 I’m currently working on **interchangable on-chain svg nfts**
 - 🌱 I’m currently learning **Solidity and Web3 stuff**
@@ -92,7 +92,9 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 <br>
 <br>
 
-<a href="#hi-my-name"><img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/open-source.svg" height="38px" alt="Open Source" name="Open Source"></a>
+<a href="#hi-my-name">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/open-source.svg" height="38px" alt="Open Source" name="Open Source">
+</a>
 
 My mission is to share all my internal used code snippets with the world. Therefore i rewrite the code to modules and add a proper documentation to it.
 
