@@ -76,19 +76,21 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 [RubyGems](https://rubygems.org/profiles/a6b8) 🔸 [Npm](https://www.npmjs.com/~a6b8) 🔸 [Dockerhub](https://hub.docker.com/u/a6b8)
 
 <details open>
-<summary>🧑🏻‍💻 Last Week</summary>
+<summary><h3>🧑🏻‍💻 Last Week</h3></summary>
+
 <!--START_SECTION:waka-->
 ```text
 > No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
 </details>
 
 <br>
 <br>
 
 <details open>
-<summary>🤸🏻 Github Activities</summary>
+<summary><h3>🤸🏻 Github Activities</h3></summary>
 <!--START_SECTION:activity-->
 </details>
 
@@ -96,7 +98,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 <br>
 
 <details open>
-<summary>🖋 Github Contributions</summary>
+<summary><h3>🖋 Github Contributions</h3></summary>
 <a href="#hi-my-name">
   <img src="https://activity-graph.herokuapp.com/graph?username=a6b8&bg_color=0E1116&color=C9D0D7&line=C9D0D7&&point=C9D0D7&&area=true&hide_border=true&hide_title=true&area=false" alt="Active Projects" name="Active Projects">
 </a>
