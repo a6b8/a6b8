@@ -61,7 +61,6 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 ```
 
 <br>
-<br>
 
 <a href="#hi-my-name">
   <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/coding.svg" height="38px" alt="Latest Projects" name="latest-projects">
