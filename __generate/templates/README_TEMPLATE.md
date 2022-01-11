@@ -73,10 +73,10 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 ```
 <!--END_SECTION:waka-->
 
-### 🤸🏻 Latest Github Activities
+### 🤸🏻 Github Activities
 <!--START_SECTION:activity-->
 
-### Contributions
+### 🖋 Github Contributions
 <a href="#hi-my-name">
   <img src="https://activity-graph.herokuapp.com/graph?username=a6b8&bg_color=0E1116&color=C9D0D7&line=C9D0D7&&point=C9D0D7&&area=true&hide_border=true&hide_title=true&area=false" alt="Active Projects" name="Active Projects">
 </a>
@@ -84,9 +84,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 <br>
 <br>
 
-<a href="#hi-my-name">
-  <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/latest-projects.svg" height="38px" alt="Active Projects" name="Active Projects">
-</a>
+<a href="#hi-my-name"><img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/latest-projects.svg" height="38px" alt="Active Projects" name="Active Projects"></a>
 
 My mission is to share all my internal used code snippets with the world. Therefore i rewrite the code to modules and add a proper documentation to it.
 
