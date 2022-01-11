@@ -12,6 +12,7 @@
 - 💬 Ask me about **Art, Creative Coding & Ruby**
 - 📫 How to reach me: [@_a6b8_](https://twitter.com/_a6b8_) on Twitter
 - ⚡ Fun fact: In my Hometown were the name "America" invented. [(Waldseemüller, 1492-1520)](https://en.wikipedia.org/wiki/Martin_Waldseemüller)
+ 
 
 ```Ruby
 ords = [ 97, 110, 100, 114, 101, 97, 115, 32, 98, 97, 110, 104, 111, 108, 122, 101, 114 ]
