@@ -64,6 +64,9 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/welcome.svg" height="38px" alt="Coding" name="Welcome">
 </a><br>
 
+<details open>
+<summary></summary>
+
 - 🔭 I’m currently working on **interchangable on-chain nfts**
 - 🌱 I’m currently learning **Solidity and Web3 stuff**
 - 💬 Ask me about **Art, Creative Coding & Ruby**
@@ -71,8 +74,6 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 - ⚡ Fun fact: In the 90´s my favorite Skatespot was a ledge 100m away from the birthplace of Cartographer [Waldseemüller (1470 – 1520)](https://en.wikipedia.org/wiki/Martin_Waldseemüller) which is famous for giving the continent ["America"](https://en.wikipedia.org/wiki/Naming_of_the_Americas) her Name.
 
 ### 🦖 Overview
-<details open>
-<summary></summary>
 
 | Name | Total  |
 | ---- | ---- |
@@ -103,11 +104,13 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 <br>
 <br>
 
-</details>
 
+</details>
 <a href="#hi-my-name">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/open-source.svg" height="38px" alt="Open Source" name="Open Source">
 </a>
+<details open>
+<summary></summary>
 
 My mission is to share all my internal used code snippets with the world. Therefore i rewrite the code to modules and add a proper documentation to it.
 
@@ -175,10 +178,13 @@ x
 <br>
 <br>
 -->
-
+</details>
 <a href="#welcome">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/support-my-work.svg" height="38px" alt="Support my Work" name="Support my work">
 </a>
+<details open>
+<summary></summary>
 
 <a href="https://www.buymeacoffee.com/a6b8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" height="40"></a>
 
+</details>
