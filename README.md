@@ -1,5 +1,5 @@
 <a href="#hi-my-name">
-  <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/hi-my-name-is.svg" height="38px" alt="# Hi! My Name is" name="Hi! My Name is...">
+  <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/hi!-my-name-is.svg" height="38px" alt="# Hi! My Name is" name="Hi! My Name is...">
 </a>
 
 ```Ruby
@@ -92,7 +92,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 <br>
 <br>
 
-<a href="#hi-my-name"><img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/latest-projects.svg" height="38px" alt="Open Source" name="Open Source"></a>
+<a href="#hi-my-name"><img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/open-source.svg" height="38px" alt="Open Source" name="Open Source"></a>
 
 My mission is to share all my internal used code snippets with the world. Therefore i rewrite the code to modules and add a proper documentation to it.
 
