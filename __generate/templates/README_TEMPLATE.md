@@ -115,7 +115,7 @@ My mission is to share all my internal used code snippets with the world. Theref
 
 <<--REPOS-->>
 
-🟥 Ruby 🟩 JavaScript 🟦 php
+🍒 Ruby 🍏 JavaScript 🫐 php
 <br>
 <br>
 
@@ -123,7 +123,7 @@ My mission is to share all my internal used code snippets with the world. Theref
 
 <<--GISTS-->>
 
-🟥 Ruby 🟩 JavaScript
+🍒 Ruby 🍏 JavaScript
 <br>
 <br>
 
