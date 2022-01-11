@@ -67,6 +67,8 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 - ⚡ Fun fact: In the 90´s my favorite Skatespot was a ledge 100m away from the birthplace of Cartographer [Waldseemüller (1470 – 1520)](https://en.wikipedia.org/wiki/Martin_Waldseemüller) which is famous for giving the continent ["America"](https://en.wikipedia.org/wiki/Naming_of_the_Americas) her Name.
 
 ### 🦖 Overview
+<details open>
+<summary></summary>
 
 | Name | Total  |
 | ---- | ---- |
@@ -75,8 +77,10 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 
 [RubyGems](https://rubygems.org/profiles/a6b8) 🔸 [Npm](https://www.npmjs.com/~a6b8) 🔸 [Dockerhub](https://hub.docker.com/u/a6b8)
 
-<details open>
-<summary><h3>🧑🏻‍💻 Last Week</h3></summary>
+
+### 🧑🏻‍💻 Last Week
+
+<!--START_SECTION:activity-->
 
 <!--START_SECTION:waka-->
 ```text
@@ -84,28 +88,18 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 ```
 <!--END_SECTION:waka-->
 
-</details>
-
-<br>
-<br>
-
-<details open>
-<summary><h3>🤸🏻 Github Activities</h3></summary>
+### 🤸🏻 Github Activities
 <!--START_SECTION:activity-->
-</details>
 
-<br>
-<br>
-
-<details open>
-<summary><h3>🖋 Github Contributions</h3></summary>
+### 🖋 Github Contributions
 <a href="#hi-my-name">
   <img src="https://activity-graph.herokuapp.com/graph?username=a6b8&bg_color=0E1116&color=C9D0D7&line=C9D0D7&&point=C9D0D7&&area=true&hide_border=true&hide_title=true&area=false" alt="Active Projects" name="Active Projects">
 </a>
-</details>
 
 <br>
 <br>
+
+</details>
 
 <a href="#hi-my-name">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/open-source.svg" height="38px" alt="Open Source" name="Open Source">
