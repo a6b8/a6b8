@@ -60,6 +60,9 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
   <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/coding.svg" height="38px" alt="Coding" name="Coding">
 </a>
 
+Total Github Stats: ![GitHub User's stars](https://img.shields.io/github/stars/a6b8)  
+RubyGems: ![Gems](https://img.shields.io/gem/u/a6b8)
+
 - 🔭 I’m currently working on **interchangable on-chain svg nfts**
 - 🌱 I’m currently learning **Solidity and Web3 stuff**
 - 💬 Ask me about **Art, Creative Coding & Ruby**
@@ -137,9 +140,10 @@ My mission is to share all my internal used code snippets with the world. Theref
 | <a href="https://github.com/a6b8/write-invoice-for-ruby"><img src="https://docs.writeinvoice.com/assets/images/logo.png" style="max-width: 100%; height: 25px; filter: grayscale(1);"></a> | [🏗️](https://github.com/a6b8/write-invoice-for-ruby-documentation/blob/main/__generate/struct/blocks.json) | [165](https://docs.writeinvoice.com/sitemap.xml) | [5](https://docs.writeinvoice.com/tutorials/) | [146](https://docs.writeinvoice.com/options/) | [259](https://docs.writeinvoice.com/options/#categories) | [docs.writeinvoice.com](https://docs.writeinvoice.com) |
 
 <br>
-
-
 <br>
+
+<!---
+x
 <a href="#welcome">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/stats.svg" height="38px" alt="Statistic" name="statistic">
 </a>
@@ -150,6 +154,7 @@ My mission is to share all my internal used code snippets with the world. Theref
 
 <br>
 <br>
+-->
 
 <a href="#welcome">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/support-my-work.svg" height="38px" alt="Support my Work">
