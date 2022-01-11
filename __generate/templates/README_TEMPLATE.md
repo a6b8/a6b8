@@ -80,7 +80,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 [RubyGems](https://rubygems.org/profiles/a6b8) 🔸 [Npm](https://www.npmjs.com/~a6b8) 🔸 [Dockerhub](https://hub.docker.com/u/a6b8)
 
 
-### 🧑🏻‍💻 Working on...
+### 🧑🏻‍💻 Currently working on
 
 <!--START_SECTION:activity-->
 
