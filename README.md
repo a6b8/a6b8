@@ -13,12 +13,6 @@ user_name = "a#{a.length}b#{b.length}"
 # > a6b8
 ```
 
-- 🔭 I’m currently working on **interchangable on-chain svg nfts**
-- 🌱 I’m currently learning **Solidity and Web3 stuff**
-- 💬 Ask me about **Art, Creative Coding & Ruby**
-- 📫 How to reach me: [@_a6b8_](https://twitter.com/_a6b8_) on Twitter
-- ⚡ Fun fact: In my Hometown were the name "America" invented. [(Waldseemüller, 1492-1520)](https://en.wikipedia.org/wiki/Martin_Waldseemüller)
-
 ```console
 $ neofetch andreas
 
@@ -63,8 +57,14 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 <br>
 
 <a href="#hi-my-name">
-  <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/coding.svg" height="38px" alt="Latest Projects" name="latest-projects">
+  <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/coding.svg" height="38px" alt="Coding" name="Coding">
 </a>
+
+- 🔭 I’m currently working on **interchangable on-chain svg nfts**
+- 🌱 I’m currently learning **Solidity and Web3 stuff**
+- 💬 Ask me about **Art, Creative Coding & Ruby**
+- 📫 How to reach me: [@_a6b8_](https://twitter.com/_a6b8_) on Twitter
+- ⚡ Fun fact: In my Hometown were the name "America" invented. [(Waldseemüller, 1492-1520)](https://en.wikipedia.org/wiki/Martin_Waldseemüller)
 
 ### 🧑🏻‍💻 Last Week
 <!--START_SECTION:waka-->
