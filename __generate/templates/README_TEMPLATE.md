@@ -60,7 +60,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 </details>
 <details open><summary>
 <a href="#hi-my-name">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/welcome.svg" height="38px" alt="Coding" name="Welcome">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/coding.svg" height="38px" alt="Coding" name="Coding">
 </a>
 </summary>
 
