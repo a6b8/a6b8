@@ -1,12 +1,12 @@
 #!/bin/bash
 
-echo "Create Headers"
+echo "A. Create Headers"
 ruby ./__generate/profile_headlines.rb
 
-echo "Generate Profile"
+echo "B. Generate Profile"
 ruby ./__generate/profile.rb
 
-echo "Upload to Github"
+echo "C. Upload to Github"
 git add .
 git commit -m 'update banner'
 git push -u origin main --force
