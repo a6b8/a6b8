@@ -78,7 +78,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 
 ### Contributions
 <a href="#hi-my-name">
-  <img src="https://activity-graph.herokuapp.com/graph?username=a6b8&bg_color=0E1116&color=C9D0D7&line=C9D0D7&&point=C9D0D7&&area=true&hide_border=true&hide_title=true&area=false" height="200px" alt="Active Projects" name="Active Projects">
+  <img src="https://activity-graph.herokuapp.com/graph?username=a6b8&bg_color=0E1116&color=C9D0D7&line=C9D0D7&&point=C9D0D7&&area=true&hide_border=true&hide_title=true&area=false" alt="Active Projects" name="Active Projects">
 </a>
 
 <br>
