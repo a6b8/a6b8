@@ -68,6 +68,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 
 ### 🧑🏻‍💻 Last Week
 <!--START_SECTION:waka-->
+Test
 <!--END_SECTION:waka-->
 
 ### 🤸🏻 Latest Github Activities
