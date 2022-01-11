@@ -1,5 +1,5 @@
 <a href="#hi-my-name">
-  <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/hi-my-name-is.svg" height="38px" alt="# Hi! My Name is" name="hi-my-name">
+  <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/hi-my-name-is.svg" height="38px" alt="# Hi! My Name is" name="Hi! My Name is...">
 </a>
 
 ```Ruby
@@ -57,7 +57,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 <br>
 
 <a href="#hi-my-name">
-  <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/coding.svg" height="38px" alt="Coding" name="Coding">
+  <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/coding.svg" height="38px" alt="Coding" name="Coding">
 </a>
 
 - 🔭 I’m currently working on **interchangable on-chain svg nfts**
@@ -92,7 +92,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 <br>
 <br>
 
-<a href="#hi-my-name"><img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/latest-projects.svg" height="38px" alt="Active Projects" name="Active Projects"></a>
+<a href="#hi-my-name"><img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/latest-projects.svg" height="38px" alt="Open Source" name="Open Source"></a>
 
 My mission is to share all my internal used code snippets with the world. Therefore i rewrite the code to modules and add a proper documentation to it.
 
@@ -150,7 +150,7 @@ My mission is to share all my internal used code snippets with the world. Theref
 <!---
 x
 <a href="#welcome">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/stats.svg" height="38px" alt="Statistic" name="statistic">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/stats.svg" height="38px" alt="Statistic" name="statistic">
 </a>
 
 | **Github Stats** | **Languages** |
@@ -162,7 +162,7 @@ x
 -->
 
 <a href="#welcome">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/a6b8/readme/headlines/support-my-work.svg" height="38px" alt="Support my Work">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/support-my-work.svg" height="38px" alt="Support my Work" name="Support my work">
 </a>
 
 <a href="https://www.buymeacoffee.com/a6b8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" height="40"></a>
