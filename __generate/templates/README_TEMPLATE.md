@@ -58,13 +58,11 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 
 <br>
 </details>
-
+<details open><summary>
 <a href="#hi-my-name">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/welcome.svg" height="38px" alt="Coding" name="Welcome">
 </a><br>
-
-<details open>
-<summary></summary>
+</summary>
 
 - 🔭 I’m currently working on **interchangable on-chain nfts**
 - 🌱 I’m currently learning **Solidity and Web3 stuff**
@@ -105,11 +103,11 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 
 
 </details>
+<details open><summary>
 <a href="#hi-my-name">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/open-source.svg" height="38px" alt="Open Source" name="Open Source">
 </a>
-<details open>
-<summary></summary>
+</summary>
 
 My mission is to share all my internal used code snippets with the world. Therefore i rewrite the code to modules and add a proper documentation to it.
 
@@ -149,11 +147,11 @@ x
 <br>
 -->
 </details>
+<details open><summary>
 <a href="#welcome">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/support-my-work.svg" height="38px" alt="Support my Work" name="Support my work">
 </a>
-<details open>
-<summary></summary>
+</summary>
 
 <a href="https://www.buymeacoffee.com/a6b8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" height="40"></a>
 
