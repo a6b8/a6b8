@@ -303,7 +303,6 @@ module Repositories
                         end          
                     when :statistics
                         str = image( item[ key ] )
-                        puts "type: #{current[:type]}"
                         case current[:type]
                             when :ruby
                                 s = obj[:endpoints][:ruby_gem]
@@ -374,7 +373,6 @@ module Repositories
     
         #space = image( item[:space] )
         space = a( '📈', item[:space] )
-        str = space + str
 
         # puts "statistics: #{item[ :statistics ]}"
         # puts str
@@ -382,6 +380,7 @@ module Repositories
 
         # !item[ :statistics ].eql?( ' ' ) ? str = space + str : ''
         item[ :statistics ]
+            .insert( 0, space )
             .insert( 0, str )
 
         item[ :test ]
