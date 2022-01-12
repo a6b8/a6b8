@@ -305,6 +305,7 @@ module Repositories
                                     .gsub( '{{gem_name}}', current[:gem] )
                                 str = a( str, s )
                             when :javascript
+                                puts 'HERE'
                                 s = obj[:endpoints][:cdnjs_profile]
                                     .gsub( '{{js_name}}', current[:js] )
                                 str = a( str, s )
@@ -369,9 +370,9 @@ module Repositories
         #space = image( item[:space] )
         space = a( '📈', item[:space] )
     
-        puts "statistics: #{item[ :statistics ]}"
+       # puts "statistics: #{item[ :statistics ]}"
        # puts str
-        puts
+       # puts
         !item[ :statistics ].eql?( ' ' ) ? str = space + str : str = space
         item[ :statistics ]
             .insert( 0, str )
