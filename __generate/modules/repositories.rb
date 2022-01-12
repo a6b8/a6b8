@@ -374,11 +374,13 @@ module Repositories
     
         #space = image( item[:space] )
         space = a( '📈', item[:space] )
-    
-       # puts "statistics: #{item[ :statistics ]}"
-       # puts str
-       # puts
-        !item[ :statistics ].eql?( ' ' ) ? str = space + str : ''
+        str = space + str
+
+        # puts "statistics: #{item[ :statistics ]}"
+        # puts str
+        # puts
+
+        # !item[ :statistics ].eql?( ' ' ) ? str = space + str : ''
         item[ :statistics ]
             .insert( 0, str )
 
