@@ -252,7 +252,7 @@ module Repositories
         [ 
             :title, 
             :doc, 
-            #:release, 
+            # :release, 
             :version, 
             :statistics, 
             :updated, 
@@ -271,7 +271,7 @@ module Repositories
                         str = image_md( obj[:types][:docs], item[ key ] )
                     when :release
                         if !item[ key ].nil?
-                            str = ''#image( item[ key ] )
+                            str = '' # image( item[ key ] )
                             case current[:type]
                                 when :ruby
                                 str = 'RubyGem'
@@ -378,7 +378,7 @@ module Repositories
        # puts "statistics: #{item[ :statistics ]}"
        # puts str
        # puts
-        !item[ :statistics ].eql?( ' ' ) ? str = space + str : str = space
+        !item[ :statistics ].eql?( ' ' ) ? str = space + str : ''
         item[ :statistics ]
             .insert( 0, str )
 
