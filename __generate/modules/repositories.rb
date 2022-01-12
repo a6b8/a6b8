@@ -125,6 +125,7 @@ module Repositories
                             .gsub( '{{gem_name}}', item[:gem] )
                     end
                 when :javascript
+                    puts 'HEREE'
                 when :php
             else
                 puts "#{item[:type]} not set."
