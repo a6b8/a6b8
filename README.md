@@ -1,5 +1,7 @@
 <details open><summary>
+<a src="#">
   <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/hi!-my-name-is.svg" height="38px" alt="# Hi! My Name is" name="Hi! My Name is...">
+</a>
 </summary>
 
 ```Ruby
@@ -77,8 +79,6 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 
 
 ### 🧑🏻‍💻 Currently working on
-
-<!--START_SECTION:activity-->
 
 <!--START_SECTION:waka-->
 ```text
