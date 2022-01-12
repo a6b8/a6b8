@@ -1,5 +1,5 @@
 <details open><summary>
-<a href="#">
+<a href="">
   <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/hi!-my-name-is.svg" height="38px" alt="# Hi! My Name is" name="Hi! My Name is...">
 </a>
 </summary>
