@@ -380,8 +380,8 @@ module Repositories
 
         # !item[ :statistics ].eql?( ' ' ) ? str = space + str : ''
         item[ :statistics ]
-            .insert( 0, space )
             .insert( 0, str )
+            .insert( 0, space )
 
         item[ :test ]
             .concat( item[:vulnerabilities] )
