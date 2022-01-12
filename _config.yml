@@ -14,8 +14,8 @@ keywords: ruby, javascript, docker, crypto, nft  # add your own keywords or leav
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ✨ # the emoji used as the favicon
-url: https://github.com/a6b8 # the base hostname & protocol for your site
-baseurl: /about/ # the subpath of your site, e.g. /blog/
+url: https://andreas.dev # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  /Impressum/
 
