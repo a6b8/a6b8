@@ -299,7 +299,7 @@ module Repositories
                         end          
                     when :statistics
                         str = image( item[ key ] )
-                        puts current[:type]
+                        puts "type: #{current[:type]}"
                         case current[:type]
                             when :ruby
                                 s = obj[:endpoints][:ruby_gem]
