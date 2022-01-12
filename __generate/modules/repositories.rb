@@ -125,6 +125,7 @@ module Repositories
                             .gsub( '{{gem_name}}', item[:gem] )
                     end
                 when :javascript
+                    puts item.keys.to_s
                     puts 'HEREE'
                 when :php
             else
