@@ -125,8 +125,10 @@ module Repositories
                             .gsub( '{{gem_name}}', item[:gem] )
                     end
                 when :javascript
-                    puts item.keys.to_s
-                    puts 'HEREE'
+                    if item.keys.include? 'js'
+                        result = obj[:endpoints][:cdnjs]
+                            .gsub( '{{gem_name}}', item[:js] )
+                    end
                 when :php
             else
                 puts "#{item[:type]} not set."
