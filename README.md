@@ -93,7 +93,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 
 ### 🖋 Github Contributions
 <a href="#hi-my-name">
-  <img src="https://activity-graph.herokuapp.com/graph?username=a6b8&bg_color=0E1116&color=C9D0D7&line=C9D0D7&&point=C9D0D7&&area=true&hide_border=true&hide_title=true&area=false" alt="Active Projects" name="Active Projects">
+  <img src="https://activity-graph.herokuapp.com/graph?username=a6b8&bg_color=0E1116&color=C9D0D7&line=C9D0D7&&point=C9D0D7&&area=true&hide_border=true&hide_title=true&area=false" alt="Active Projects">
 </a>
 
 <br>
@@ -102,7 +102,9 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 
 </details>
 <details open><summary>
+<a href="#(=ºェº=)">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/open-source.svg" height="38px" alt="Open Source" name="Open Source">
+</a>
 </summary>
 
 My mission is to share all my internal used code snippets with the world. Therefore i rewrite the code to modules and add a proper documentation to it.
@@ -173,7 +175,9 @@ x
 -->
 </details>
 <details open><summary>
+<a href="#(=^ェ^=)">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/assets/headlines/custom/support-my-work.svg" height="38px" alt="Support my Work" name="Support my work">
+</a>
 </summary>
 
 <a href="https://www.buymeacoffee.com/a6b8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Coffee" height="40"></a>
