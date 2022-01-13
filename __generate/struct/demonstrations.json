@@ -1,19 +1,22 @@
 {
     "meta": {
-        "preview": "https://a6b8.github.io/{{repo}}/"
+        "github_user": "a6b8"
     },
     "projects": [
         {
             "repo":  "placeholder-webpage-docker",
-            "tags": [ ""]
+            "tags": [ "Docker, p5.js" ],
+            "year": 2018
         },
         {
             "repo": "yaml-generator-loadbalancer",
-            "tags": []
+            "tags": [ "Docker", "yaml", "p5js" ],
+            "year": 2018
         },
         {
             "repo": "yaml-generator-wordpress",
-            "tags": []
+            "tags": [ "Docker", "yaml", "p5js" ],
+            "year": 2018
         }
     ]
 }
