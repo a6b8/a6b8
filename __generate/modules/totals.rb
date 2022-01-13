@@ -3,10 +3,10 @@ module Totals
         file = File.read( struct )
         hash = JSON.parse( file ).with_indifferent_access
 
-        all = self.repos_all( github_user: hash[:meta][:github_user] )
-        sorted = self.repos_fork( repos: all )
+        all = repos_all( github_user: hash[:meta][:github_user] )
+        sorted = repos_fork( repos: all )
 
-        return self.to_html( github_user: hash[:meta][:github_user], data: sorted )
+        return to_html( github_user: hash[:meta][:github_user], data: sorted )
     end
 
 
