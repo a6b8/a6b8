@@ -167,11 +167,11 @@ My mission is to share all my internal used code snippets with the world. Theref
 
 ### 🏗️ Demonstrations
 
-| Name |Tags |Year |Url |
+| Name |Url |Tags |Year |
 | :--- |:--- |:--- |:--- |
-| [Placeholder Webpage Docker](https://github.com/a6b8) | [Docker](https://github.com/search?q=Docker), [p5js](https://github.com/search?q=p5js) | 2018 | https://a6b8.github.io/placeholder-webpage-docker/ |
-| [Yaml Generator Loadbalancer](https://github.com/a6b8) | [Docker](https://github.com/search?q=Docker), [yaml](https://github.com/search?q=yaml), [p5js](https://github.com/search?q=p5js) | 2018 | https://a6b8.github.io/yaml-generator-loadbalancer/ |
-| [Yaml Generator Wordpress](https://github.com/a6b8) | [Docker](https://github.com/search?q=Docker), [yaml](https://github.com/search?q=yaml), [p5js](https://github.com/search?q=p5js) | 2018 | https://a6b8.github.io/yaml-generator-wordpress/ |
+| [Placeholder Webpage Docker](https://github.com/a6b8/placeholder-webpage-docker) | [🕹️](https://a6b8.github.io/placeholder-webpage-docker) | [Docker](https://github.com/search?q=Docker), [p5js](https://github.com/search?q=p5js) | 2018 |
+| [Yaml Generator Loadbalancer](https://github.com/a6b8/yaml-generator-loadbalancer) | [🕹️](https://a6b8.github.io/yaml-generator-loadbalancer) | [Docker](https://github.com/search?q=Docker), [yaml](https://github.com/search?q=yaml), [p5js](https://github.com/search?q=p5js) | 2018 |
+| [Yaml Generator Wordpress](https://github.com/a6b8/yaml-generator-wordpress) | [🕹️](https://a6b8.github.io/yaml-generator-wordpress) | [Docker](https://github.com/search?q=Docker), [yaml](https://github.com/search?q=yaml), [p5js](https://github.com/search?q=p5js) | 2018 |
 <br>
 <br>
 
