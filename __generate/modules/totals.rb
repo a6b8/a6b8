@@ -36,7 +36,7 @@ module Totals
     end
 
 
-    def repos_fork( repos: )
+    def self.repos_fork( repos: )
         types = [ 
             [ :created, false ],
             [ :forked, true ]
