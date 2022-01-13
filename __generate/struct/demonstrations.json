@@ -1,0 +1,19 @@
+{
+    "meta": {
+        "preview": "https://a6b8.github.io/{{repo}}/"
+    },
+    "projects": [
+        {
+            "repo":  "placeholder-webpage-docker",
+            "tags": [ ""]
+        },
+        {
+            "repo": "yaml-generator-loadbalancer",
+            "tags": []
+        },
+        {
+            "repo": "yaml-generator-wordpress",
+            "tags": []
+        }
+    ]
+}
