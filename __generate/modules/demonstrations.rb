@@ -20,6 +20,7 @@ module Demonstrations
                 url: nil
             }
 
+            puts project
             name = project[:repo]
                 .split( '-' )
                 .map { | a | "#{a[ 0, 1 ].upcase}#{a[ 1, a.length ]}" }
