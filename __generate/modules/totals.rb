@@ -63,7 +63,7 @@ module Totals
             root: 'https://github.com/{{gh_user}}',
             routes: {
                 created: 'tab=repositories&q=&type=source',
-                forks: 'tab=repositories&q=&type=forked',
+                forks: 'tab=repositories&q=&type=fork',
                 archived: 'tab=repositories&q=&type=archived'
             }
         }
@@ -75,6 +75,7 @@ module Totals
         end
 
         strs = []
+        strs.push( "**Repositories**" )
         data.each do | k, v | 
             str = "- #{k}: [#{v.length}](#{config[:routes][k]})"
             strs.push( str )
