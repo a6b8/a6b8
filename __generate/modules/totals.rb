@@ -39,7 +39,7 @@ module Totals
     def self.repos_fork( repos: )
         types = [ 
             [ :created, false ],
-            [ :forked, true ]
+            [ :forks, true ]
         ]
       
         
@@ -63,7 +63,7 @@ module Totals
             root: 'https://github.com/{{gh_user}}',
             routes: {
                 created: 'tab=repositories&q=&type=source',
-                forked: 'tab=repositories&q=&type=forked',
+                forks: 'tab=repositories&q=&type=forked',
                 archived: 'tab=repositories&q=&type=archived'
             }
         }
