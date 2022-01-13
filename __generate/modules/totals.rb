@@ -75,7 +75,7 @@ module Totals
         end
 
         strs = []
-        sorted.each do | k, v | 
+        data.each do | k, v | 
             str = "- #{k}: [#{v.length}](#{config[:routes][k]})"
             strs.push( str )
         end
