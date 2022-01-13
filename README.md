@@ -72,6 +72,8 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 
 ### 🦖 Overview
 
+<<--TOTAL-->>
+
 | Name | Total  |
 | ---- | ---- |
 | Github Stars | <a href="#-modules"><img src="https://img.shields.io/github/stars/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a> |

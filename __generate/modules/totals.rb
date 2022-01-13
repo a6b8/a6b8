@@ -6,10 +6,10 @@ module Totals
         all = self.repos_all( github_user: hash[:meta][:github_user] )
         sorted = self.repos_fork( repos: all )
 
-        return self.to_html( github_user:, data: sorted )
+        return self.to_html( github_user: hash[:meta][:github_user], data: sorted )
     end
 
-    
+
     def self.repos_all( github_user: )
         all = []
         expand = true
