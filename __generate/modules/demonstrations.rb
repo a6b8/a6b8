@@ -28,6 +28,7 @@ module Demonstrations
 
             item[:name] = "[#{name}](https://github.com/#{data[:meta][:github_user]})"
             
+            item[:year] = project[:year]
             item[:url] = "https://#{data[:meta][:github_user]}.github.io/#{project[:repo]}/"
 
             item[:tags] = project[:tags]
@@ -59,6 +60,7 @@ module Demonstrations
         strs.push( str )
 
         prepares.each do | prepare |
+            puts "prepare: #{prepare[:tags]}"
             str = prepare
                 .map { | k, v | v }
                 .join( ' |' )
