@@ -4,6 +4,8 @@ module Demonstrations
         hash = JSON.parse( file ).with_indifferent_access
 
         puts hash
+
+        return ''
     end
 
 end
