@@ -62,7 +62,7 @@ overview.each do | key, value |
             str = '  - Docs'
             space = str_space( tabs, str )
         when :demos
-            insert = Demonstrations.generate( path_docus )
+            insert = Demonstrations.generate( path_demos )
             str = '  - Demos'
             space = str_space( tabs, str )
         end
