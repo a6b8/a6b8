@@ -20,7 +20,6 @@ module Demonstrations
                 url: nil
             }
 
-            puts project
             name = project[:repo]
                 .split( '-' )
                 .map { | a | "#{a[ 0, 1 ].upcase}#{a[ 1, a.length ]}" }
@@ -63,7 +62,7 @@ module Demonstrations
             puts "prepare: #{prepare[:tags]}"
             str = prepare
                 .map { | k, v | v }
-                .join( ' |' )
+                .join( ' | ' )
                 .concat( ' |' )
                 .insert( 0, '| ')
             strs.push( str )
