@@ -14,6 +14,7 @@ require 'nokogiri'
 require 'fileutils'
 require 'active_support/core_ext/hash/indifferent_access'
 
+require './__generate/modules/totals'
 require './__generate/modules/repositories'
 require './__generate/modules/gists'
 require './__generate/modules/documentations'
@@ -40,6 +41,10 @@ readme = File.read( path_readme )
 overview.each do | key, value |
     if value
         case key
+        when :total
+            insert = Totals.generate( path_repos )
+            str = '  - Totals'
+            space = str_space( tabs, str )
         when :repos
             insert = Repositories.generate( path_repos )
             str = '  - Repos'
