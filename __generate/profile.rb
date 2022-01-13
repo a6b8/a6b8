@@ -29,6 +29,7 @@ path_readme = './__generate/templates/README_TEMPLATE.md'
 path_export = "#{Dir.pwd.split('__generate').first}/README.md"
 
 overview = {
+    totals: true,
     repos: true,
     gists: true,
     docs: true
@@ -41,7 +42,7 @@ readme = File.read( path_readme )
 overview.each do | key, value |
     if value
         case key
-        when :total
+        when :totals
             insert = Totals.generate( path_repos )
             str = '  - Totals'
             space = str_space( tabs, str )
