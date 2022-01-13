@@ -72,7 +72,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 
 ### 🦖 Overview
 
-<<--TOTAL-->>
+<<--TOTALS-->>
 
 | Name | Total  |
 | ---- | ---- |

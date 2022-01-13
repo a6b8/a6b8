@@ -72,7 +72,9 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 
 ### 🦖 Overview
 
-<<--TOTAL-->>
+- created: [26](https://github.com/a6b8?tab=repositories&q=&type=source)
+- forked: [3](https://github.com/a6b8?tab=repositories&q=&type=forked)
+- archived: [7](https://github.com/a6b8?tab=repositories&q=&type=archived)
 
 | Name | Total  |
 | ---- | ---- |
