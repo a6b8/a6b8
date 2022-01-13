@@ -68,15 +68,15 @@ module Totals
             }
         }
     
-        m[:root] = m[:root].gsub( '{{gh_user}}', github_user )
+        config[:root] = config[:root].gsub( '{{gh_user}}', github_user )
           
-        m[:routes].keys.each do | key |
-            m[:routes][ key ] = "#{m[:root]}?#{m[:routes][key]}"
+        config[:routes].keys.each do | key |
+            config[:routes][ key ] = "#{config[:root]}?#{config[:routes][key]}"
         end
 
         strs = []
         sorted.each do | k, v | 
-            str = "- #{k}: [#{v.length}](#{m[:routes][k]})"
+            str = "- #{k}: [#{v.length}](#{config[:routes][k]})"
             strs.push( str )
         end
 
