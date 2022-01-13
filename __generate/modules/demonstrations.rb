@@ -15,9 +15,9 @@ module Demonstrations
         data[:projects].each do | project |
             item = {
                 name: nil,
+                url: nil,
                 tags: nil,
-                year: nil,
-                url: nil
+                year: nil
             }
 
             name = project[:repo]
@@ -28,7 +28,7 @@ module Demonstrations
             item[:name] = "[#{name}](https://github.com/#{data[:meta][:github_user]})"
             
             item[:year] = project[:year]
-            item[:url] = "https://#{data[:meta][:github_user]}.github.io/#{project[:repo]}/"
+            item[:url] = "[#{data[:types][:url]]}](https://#{data[:meta][:github_user]}.github.io/#{project[:repo]})"
 
             item[:tags] = project[:tags]
                 .map { | a | "[#{a}](https://github.com/search?q=#{a})" }

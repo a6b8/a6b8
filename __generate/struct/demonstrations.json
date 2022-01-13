@@ -2,6 +2,9 @@
     "meta": {
         "github_user": "a6b8"
     },
+    "types": {
+        "url": "🕹️"
+    },
     "projects": [
         {
             "repo":  "placeholder-webpage-docker",
