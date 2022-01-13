@@ -6,7 +6,7 @@ module Totals
         all = repos_all( github_user: hash[:meta][:github_user] )
         sorted = repos_fork( repos: all )
 
-        return to_html( github_user: hash[:meta][:github_user], data: sorted )
+        return to_markdown( github_user: hash[:meta][:github_user], data: sorted )
     end
 
 
