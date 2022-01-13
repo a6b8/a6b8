@@ -7,18 +7,23 @@
     },
     "projects": [
         {
+            "repo": "",
+            "tags": [],
+            "year": 2021
+        },
+        {
             "repo":  "placeholder-webpage-docker",
-            "tags": [ "Docker", "p5js" ],
+            "tags": [ "p5js", "Rancher", "Docker" ],
             "year": 2018
         },
         {
             "repo": "yaml-generator-loadbalancer",
-            "tags": [ "Docker", "yaml", "p5js" ],
+            "tags": [ "Rancher", "Docker", "Loadbalancer" ],
             "year": 2018
         },
         {
             "repo": "yaml-generator-wordpress",
-            "tags": [ "Docker", "yaml", "p5js" ],
+            "tags": [ "Wordpress", "Docker", "p5js" ],
             "year": 2018
         }
     ]

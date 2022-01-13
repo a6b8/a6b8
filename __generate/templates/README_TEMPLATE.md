@@ -132,7 +132,7 @@ My mission is to share all my internal used code snippets with the world. Theref
 <br>
 <br>
 
-### 🏗️ Demonstrations
+### 🎮 Demonstrations
 
 <<--DEMOS-->>
 <br>
