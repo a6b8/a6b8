@@ -59,7 +59,6 @@ module Demonstrations
         strs.push( str )
 
         prepares.each do | prepare |
-            puts "prepare: #{prepare[:tags]}"
             str = prepare
                 .map { | k, v | v }
                 .join( ' | ' )

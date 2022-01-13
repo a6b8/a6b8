@@ -8,12 +8,12 @@
     "projects": [
         {
             "repo": "statosio-sandbox",
-            "tags": [ "wordpress" ],
+            "tags": [ "Statosio", "Wordpress" ],
             "year": 2021
         },
         {
             "repo":  "placeholder-webpage-docker",
-            "tags": [ "p5js", "Rancher", "Docker" ],
+            "tags": [ "p5.js", "Rancher", "Docker" ],
             "year": 2018
         },
         {
@@ -23,7 +23,7 @@
         },
         {
             "repo": "yaml-generator-wordpress",
-            "tags": [ "Wordpress", "Docker", "p5js" ],
+            "tags": [ "Wordpress", "Docker", "p5.js" ],
             "year": 2018
         }
     ]
