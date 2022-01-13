@@ -5,7 +5,7 @@
     "projects": [
         {
             "repo":  "placeholder-webpage-docker",
-            "tags": [ "Docker", "p5.js" ],
+            "tags": [ "Docker", "p5js" ],
             "year": 2018
         },
         {
