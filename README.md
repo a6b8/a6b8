@@ -163,7 +163,6 @@ My mission is to share all my internal used code snippets with the world. Theref
 | <a href="https://github.com/a6b8/write-invoice-for-ruby"><img src="https://docs.writeinvoice.com/assets/images/logo.png" style="max-width: 100%; height: 25px; filter: grayscale(1);"></a> | [🏗️](https://github.com/a6b8/write-invoice-for-ruby-documentation/blob/main/__generate/struct/blocks.json) | [165](https://docs.writeinvoice.com/sitemap.xml) | [5](https://docs.writeinvoice.com/tutorials/) | [146](https://docs.writeinvoice.com/options/) | [259](https://docs.writeinvoice.com/options/#categories) | [docs.writeinvoice.com](https://docs.writeinvoice.com) |
 
 <br>
-<br>
 
 ### 🎮 Demonstrations
 

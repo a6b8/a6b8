@@ -67,7 +67,6 @@ module Demonstrations
             strs.push( str )
         end
 
-
         return strs.join( "\n" )
     end
 end
