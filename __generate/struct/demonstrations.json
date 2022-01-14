@@ -7,7 +7,7 @@
     },
     "projects": [
         {
-            "repo": "statosio-sandbox",
+            "repo": "statosio-shortcode-generator",
             "tags": [ "Statosio", "Wordpress" ],
             "year": 2021
         },
