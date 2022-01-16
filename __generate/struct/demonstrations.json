@@ -15,28 +15,28 @@
         },
         {
             "name": "Shortcode Generator for Statosio",
-            "folder": "",
+            "folder": null,
             "repo": "statosio-shortcode-generator",
             "tags": [ "Statosio", "Wordpress" ],
             "year": 2021
         },
         {
             "name": "Placeholder Webpage for Docker Loadbalancer",
-            "folder": "",
+            "folder": null,
             "repo":  "placeholder-webpage-docker",
             "tags": [ "p5.js", "Rancher", "Docker" ],
             "year": 2018
         },
         {
             "name": "Loadbalancer .yaml generator for Rancher.",
-            "folder": "",
+            "folder": null,
             "repo": "yaml-generator-loadbalancer",
             "tags": [ "Loadbalancer", "Rancher", "Docker" ],
             "year": 2018
         },
         {
             "name": "Wordpress .yaml generator for Rancher.",
-            "folder": "",
+            "folder": null,
             "repo": "yaml-generator-wordpress",
             "tags": [ "Wordpress", "Rancher", "Docker" ],
             "year": 2018

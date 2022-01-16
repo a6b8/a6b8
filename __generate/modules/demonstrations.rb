@@ -20,15 +20,15 @@ module Demonstrations
                 year: nil
             }
 
-            item[:name] = "[#{project[:name]}](https://github.com/#{data[:meta][:github_user]}/#{project[:repo]})"
+
+            folder = !project[:folder].eql?( nil ) ? ( '/' + project[:folder] ) : ''
+            item[:name] = "[#{project[:name]}](https://github.com/#{data[:meta][:github_user]}/#{project[:repo]}#{folder})"
             
             item[:year] = project[:year]
-            tmp = !project[:folder].eql?( nil ) ? ( '/' + project[:folder] ) : ''
-
             item[:url] << "[#{data[:types][:url]}]"
             item[:url] << "(https://#{data[:meta][:github_user]}.github.io/"
             item[:url] << "#{project[:repo]}"
-            item[:url] << "#{tmp})"
+            item[:url] << "#{folder})"
 
 
             item[:tags] = project[:tags]
