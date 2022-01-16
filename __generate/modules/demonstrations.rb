@@ -30,9 +30,9 @@ module Demonstrations
             item[:url] << "#{project[:repo]}"
             item[:url] << "#{folder})"
 
-
+            query = URI.encode_www_form( { :q => a } )
             item[:tags] = project[:tags]
-                .map { | a | "[#{a}](https://github.com/search?q=#{a})" }
+                .map { | a | "[#{a}](https://github.com/search?q=#{query})" }
                 .join( ', ' )
 
             items.push( item )
