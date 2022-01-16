@@ -15,7 +15,7 @@ module Demonstrations
         data[:projects].each do | project |
             item = {
                 name: nil,
-                url: nil,
+                url: '',
                 tags: nil,
                 year: nil
             }
