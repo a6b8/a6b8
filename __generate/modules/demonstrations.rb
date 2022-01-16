@@ -23,7 +23,12 @@ module Demonstrations
             item[:name] = "[#{project[:name]}](https://github.com/#{data[:meta][:github_user]}/#{project[:repo]})"
             
             item[:year] = project[:year]
-            item[:url] = "[#{data[:types][:url]}](https://#{data[:meta][:github_user]}.github.io/#{project[:repo]}#{!project[:folder].eql? nil ? '/' + project[:folder] : ''})"
+
+            item[:url] << "[#{data[:types][:url]}]"
+            item[:url] << "(https://#{data[:meta][:github_user]}.github.io/"
+            item[:url] << "#{project[:repo]}"
+            item[:url] << "#{!project[:folder].eql?( nil ) ? ( '/' + project[:folder] ) : ''})"
+
 
             item[:tags] = project[:tags]
                 .map { | a | "[#{a}](https://github.com/search?q=#{a})" }
