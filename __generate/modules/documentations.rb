@@ -17,7 +17,7 @@ module Documentations
         mds = ''
 
         keys = [ 'name', 'struct', 'pages', 'tutorials', 'options', 'examples', 'url' ]
-        mds += "|#{keys.map { | a | " #{a[0].upcase}#{a[1,a.length]} |" }.join( '' )}\n"
+        mds += "|#{keys.map { | a | " #{a[ 0 ].upcase}#{a[ 1, a.length ]} |" }.join( '' )}\n"
         mds += "|#{keys.map { | a | ' :--- |' }.join( '' )}\n"
 
         projects.each do | project |

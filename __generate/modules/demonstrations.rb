@@ -20,7 +20,6 @@ module Demonstrations
                 year: nil
             }
 
-
             folder = !project[:folder].eql?( nil ) ? ( '/' + project[:folder] ) : ''
             item[:name] = "[#{project[:name]}](https://github.com/#{data[:meta][:github_user]}/#{project[:repo]}#{folder})"
             
@@ -30,9 +29,11 @@ module Demonstrations
             item[:url] << "#{project[:repo]}"
             item[:url] << "#{folder})"
 
-            query = URI.encode_www_form( { :q => a } )
             item[:tags] = project[:tags]
-                .map { | a | "[#{a}](https://github.com/search?q=#{query})" }
+                .map { | a | 
+                    query = URI.encode_www_form( { :q => a } )
+                    "[#{a}](https://github.com/search?#{query})" 
+                }
                 .join( ', ' )
 
             items.push( item )
