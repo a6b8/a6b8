@@ -21,7 +21,7 @@ module Demonstrations
             }
 
             folder = !project[:folder].eql?( nil ) ? ( '/' + project[:folder] ) : ''
-            item[:name] = "[#{project[:name]}](https://github.com/#{data[:meta][:github_user]}/#{project[:repo]}#{folder}){:target=\"_blank\"}"
+            item[:name] = "[#{project[:name]}](https://github.com/#{data[:meta][:github_user]}/#{project[:repo]}#{folder})"
             
             item[:year] = project[:year]
             item[:url] << "[#{data[:types][:url]}]"

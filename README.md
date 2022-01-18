@@ -168,11 +168,11 @@ My mission is to share all my internal used code snippets with the world. Theref
 
 | Name |Tags |Year |Url |
 | :--- |:--- |:--- |:--- |
-| [Context Menu for HTML Canvas Applications](https://github.com/a6b8/demos/context-menu){:target="_blank"} | [HTML Canvas](https://github.com/search?q=HTML+Canvas), [Hover](https://github.com/search?q=Hover) | 2021 | [🕹️](https://a6b8.github.io/demos/context-menu) |
-| [Shortcode Generator for Statosio](https://github.com/a6b8/statosio-shortcode-generator){:target="_blank"} | [Statosio](https://github.com/search?q=Statosio), [Wordpress](https://github.com/search?q=Wordpress) | 2021 | [🕹️](https://a6b8.github.io/statosio-shortcode-generator) |
-| [Placeholder Webpage for Docker Loadbalancer](https://github.com/a6b8/placeholder-webpage-docker){:target="_blank"} | [p5.js](https://github.com/search?q=p5.js), [Rancher](https://github.com/search?q=Rancher), [Docker](https://github.com/search?q=Docker) | 2018 | [🕹️](https://a6b8.github.io/placeholder-webpage-docker) |
-| [Loadbalancer .yaml generator for Rancher.](https://github.com/a6b8/yaml-generator-loadbalancer){:target="_blank"} | [Loadbalancer](https://github.com/search?q=Loadbalancer), [Rancher](https://github.com/search?q=Rancher), [Docker](https://github.com/search?q=Docker) | 2018 | [🕹️](https://a6b8.github.io/yaml-generator-loadbalancer) |
-| [Wordpress .yaml generator for Rancher.](https://github.com/a6b8/yaml-generator-wordpress){:target="_blank"} | [Wordpress](https://github.com/search?q=Wordpress), [Rancher](https://github.com/search?q=Rancher), [Docker](https://github.com/search?q=Docker) | 2018 | [🕹️](https://a6b8.github.io/yaml-generator-wordpress) |
+| [Context Menu for HTML Canvas Applications](https://github.com/a6b8/demos/context-menu) | [HTML Canvas](https://github.com/search?q=HTML+Canvas), [Hover](https://github.com/search?q=Hover) | 2021 | [🕹️](https://a6b8.github.io/demos/context-menu) |
+| [Shortcode Generator for Statosio](https://github.com/a6b8/statosio-shortcode-generator) | [Statosio](https://github.com/search?q=Statosio), [Wordpress](https://github.com/search?q=Wordpress) | 2021 | [🕹️](https://a6b8.github.io/statosio-shortcode-generator) |
+| [Placeholder Webpage for Docker Loadbalancer](https://github.com/a6b8/placeholder-webpage-docker) | [p5.js](https://github.com/search?q=p5.js), [Rancher](https://github.com/search?q=Rancher), [Docker](https://github.com/search?q=Docker) | 2018 | [🕹️](https://a6b8.github.io/placeholder-webpage-docker) |
+| [Loadbalancer .yaml generator for Rancher.](https://github.com/a6b8/yaml-generator-loadbalancer) | [Loadbalancer](https://github.com/search?q=Loadbalancer), [Rancher](https://github.com/search?q=Rancher), [Docker](https://github.com/search?q=Docker) | 2018 | [🕹️](https://a6b8.github.io/yaml-generator-loadbalancer) |
+| [Wordpress .yaml generator for Rancher.](https://github.com/a6b8/yaml-generator-wordpress) | [Wordpress](https://github.com/search?q=Wordpress), [Rancher](https://github.com/search?q=Rancher), [Docker](https://github.com/search?q=Docker) | 2018 | [🕹️](https://a6b8.github.io/yaml-generator-wordpress) |
 
 
 ### Experiments
