@@ -177,10 +177,11 @@ My mission is to share all my internal used code snippets with the world. Theref
 
 ### Experiments
 
-| Name |Url |Tags |Year |
-| :--- |:--- |:--- |:--- |
-| [Metaverse Explorer](https://github.com/a6b8/) | [👓](https://a6b8.github.io/nft-gallery-experience/) | Three.js |  |
-| [NFT Market Cap](https://github.com/a6b8/) | [👓](https://market.tradmint.com) | Covalent API, React |  |
+| Name |Description |Tags |Url |Desciption |Year |
+| :--- |:--- |:--- |:--- |:--- |:--- |
+| Metaverse Explorer |  | Three.js | [👓](https://a6b8.github.io/nft-gallery-experience/) | Demo for future NFT Projects. |  |
+| Laydah |  | Three.js | [👓](https://a6b8.github.io/nft-gallery-experience/) | Rails App to schedule Tweets. |  |
+| NFT Market Cap |  | Covalent API, React | [👓](https://market.tradmint.com) | Blockchain Observer for EVM Chains |  |
 <br>
 <br>
 

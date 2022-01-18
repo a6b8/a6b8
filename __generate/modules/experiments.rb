@@ -16,7 +16,7 @@ module Experiments
             item = {
                 name: nil,
                 description: nil,
-                tags: nil
+                tags: nil,
                 url: '',
             }
 
