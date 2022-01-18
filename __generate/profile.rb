@@ -70,7 +70,7 @@ overview.each do | key, value |
             str = '  - Demos'
             space = str_space( tabs, str )
         when :experiments
-            insert = Demonstrations.generate( path_experiments )
+            insert = Experiments.generate( path_experiments )
             str = '  - Experiments'
             space = str_space( tabs, str )
         end
