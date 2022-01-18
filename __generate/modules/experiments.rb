@@ -21,12 +21,11 @@ module Experiments
             }
 
             folder = !project[:folder].eql?( nil ) ? ( '/' + project[:folder] ) : ''
-            item[:name] = "#{project[:name]}"
-            
+
             item[:description] = project[:description]
 
-            item[:url] << "[#{data[:types][:url]}]"
-            item[:url] << "(#{project[:url]})"
+            item[:name] << "[#{project[:name]}]"
+            item[:name] << "(#{project[:url]})"
             
 
             item[:tags] = project[:tags]
