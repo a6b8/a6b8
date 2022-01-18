@@ -12,7 +12,9 @@ module Experiments
     def self.prepares( data: )
         items = []
 
-        data[:projects].each do | project |
+        data[:projects]
+        .sort_by { | project | project[:name] }
+        .each do | project |
             item = {
                 name: '',
                 description: nil,
