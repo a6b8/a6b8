@@ -8,11 +8,19 @@
     "projects": [
         {
             "name": "Metaverse Explorer",
+            "description": "Demo for future NFT Projects.",
+            "tags": [ "Three.js" ],
+            "url":  "https://a6b8.github.io/nft-gallery-experience/"
+        },
+        {
+            "name": "Laydah",
+            "description": "Rails App to schedule Tweets.",
             "tags": [ "Three.js" ],
             "url":  "https://a6b8.github.io/nft-gallery-experience/"
         },
         {
             "name": "NFT Market Cap",
+            "description": "Blockchain Observer for EVM Chains",
             "tags": [ "Covalent API", "React" ],
             "url":  "https://market.tradmint.com"
         }
