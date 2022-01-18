@@ -8,7 +8,7 @@
     "projects": [
         {
             "name": "Metaverse Explorer",
-            "description": "Demo for future NFT Projects.",
+            "description": "Fork from Covalent: Demo for future NFT Projects.",
             "tags": [ "Three.js" ],
             "url":  "https://a6b8.github.io/nft-gallery-experience/"
         },
