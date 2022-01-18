@@ -14,10 +14,9 @@ module Experiments
 
         data[:projects].each do | project |
             item = {
-                name: nil,
+                name: '',
                 description: nil,
-                tags: nil,
-                url: '',
+                tags: nil
             }
 
             folder = !project[:folder].eql?( nil ) ? ( '/' + project[:folder] ) : ''
