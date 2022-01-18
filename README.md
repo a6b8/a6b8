@@ -175,12 +175,12 @@ My mission is to share all my internal used code snippets with the world. Theref
 | [Wordpress .yaml generator for Rancher.](https://github.com/a6b8/yaml-generator-wordpress) | [Wordpress](https://github.com/search?q=Wordpress), [Rancher](https://github.com/search?q=Rancher), [Docker](https://github.com/search?q=Docker) | 2018 | [🕹️](https://a6b8.github.io/yaml-generator-wordpress) |
 
 
-### Experiments
+### Other
 
 | Name |Description |Tags |Url |Desciption |
 | :--- |:--- |:--- |:--- |:--- |
 | Metaverse Explorer |  | Three.js | [👓](https://a6b8.github.io/nft-gallery-experience/) | Demo for future NFT Projects. |
-| Laydah |  | Three.js | [👓](https://a6b8.github.io/nft-gallery-experience/) | Rails App to schedule Tweets. |
+| Laydah |  | Rails, Twitter API | [👓](https://a6b8.github.io/nft-gallery-experience/) | Rails App to schedule Tweets. |
 | NFT Market Cap |  | Covalent API, React | [👓](https://market.tradmint.com) | Blockchain Observer for EVM Chains |
 <br>
 <br>
