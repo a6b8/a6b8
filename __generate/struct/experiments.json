@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "github_user": "a6b8"
+    },
+    "types": {
+        "url": "👓"
+    },
+    "projects": [
+        {
+            "name": "Metaverse Explorer",
+            "tags": [ "Three.js" ],
+            "url":  "https://a6b8.github.io/nft-gallery-experience/"
+        },
+        {
+            "name": "NFT Market Cap",
+            "tags": [ "Covalent API", "React" ],
+            "url":  "https://market.tradmint.com"
+        }
+    ]
+}

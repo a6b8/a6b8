@@ -19,6 +19,7 @@ require './__generate/modules/repositories'
 require './__generate/modules/gists'
 require './__generate/modules/documentations'
 require './__generate/modules/demonstrations'
+require './__generate/modules/experiments'
 
 require './__generate/modules/headlines/markdown'
 require './__generate/modules/headlines/font_to_path'
@@ -26,6 +27,8 @@ require './__generate/modules/headlines/font_to_path'
 path_repos = './__generate/struct/repositories.json'
 path_docus = './__generate/struct/documentations.json'
 path_demos = './__generate/struct/demonstrations.json'
+path_experiments = './__generate/struct/experiments.json'
+
 path_headers = './__generate/struct/headlines.json'
 path_readme = './__generate/templates/README_TEMPLATE.md'
 path_export = "#{Dir.pwd.split('__generate').first}/README.md"
@@ -35,7 +38,8 @@ overview = {
     repos: true,
     gists: true,
     docs: true,
-    demos: true
+    demos: true,
+    experiments: true
 }
 
 tabs = 40
@@ -64,6 +68,10 @@ overview.each do | key, value |
         when :demos
             insert = Demonstrations.generate( path_demos )
             str = '  - Demos'
+            space = str_space( tabs, str )
+        when :experiments
+            insert = Demonstrations.generate( path_experiments )
+            str = '  - Experiments'
             space = str_space( tabs, str )
         end
 
