@@ -15,13 +15,13 @@ module Demonstrations
         data[:projects].each do | project |
             item = {
                 name: nil,
-                url: '',
                 tags: nil,
-                year: nil
+                year: nil,
+                url: ''
             }
 
             folder = !project[:folder].eql?( nil ) ? ( '/' + project[:folder] ) : ''
-            item[:name] = "[#{project[:name]}](https://github.com/#{data[:meta][:github_user]}/#{project[:repo]}#{folder})"
+            item[:name] = "[#{project[:name]}](https://github.com/#{data[:meta][:github_user]}/#{project[:repo]}#{folder}){:target="_blank"}"
             
             item[:year] = project[:year]
             item[:url] << "[#{data[:types][:url]}]"

@@ -25,7 +25,6 @@ module Experiments
             
             item[:desciption] = project[:description]
 
-            item[:year] = project[:year]
             item[:url] << "[#{data[:types][:url]}]"
             item[:url] << "(#{project[:url]})"
             
@@ -48,7 +47,7 @@ module Experiments
         strs = []
         str = prepares[ 0 ]
             .keys
-            .map { | a | "#{a.to_s[0, 1].upcase}#{a.to_s[ 1, a.length ]}" }
+            .map { | a | "#{a.to_s[ 0, 1 ].upcase}#{a.to_s[ 1, a.length ]}" }
             .join( ' |' )
             .concat( ' |' )
             .insert( 0, '| ')
