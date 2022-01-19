@@ -68,7 +68,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 - 🌱 I’m currently learning **Solidity and Web3 stuff**
 - 💬 Ask me about **Art, Creative Coding & Ruby**
 - 📫 How to reach me: [@_a6b8_](https://twitter.com/_a6b8) on Twitter
-- ⚡ Fun fact: In the 90´s my favorite Skatespot was a ledge 100m away from the birthplace of Cartographer [Waldseemüller (1470 – 1520)](https://en.wikipedia.org/wiki/Martin_Waldseemüller) which is famous for giving the continent ["America"](https://en.wikipedia.org/wiki/Naming_of_the_Americas) her Name.
+- ⚡ Fun fact: In the 90´s my favorite Skatespot was a ledge 100m away from the birthplace of Cartographer [Waldseemüller (1470 – 1520)](https://en.wikipedia.org/wiki/Martin_Waldseemüller) which is famous for giving the continent ["America"](https://en.wikipedia.org/wiki/Naming_of_the_Americas) the Name.
 
 ### 🦖 Overview
 
@@ -130,7 +130,9 @@ My mission is to share all my internal used code snippets with the world. Theref
 
 <<--DOCS-->>
 
-### 🎮 Demonstrations
+<br>
+
+### 🎮 Interactives
 
 <<--DEMOS-->>
 
