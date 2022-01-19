@@ -48,10 +48,10 @@ module Documentations
 
                     str = ''
                     str = str
-                        .concat( '<a href="#-modules"><img src=')
+                        .concat( '<a href="#-modules"><img src="')
                         .concat( "#{href}" )
                         .concat( "?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label=" )
-                        .concat( '></a>')
+                        .concat( "'></a>')
                 else
 
                 end
