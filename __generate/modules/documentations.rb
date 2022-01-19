@@ -16,7 +16,7 @@ module Documentations
     def self.table( projects, config )
         mds = ''
 
-        keys = [ 'name', 'struct', 'pages', 'tutorials', 'options', 'examples', 'url', 'up' ]
+        keys = [ 'name', 'struct', 'pages', 'tutorials', 'options', 'examples', 'status', 'url' ]
         mds += "|#{keys.map { | a | " #{a[ 0 ].upcase}#{a[ 1, a.length ]} |" }.join( '' )}\n"
         mds += "|#{keys.map { | a | ' :--- |' }.join( '' )}\n"
 
@@ -41,7 +41,7 @@ module Documentations
                     str = "[#{project[ key ]}](#{project[ 'url' ]}/options/)"
                 when 'url'
                     str = "[#{project[ 'url' ].gsub( 'https://', '' )}](#{project[ 'url' ]})"
-                when 'up'
+                when 'status'
                     href = config[:endpoints][:uptime_robot]
                         .gsub( '{{uptime_key}}', project[:uptime] )
 
