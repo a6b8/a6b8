@@ -43,6 +43,7 @@ module Documentations
                     str = "[#{project[ 'url' ].gsub( 'https://', '' )}](#{project[ 'url' ]})"
                 when 'up'
                     path = config[:endpoints][:uptime]
+                    str = ''
                     str = str
                         .concat( '<a href="#-modules"><img src=')
                         .concat( "#{config[:endpoints][:uptime].gsub('{{uptime_key}}', project[ key ][:uptime])}" )
