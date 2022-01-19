@@ -32,7 +32,7 @@ module Experiments
             item[:tags] = project[:tags]
                 .map { | a | 
                     query = URI.encode_www_form( { :q => a } )
-                    "#{a}" 
+                    "[#{a}](https://github.com/search?#{query})" 
                 }
                 .join( ', ' )
 
