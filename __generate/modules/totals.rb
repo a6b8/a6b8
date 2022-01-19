@@ -26,7 +26,6 @@ module Totals
             expand = false
           else
             txt = txt.with_indifferent_access
-            puts txt
             all.concat( txt[:data] )
             all = all.flatten
             nr = nr + 1
