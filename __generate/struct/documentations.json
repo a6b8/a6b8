@@ -15,7 +15,8 @@
             "doc": "https://github.com/a6b8/write-invoice-for-ruby-documentation",
             "struct": "https://github.com/a6b8/write-invoice-for-ruby-documentation/blob/main/__generate/struct/blocks.json",
             "lib": "https://github.com/a6b8/write-invoice-for-ruby",
-            "logo": "https://docs.writeinvoice.com/assets/images/logo.png"
+            "logo": "https://docs.writeinvoice.com/assets/images/logo.png",
+            "uptime": ""
         }
     ],
     "endpoints": {

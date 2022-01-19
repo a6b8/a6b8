@@ -4,7 +4,7 @@ module Documentations
         hash = JSON.parse( file ).with_indifferent_access
         projects = self.projects( hash )
 
-        mds = self.table( projects )
+        mds = self.table( projects, hash )
 
         return mds
     end
@@ -13,10 +13,10 @@ module Documentations
     private 
 
 
-    def self.table( projects )
+    def self.table( projects, config )
         mds = ''
 
-        keys = [ 'name', 'struct', 'pages', 'tutorials', 'options', 'examples', 'url' ]
+        keys = [ 'name', 'struct', 'pages', 'tutorials', 'options', 'examples', 'url', 'up' ]
         mds += "|#{keys.map { | a | " #{a[ 0 ].upcase}#{a[ 1, a.length ]} |" }.join( '' )}\n"
         mds += "|#{keys.map { | a | ' :--- |' }.join( '' )}\n"
 
@@ -41,6 +41,12 @@ module Documentations
                     str = "[#{project[ key ]}](#{project[ 'url' ]}/options/)"
                 when 'url'
                     str = "[#{project[ 'url' ].gsub( 'https://', '' )}](#{project[ 'url' ]})"
+                when 'up'
+                    path = config[:endpoints][:uptime]
+                    str = str
+                        .concat( '<a href="#-modules"><img src=')
+                        .concat( "#{config[:endpoints][:uptime].gsub('{{uptime_key}}', project[ key ][:uptime])}" )
+                        .concat( '></a>')
                 else
 
                 end
