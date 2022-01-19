@@ -44,7 +44,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
                   `hMMmMMy 
                    `dMNMm`                             Blockchain
                     -NMM:                              -------------------
-                     sMy                               First BTC: 2013
+                     sMy                               First Pizza bought with BTC: 2013
                      .d.                               First Meta Mask IX: 2016
                                                        Smart Contracts: Watching since Namecoin...
                        :                               NFTs: Watching since Colored Coins, Etherea...
@@ -77,6 +77,9 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 **Stats**
 - Total Stars <a href="#-modules"><img src="https://img.shields.io/github/stars/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a>
 - Ruby Gems <a href="#-modules"><img src="https://img.shields.io/gem/u/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a> 
+- Total Lines of Code: <a href="#-modules"><img src="https://img.shields.io/gem/u/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a> 
+
+https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-585%20Thousand%20lines%20of%20code-blue
 
 [RubyGems](https://rubygems.org/profiles/a6b8) 🔸 [Npm](https://www.npmjs.com/~a6b8) 🔸 [Dockerhub](https://hub.docker.com/u/a6b8)
 
