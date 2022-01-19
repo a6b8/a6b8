@@ -16,7 +16,7 @@ module Documentations
     def self.table( projects, config )
         mds = ''
 
-        keys = [ 'name', 'struct', 'pages', 'tutorials', 'options', 'examples', 'status', 'url' ]
+        keys = [ 'name', 'status', 'struct', 'pages', 'tutorials', 'options', 'examples', 'url' ]
         mds += "|#{keys.map { | a | " #{a[ 0 ].upcase}#{a[ 1, a.length ]} |" }.join( '' )}\n"
         mds += "|#{keys.map { | a | ' :--- |' }.join( '' )}\n"
 
