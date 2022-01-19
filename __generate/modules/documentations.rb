@@ -42,8 +42,9 @@ module Documentations
                 when 'url'
                     str = "[#{project[ 'url' ].gsub( 'https://', '' )}](#{project[ 'url' ]})"
                 when 'up'
-                    puts config
-                    href = config[:endpoints][:uptime].gsub('{{uptime_key}}', project[ key ][:uptime])
+                    # puts config[:endpoints][:uptime]
+                    # puts project[ key ][:uptime]
+                    href = config[:endpoints][:uptime].gsub('{{uptime_key}}', project[:uptime])
 
                     str = ''
                     str = str
