@@ -26,6 +26,8 @@ module Headlines
             readmes.push( readme )
         end
 
+        #puts readmes.pretty_inspect
+
         headline = nil
         default = nil
 

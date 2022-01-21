@@ -22,6 +22,7 @@ module Markdown
                 .first
 
             load( url: urls[ index ] )
+            # puts urls[ index ]
             headers = headers( 
                 selector: selector, 
                 silent: true, 
@@ -72,11 +73,12 @@ module Markdown
 
                     if keys.include? selector
                         raw = image.attribute( selector ).value.strip
+                        # puts "- #{raw}"
                         #print raw
                         # print "#{raw}: "
                         # puts "Raw: #{raw} \nTest: #{raw.start_with?( '#' )}"
                         item[:type] = raw.start_with?( '#' ) ? :custom : :default
-
+                        # puts "-- #{item[:type]}"
                         #print " > #{item[:type]}"
                         #puts
                         #print '1 OK: '
@@ -87,11 +89,13 @@ module Markdown
 
                         item[:text] = raw.split( '#' ).last.strip.gsub( '-', ' ' ).split( ' ' )
                             .map { | a | "#{a[ 0, 1 ].upcase}#{a[ 1, a.length]}" }.join( ' ' )
+                        # puts "--- #{item[:text]}"
 
                         item[:file_name] = item[:text]
                             .split( ' ' )
                             .map { | a | a.downcase }
                             .join( '-' )
+                        
                         tests[ 0 ] = true  
                     else
                         #print '1 NOT OK: '
@@ -110,12 +114,16 @@ module Markdown
 
                             if item[:type] == :default
                                 tests[ 1 ] = item[:file_name].eql? name
+                                puts tests.to_s
                             else
+                                #puts "---- #{item[:file_name]}"
+                                
                                 # print "#{}"
                                 # print "Check1: #{item[:file_name]}  "
                                 # print "Check2: #{name}"
 
-                                tests[ 1 ] = name.downcase.eql? 'headline'
+                                tests[ 1 ] = true
+                                #puts "---- #{tests.to_s}"
                             end
 
                             # print "| Name:  #{name} <> File Name: #{item[:file_name]} |"

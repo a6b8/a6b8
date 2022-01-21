@@ -56,7 +56,7 @@ async function page( url ) {
         space2 = tmp.fill( ' ' ).join( '' )
 
         let errors = await page( urls[ i ] )
-        emoji = errors === 0 ? emojis['success'] : emojis['error']
+        emoji = ( errors.length === 0 ) ? emojis['success'] : emojis['error']
 
         !silent ? console.log( `${tabs}[${i}]${space}${name}${space2}${emoji}` ) : ''
         errors.forEach( ( str ) => { 
