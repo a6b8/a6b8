@@ -45,7 +45,7 @@ async function page( url ) {
     }
 
     console.log( '  - Visit Website' )
-    silent ? console.log( `${tabs}NR    NAME` ) : ''
+    !silent ? console.log( `${tabs}NR    NAME` ) : ''
     for( let i = 0; i < urls.length; i++ ) {
         let name = urls[ i ].split( '/' ).pop()
 
@@ -58,14 +58,14 @@ async function page( url ) {
         let errors = await page( urls[ i ] )
         emoji = errors === 0 ? emojis['success'] : emojis['error']
 
-        silent ? console.log( `${tabs}[${i}]${space}${name}${space2}${emoji}` ) : ''
+        !silent ? console.log( `${tabs}[${i}]${space}${name}${space2}${emoji}` ) : ''
         errors.forEach( ( str ) => { 
-            silent ? console.log( `${tabs}      - ${str.split('/').pop()}` ) : ''
+            !silent ? console.log( `${tabs}      - ${str.split('/').pop()}` ) : ''
         } )
     }
 
-    silent ? console.log : ''
+    !silent ? console.log : ''
     Object.keys( emojis ).forEach( ( key ) => { 
-        silent ? console.log( `${tabs}${emojis[ key ]} ${key}` ) : ''
+        !silent ? console.log( `${tabs}${emojis[ key ]} ${key}` ) : ''
     } )
 } )()
