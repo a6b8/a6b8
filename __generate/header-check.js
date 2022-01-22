@@ -40,8 +40,8 @@ async function page( url ) {
 
     l = Math.max( ...json['projects'].map( ( project ) => { return project[['github']].length } ) ) + 3
     emojis = {
-        'success': '🟩',
-        'error': '🟥'
+        'success': '✅',
+        'error': '❌'
     }
 
     console.log( '  - Visit Website' )

@@ -26,7 +26,7 @@ repos.each do | key, value |
             str = '  - Headlines'
             space = str_space( tabs, str )
 
-            puts "#{str}#{space}#{all ? "🟩" : "🟥" }"
+            puts "#{str}#{space}    #{all ? "✅" : "❌" }"
 
             tests.each { | a | 
                 k = a.keys[ 0 ].to_s.split( '_' ).map { | a | ( a[ 0, 1 ].upcase + a[ 1, a.length ] ) }.join(' ')
@@ -35,7 +35,7 @@ repos.each do | key, value |
                 str = "    - #{k}"
                 space = str_space( tabs + 4, str )
 
-                puts( "#{str}#{space}#{v ? "🟩" : "🟥" }" ) 
+                puts( "#{str}#{space}#{v ? "✅" : "❌" }" ) 
             }
         end
     end
