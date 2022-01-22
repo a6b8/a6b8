@@ -178,7 +178,7 @@ module Headlines
             [ "Credits", "🟠" ],
             [ "License", "🟡" ],
             [ "Code Of Conduct", "🟢" ],
-            [ "Support My Work", "🔵" ]
+            [ "Star Us", "🔵" ]
         ]
 
         other = "⬜️"

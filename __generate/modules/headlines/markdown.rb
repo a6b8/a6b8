@@ -22,7 +22,7 @@ module Markdown
                 .first
 
             load( url: urls[ index ] )
-            # puts urls[ index ]
+
             headers = headers( 
                 selector: selector, 
                 silent: true, 
@@ -114,7 +114,6 @@ module Markdown
 
                             if item[:type] == :default
                                 tests[ 1 ] = item[:file_name].eql? name
-                                puts tests.to_s
                             else
                                 #puts "---- #{item[:file_name]}"
                                 
@@ -210,7 +209,7 @@ module Markdown
                 [ "Credits", "🟠" ],
                 [ "License", "🟡" ],
                 [ "Code Of Conduct", "🟢" ],
-                [ "Support My Work", "🔵" ]
+                [ "Star Us", "🔵" ]
             ]
 
             other = "⬜️"
