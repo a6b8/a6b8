@@ -7,6 +7,12 @@
     },
     "projects": [
         {
+            "name": "Three.js - Cheatsheet",
+            "description": "Linklist and Demos for 3D Browser Demos.",
+            "tags": [ "Three.js" ],
+            "url":  "https://a6b8.github.io/three-js-cheatsheet/"
+        },
+        {
             "name": "Metaverse Explorer",
             "description": "Fork from Covalent: Demo for future NFT Projects.",
             "tags": [ "Three.js" ],

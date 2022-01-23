@@ -138,11 +138,11 @@ My mission is to share all my internal used code snippets with the world. Theref
 
 | Name | Description | Updated |
 | :--- | :--- | :--- |
-| 🍒 [allow_list.rb](https://gist.github.com/a6b8/4b7276ff89b4aad7064f81b807a34f4c) | Hash to Allow / Block List Array in Ruby | Jan, 2022 |
 | 🍒 [bump_version_number.rb](https://gist.github.com/a6b8/ca9b1b9b3f3c898c3e78da42c1fc7603) | Bump Version Number | Sep, 2021 |
 | 🍏 [compareArrayOfStrings.js](https://gist.github.com/a6b8/250ee76db881b4e0ad43a992278de42d) | Array of Strings comparison.  | Jan, 2022 |
 | 🍒 [env_load.rb](https://gist.github.com/a6b8/1805414b8ff076c326f5a05de429e776) | Load  .env file without  a module | Dec, 2021 |
 | 🍏 [findBrokenLinks.js](https://gist.github.com/a6b8/c9459bf12f05a92d97cca87f79921396) | Find Broken Links | Jan, 2022 |
+| 🍒 [get_allow_list.rb](https://gist.github.com/a6b8/4b7276ff89b4aad7064f81b807a34f4c) | Generate an array allow list from a multidimensional hash tree | Jan, 2022 |
 | 🍒 [github_get_all_repos.rb](https://gist.github.com/a6b8/cab57677c9496d006ac8c0af9abe66f1) | Github get all repos | Jan, 2022 |
 | 🍒 [google_fonts_download.rb](https://gist.github.com/a6b8/45116327936c0edae17f8a8138efa07d) | Google Font Download as .ttf | Oct, 2021 |
 | 🍒 [markdown_options_tables.rb](https://gist.github.com/a6b8/3f05e93bd4c73eb71d1e047d46c28cf3) | Create Option Markdown | Jul, 2021 |
@@ -184,6 +184,7 @@ My mission is to share all my internal used code snippets with the world. Theref
 | [Laydah](https://www.laydah.com) | Rails App to schedule Tweets. | [Rails](https://github.com/search?q=Rails), [Twitter](https://github.com/search?q=Twitter) |
 | [Metaverse Explorer](https://a6b8.github.io/nft-gallery-experience/) | Fork from Covalent: Demo for future NFT Projects. | [Three.js](https://github.com/search?q=Three.js) |
 | [NFT Market Cap](https://market.tradmint.com) | Blockchain Observer for EVM Chains | [Covalent API](https://github.com/search?q=Covalent+API), [React.js](https://github.com/search?q=React.js) |
+| [Three.js - Cheatsheet](https://a6b8.github.io/three-js-cheatsheet/) | Linklist and Demos for 3D Browser Demos. | [Three.js](https://github.com/search?q=Three.js) |
 <br>
 <br>
 
