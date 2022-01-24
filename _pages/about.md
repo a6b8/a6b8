@@ -42,11 +42,11 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
                   `hMMmMMy 
                    `dMNMm`                             Blockchain
                     -NMM:                              -------------------
-                     sMy                               First BTC: 2013
+                     sMy                               First Pizza bought with BTC: 2013
                      .d.                               First Meta Mask IX: 2016
                                                        Smart Contracts: Watching since Namecoin...
-                       :                               NFTs: Watching since Colored Coins...
-                       s                               Active Development: 2020
+                       :                               NFTs: Watching since Colored Coins, Etherea...
+                       s                               Active Web3 Development: 2020
                        y                          
                        N`                         
                       .M+                         
