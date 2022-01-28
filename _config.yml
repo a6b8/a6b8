@@ -17,7 +17,7 @@ icon: ✨ # the emoji used as the favicon
 url: https://andreas.dev # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
-impressum_path:  /contact/
+impressum_path:  /impressum/
 
 # -----------------------------------------------------------------------------
 # RSS Feed
