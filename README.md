@@ -80,6 +80,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 **Stats**
 - Total Stars <a href="#-modules"><img src="https://img.shields.io/github/stars/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a>
 - Ruby Gems <a href="#-modules"><img src="https://img.shields.io/gem/u/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a> 
+- Npm <a href="#-modules"><img src="https://img.shields.io/gem/u/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a> 
 
 [RubyGems](https://rubygems.org/profiles/a6b8) 🔸 [Npm](https://www.npmjs.com/~a6b8) 🔸 [Dockerhub](https://hub.docker.com/u/a6b8)
 
@@ -131,7 +132,7 @@ My mission is to share all my internal used code snippets with the world. Theref
 | 🍒 [Write Invoice for Ruby](https://github.com/a6b8/write-invoice-for-ruby) | [📖](https://github.com/a6b8/write-invoice-for-ruby#table-of-contents) | <a href="https://rubygems.org/gems/write_invoice"><img src="https://img.shields.io/gem/v/write_invoice?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://api.github.com/repos/a6b8/write-invoice-for-ruby"><img src="https://img.shields.io/github/last-commit/a6b8/write-invoice-for-ruby?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://circleci.com/api/v1.1/project/github/a6b8/write-invoice-for-ruby"><img src="https://img.shields.io/circleci/build/github/a6b8/write-invoice-for-ruby/main?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a><a href="https://github.com/a6b8/write-invoice-for-ruby/blob/main/Gemfile.lock"><img src="https://shields.io/snyk/vulnerabilities/github/a6b8/write-invoice-for-ruby?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a> | <a href="https://github.com/a6b8/write-invoice-for-ruby/graphs/traffic">📈</a><a href="https://github.com/a6b8/write-invoice-for-ruby/stargazers"><img src="https://img.shields.io/github/stars/a6b8/write-invoice-for-ruby?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&label="></a><a href="https://rubygems.org/gems/write_invoice"><img src="https://img.shields.io/gem/dt/write_invoice?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/write-invoice-for-ruby/blob/main/LICENSE.txt"><img src="https://img.shields.io/github/license/a6b8/write-invoice-for-ruby?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a> |
 | 🍒 [Xml Tree Viewer for Ruby](https://github.com/a6b8/xml-tree-viewer-for-ruby) | [📖](https://github.com/a6b8/xml-tree-viewer-for-ruby#table-of-contents) | <a href="https://rubygems.org/gems/xml_tree_viewer"><img src="https://img.shields.io/gem/v/xml_tree_viewer?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://api.github.com/repos/a6b8/xml-tree-viewer-for-ruby"><img src="https://img.shields.io/github/last-commit/a6b8/xml-tree-viewer-for-ruby?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://circleci.com/api/v1.1/project/github/a6b8/xml-tree-viewer-for-ruby"><img src="https://img.shields.io/circleci/build/github/a6b8/xml-tree-viewer-for-ruby/main?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a><a href="https://github.com/a6b8/xml-tree-viewer-for-ruby/blob/main/Gemfile.lock"><img src="https://shields.io/snyk/vulnerabilities/github/a6b8/xml-tree-viewer-for-ruby?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a> | <a href="https://github.com/a6b8/xml-tree-viewer-for-ruby/graphs/traffic">📈</a><a href="https://github.com/a6b8/xml-tree-viewer-for-ruby/stargazers"><img src="https://img.shields.io/github/stars/a6b8/xml-tree-viewer-for-ruby?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a><a href="https://rubygems.org/gems/xml_tree_viewer"><img src="https://img.shields.io/gem/dt/xml_tree_viewer?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/xml-tree-viewer-for-ruby/blob/main/LICENSE.txt"><img src="https://img.shields.io/github/license/a6b8/xml-tree-viewer-for-ruby?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a> |
 
-🍒 Ruby 🍏 JavaScript 🫐 Other
+🍒 Ruby 🍏 JavaScript / Node.js 🫐 Other
 <br>
 <br>
 
@@ -153,7 +154,7 @@ My mission is to share all my internal used code snippets with the world. Theref
 | 🍒 [shuffle_hash_of_arrays.rb](https://gist.github.com/a6b8/42724db49e52327ad12428744b0b6915) | Shuffle hash of arrays | Oct, 2021 |
 
 
-🍒 Ruby 🍏 JavaScript
+🍒 Ruby 🍏 JavaScript / Node.js
 <br>
 <br>
 
