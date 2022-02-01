@@ -15,6 +15,14 @@
     },
     "projects": [
         {
+            "type": "javascript",
+            "name": "Ethereum Read Functions",
+            "github": "ethereum-read-functions-for-nodejs",
+            "docs": true,
+            "npm": "ethereum-read-functions",
+            "circle_ci": "1"
+        },
+        {
             "type": "ruby",
             "name": "Masked Ape Club for Ruby",
             "github": "masked-ape-club-for-ruby",
