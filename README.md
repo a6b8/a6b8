@@ -142,7 +142,7 @@ My mission is to share all my internal used code snippets with the world. Theref
 | 🍒 [bump_version_number.rb](https://gist.github.com/a6b8/ca9b1b9b3f3c898c3e78da42c1fc7603) | Bump Version Number | Sep, 2021 |
 | 🍏 [compareArrayOfStrings.js](https://gist.github.com/a6b8/250ee76db881b4e0ad43a992278de42d) | Array of Strings comparison.  | Jan, 2022 |
 | 🍒 [env_load.rb](https://gist.github.com/a6b8/1805414b8ff076c326f5a05de429e776) | Load  .env file without  a module | Dec, 2021 |
-| 🍏 [evm-blocknumber-to-date.js](https://gist.github.com/a6b8/9d2f43e5696c2559f3cec52d61b7d080) | Transform evm blocknumber to date | Feb, 2022 |
+| 🍏 [evmBlocknumberToDate.js](https://gist.github.com/a6b8/9d2f43e5696c2559f3cec52d61b7d080) | Transform evm blocknumber to date | Feb, 2022 |
 | 🍏 [findBrokenLinks.js](https://gist.github.com/a6b8/c9459bf12f05a92d97cca87f79921396) | Find Broken Links | Jan, 2022 |
 | 🍒 [get_allow_list.rb](https://gist.github.com/a6b8/4b7276ff89b4aad7064f81b807a34f4c) | Generate an array allow list from a multidimensional hash tree | Jan, 2022 |
 | 🍒 [github_get_all_repos.rb](https://gist.github.com/a6b8/cab57677c9496d006ac8c0af9abe66f1) | Github get all repos | Jan, 2022 |
