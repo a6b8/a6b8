@@ -13,6 +13,12 @@
             "url":  "https://a6b8.github.io/three-js-cheatsheet/"
         },
         {
+            "name": "Metaverse Boilerplate for Polygon (EVM)",
+            "description": "Read data from Smart Contract you visualize building (cubes) on a map.",
+            "tags": [ "Three.js" ],
+            "url":  "https://a6b8.github.io/demos/metaverse-boilerplate/"
+        },
+        {
             "name": "Metaverse Explorer",
             "description": "Fork from Covalent: Demo for future NFT Projects.",
             "tags": [ "Three.js" ],
