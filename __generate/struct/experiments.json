@@ -20,7 +20,7 @@
         },
         {
             "name": "Metaverse Explorer",
-            "description": "Fork from Covalent: Demo for future NFT Projects.",
+            "description": "Fork from Covalent: Demo for future NFT <-> Metaverse Projects.",
             "tags": [ "Three.js" ],
             "url":  "https://a6b8.github.io/metaverse-explorer/"
         },

@@ -184,7 +184,7 @@ My mission is to share all my internal used code snippets with the world. Theref
 | Name |Description |Tags |
 | :--- |:--- |:--- |
 | [Laydah](https://www.laydah.com) | Rails App to schedule Tweets. | [Rails](https://github.com/search?q=Rails), [Twitter](https://github.com/search?q=Twitter) |
-| [Metaverse Explorer](https://a6b8.github.io/metaverse-explorer/) | Fork from Covalent: Demo for future NFT Projects. | [Three.js](https://github.com/search?q=Three.js) |
+| [Metaverse Explorer](https://a6b8.github.io/metaverse-explorer/) | Fork from Covalent: Demo for future NFT <-> Metaverse Projects. | [Three.js](https://github.com/search?q=Three.js) |
 | [Metaverse NFT Reader](https://a6b8.github.io/demos/metaverse-boilerplate/) | Read NFTs and show data in 3D, build on Polygon | [Three.js](https://github.com/search?q=Three.js) |
 | [NFT Market Cap](https://market.tradmint.com) | Blockchain Observer for EVM Chains | [Covalent API](https://github.com/search?q=Covalent+API), [React.js](https://github.com/search?q=React.js) |
 | [Three.js - Cheatsheet](https://a6b8.github.io/three-js-cheatsheet/) | Linklist and Demos for 3D Browser Demos. | [Three.js](https://github.com/search?q=Three.js) |
