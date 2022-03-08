@@ -122,7 +122,7 @@
             "name": "SVG 3D Renderengine for NFTs",
             "github": "svg-3d-renderengine-for-nfts",
             "docs": true,
-            "circle_ci": "1"
+            "circle_ci": "0"
         }
     ],
     "theme": {
