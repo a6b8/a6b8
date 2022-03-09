@@ -95,10 +95,6 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 ### 🤸🏻 Github Activities
 <!--START_SECTION:activity-->
 
-### 🖋 Github Contributions
-<a href="#hi-my-name">
-  <img src="https://activity-graph.herokuapp.com/graph?username=a6b8&bg_color=0E1116&color=C9D0D7&line=C9D0D7&&point=C9D0D7&&area=true&hide_border=true&hide_title=true&area=false" alt="Active Projects">
-</a>
 
 <br>
 <br>
