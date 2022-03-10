@@ -126,7 +126,7 @@
         },
         {
             "type": "javascript",
-            "name": "Ethereum Websocket Listener for nodejs",
+            "name": "Ethereum Websocket Listener",
             "github": "ethereum-websocket-listener-for-nodejs",
             "docs": true,
             "circle_ci": "1"
