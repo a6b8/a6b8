@@ -122,7 +122,14 @@
             "name": "SVG 3D Renderengine for NFTs",
             "github": "svg-3d-renderengine-for-nfts",
             "docs": true,
-            "circle_ci": "0"
+            "circle_ci": "1"
+        },
+        {
+            "type": "javascript",
+            "name": "Ethereum Websocket Listener for nodejs",
+            "github": "ethereum-websocket-listener-for-nodejs",
+            "docs": true,
+            "circle_ci": "1"
         }
     ],
     "theme": {
