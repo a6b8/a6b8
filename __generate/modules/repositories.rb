@@ -396,6 +396,7 @@ module Repositories
                 puts item.keys
                 [ :version, :updated, :test, :statistics, :license ]
                     .each { | key | item[ key ] = '' }
+                item[:title] = item[:title].concat( ' (Private)')
             end
         end
 
