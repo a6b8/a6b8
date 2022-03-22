@@ -261,7 +261,7 @@ module Repositories
             :vulnerabilities
         ].each do | key |
             str = nil
-            
+            puts tem[ key ]
             if !item[ key ].nil?
                 case key
                     when :title
