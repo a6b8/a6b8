@@ -392,8 +392,6 @@ module Repositories
 
         if current.keys.include?( "private" )
             if current[ "private" ]
-                puts true
-                puts item.keys
                 [ :version, :updated, :test, :statistics, :license ]
                     .each { | key | item[ key ] = '' }
                 item[:title] = item[:title].concat( ' (Private)')
