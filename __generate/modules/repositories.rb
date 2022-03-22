@@ -390,7 +390,9 @@ module Repositories
         item.except!( :space )
         item.except!( :vulnerabilities ) 
 
+        puts current
         puts item
+        puts '>>>>'
 
         return item
     end
