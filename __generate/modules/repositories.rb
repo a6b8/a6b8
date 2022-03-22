@@ -390,8 +390,8 @@ module Repositories
         item.except!( :space )
         item.except!( :vulnerabilities ) 
 
-        if current.keys.include?( :private )
-            if current[:private]
+        if current.keys.include?( "private" )
+            if current[ "private" ]
                 puts true
 
             end
