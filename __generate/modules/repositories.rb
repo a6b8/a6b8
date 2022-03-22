@@ -394,7 +394,8 @@ module Repositories
             if current[ "private" ]
                 puts true
                 puts item.keys
-                [:version, :updated, :test]
+                [ :version, :updated, :test, :statistics, :license ]
+                    .each { | key | item[ key ] = '' }
             end
         end
 
