@@ -261,7 +261,7 @@ module Repositories
             :vulnerabilities
         ].each do | key |
             str = nil
-            puts item[ key ]
+            # puts item[ key ]
             if !item[ key ].nil?
                 case key
                     when :title
@@ -389,6 +389,8 @@ module Repositories
         item.except!( :stars ) 
         item.except!( :space )
         item.except!( :vulnerabilities ) 
+
+        puts item
 
         return item
     end
