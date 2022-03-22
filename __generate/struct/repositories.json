@@ -129,7 +129,8 @@
             "name": "Ethereum Websocket Listener",
             "github": "ethereum-websocket-listener-for-nodejs",
             "docs": true,
-            "circle_ci": "1"
+            "circle_ci": "1",
+            "private": true
         }
     ],
     "theme": {
