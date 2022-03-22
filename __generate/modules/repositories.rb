@@ -393,7 +393,8 @@ module Repositories
         if current.keys.include?( "private" )
             if current[ "private" ]
                 puts true
-
+                puts item.keys
+                [:version, :updated, :test]
             end
         end
 
