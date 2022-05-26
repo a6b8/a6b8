@@ -73,7 +73,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 ### 🦖 Overview
 
 **Repositories**
-- created: [27](https://github.com/a6b8?tab=repositories&q=&type=source)
+- created: [28](https://github.com/a6b8?tab=repositories&q=&type=source)
 - forks: [5](https://github.com/a6b8?tab=repositories&q=&type=fork)
 - archived: [7](https://github.com/a6b8?tab=repositories&q=&type=archived)
 
@@ -139,17 +139,22 @@ My mission is to share all my internal used code snippets with the world. Theref
 | :--- | :--- | :--- |
 | 🍒 [bump_version_number.rb](https://gist.github.com/a6b8/ca9b1b9b3f3c898c3e78da42c1fc7603) | Bump Version Number | Sep, 2021 |
 | 🍏 [compareArrayOfStrings.js](https://gist.github.com/a6b8/250ee76db881b4e0ad43a992278de42d) | Array of Strings comparison.  | Jan, 2022 |
+| 🍏 [compressJsonValue.js](https://gist.github.com/a6b8/e7dd5822d5eb5ceb173e809cf2e02b5d) | Compress json value to tsv in base64. | Apr, 2022 |
 | 🍒 [env_load.rb](https://gist.github.com/a6b8/1805414b8ff076c326f5a05de429e776) | Load  .env file without  a module | Dec, 2021 |
 | 🍏 [evmBlocknumberToDate.js](https://gist.github.com/a6b8/9d2f43e5696c2559f3cec52d61b7d080) | Transform evm blocknumber to date | Feb, 2022 |
+| 🍏 [evmDecodeTopics.js](https://gist.github.com/a6b8/566892d82db46729977927698e946347) | Function for decoding Event logs and converting Big Numbers to String. | Apr, 2022 |
 | 🍏 [evmFetchAbiFromEtherscan.js](https://gist.github.com/a6b8/ce415eb8700412b7f80e64df59f6add1) | Fetch contract abi from etherscan without an api key. | Mar, 2022 |
+| 🍏 [evmFindBlockExplorer.js](https://gist.github.com/a6b8/a53174d2a84b0261f95021d6199c5ea8) | find the right block explorer for evm layer 1 and 2 networks. | Mar, 2022 |
 | 🍏 [findBrokenLinks.js](https://gist.github.com/a6b8/c9459bf12f05a92d97cca87f79921396) | Find Broken Links | Feb, 2022 |
 | 🍒 [get_allow_list.rb](https://gist.github.com/a6b8/4b7276ff89b4aad7064f81b807a34f4c) | Generate an array allow list from a multidimensional hash tree | Jan, 2022 |
 | 🍒 [github_get_all_repos.rb](https://gist.github.com/a6b8/cab57677c9496d006ac8c0af9abe66f1) | Github get all repos | Jan, 2022 |
 | 🍒 [google_fonts_download.rb](https://gist.github.com/a6b8/45116327936c0edae17f8a8138efa07d) | Google Font Download as .ttf | Oct, 2021 |
 | 🍒 [markdown_options_tables.rb](https://gist.github.com/a6b8/3f05e93bd4c73eb71d1e047d46c28cf3) | Create Option Markdown | Jul, 2021 |
+| 🍏 [merkleTreeForNftMinting.js](https://gist.github.com/a6b8/ce014840e2e395cf7fa927b75b7e29a8) | Merkle Tree for NFT Minting | May, 2022 |
 | 🍒 [options_validation.rb](https://gist.github.com/a6b8/d2edaadcdd93fbc22fffe977079abe64) | Options Validation | Oct, 2021 |
 | 🍒 [overview_markdown_table.rb](https://gist.github.com/a6b8/e9496ea255d8db40ade0cd7ac4217cee) | Overview Markdown Table | Oct, 2021 |
 | 🍒 [shuffle_hash_of_arrays.rb](https://gist.github.com/a6b8/42724db49e52327ad12428744b0b6915) | Shuffle hash of arrays | Oct, 2021 |
+| 🍏 [waitForVariableChange.js](https://gist.github.com/a6b8/359d2f6c44b152740aeefbe4a988c3d4) | Listener Class to detect variable condition changes. Usefull for async data streams. | Apr, 2022 |
 
 
 🍒 Ruby 🍏 JavaScript / Node.js
