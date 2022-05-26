@@ -131,6 +131,13 @@
             "docs": true,
             "circle_ci": "1",
             "private": true
+        },
+        {
+            "type": "javascript",
+            "name": "Ethereum Sanction Check",
+            "github": "ethereum-sanction-check-for-nodejs",
+            "docs": true,
+            "circle_ci": "1"
         }
     ],
     "theme": {
