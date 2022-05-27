@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo "A. Create Headers"
+ruby ./__generate/header.rb
 ruby ./__generate/profile_headlines.rb
 
 echo "B. Generate Profile"
