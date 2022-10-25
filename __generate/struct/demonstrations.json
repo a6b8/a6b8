@@ -7,6 +7,13 @@
     },
     "projects": [
         {
+            "name": "3D Renderengine for NFTs",
+            "folder": "svg-3d-renderengine-for-nfts",
+            "repo": "demos",
+            "tags": [ "NFT", "3D" ],
+            "year": 2022
+        },
+        {
             "name": "Context Menu for HTML Canvas Applications",
             "folder": "context-menu",
             "repo": "demos",
