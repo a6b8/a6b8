@@ -191,7 +191,7 @@ module FontToPath
             end
 
             item = {
-                server: 'https://google-webfonts-helper.herokuapp.com',
+                server: 'https://gwfh.mranftl.com',#'https://google-webfonts-helper.herokuapp.com',
                 url: nil,
                 fonts: {
                     all: [],
