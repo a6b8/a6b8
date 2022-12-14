@@ -7,6 +7,12 @@
     },
     "projects": [
         {
+            "name": "Ethereum ENS",
+            "description": "Ethereum Name Service Demo",
+            "tags": [ "EVM", "Ethereum" ],
+            "url":  "https://ethereum-ens-nft.vercel.app/"
+        },
+        {
             "name": "Three.js - Cheatsheet",
             "description": "Linklist and Demos for 3D Browser Demos.",
             "tags": [ "Three.js" ],
