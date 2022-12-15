@@ -16,6 +16,13 @@
     "projects": [
         {
             "type": "javascript",
+            "name": "Mina zkIgnite Cohort 0",
+            "github": "mina-zk-ignite-cohort-0",
+            "docs": true,
+            "circle_ci": "1"
+        },
+        {
+            "type": "javascript",
             "name": "Easy Mina",
             "github": "easy-mina-for-nodejs",
             "docs": true,
