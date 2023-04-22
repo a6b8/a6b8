@@ -42,13 +42,13 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
                 `yMMMmdNMMMo                           OS: Mac, Linux
                  `yMMMhMMMo                            Platforms: Arduino, Raspberry Pi, ESP32
                   `hMMmMMy 
-                   `dMNMm`                             Blockchain
-                    -NMM:                              -------------------
-                     sMy                               First Pizza bought with BTC: 2013
-                     .d.                               First Meta Mask IX: 2016
-                                                       Smart Contracts: Watching since Namecoin...
-                       :                               NFTs: Watching since Colored Coins, Etherea...
-                       s                               Active Web3 Development: 2020
+                   `dMNMm`                             
+                    -NMM:                              
+                     sMy                               
+                     .d.                               
+                                                       
+                       :                               
+                       s                               
                        y                          
                        N`                         
                       .M+                         
