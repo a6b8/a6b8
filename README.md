@@ -107,7 +107,7 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 </a>
 </summary>
 
-**Npm Packages**
+### 📚 Npm
 
 | Title | Updated | CI/CD | Statistics | License |
 | :-- | :-- | :-- | :-- | :-- |
@@ -136,40 +136,6 @@ This table is generated using https://github.com/a6b8/markdownTableGenerator.
 | Xml Tree Viewer | <a href="https://rubygems.org/gems/xml_tree_viewer"><img src="https://img.shields.io/gem/v/xml_tree_viewer?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://api.github.com/repos/a6b8/xml-tree-viewer-for-ruby"><img src="https://img.shields.io/github/last-commit/a6b8/xml-tree-viewer-for-ruby?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <img src="https://img.shields.io/circleci/build/github/a6b8/xml-tree-viewer-for-ruby?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="> | <a href="https://github.com/a6b8/xml-tree-viewer-for-ruby/stargazers"><img src="https://img.shields.io/github/stars/a6b8/xml-tree-viewer-for-ruby?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a><img src="https://img.shields.io/gem/dt/xml_tree_viewer?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="> | <img src="https://img.shields.io/github/license/a6b8/xml-tree-viewer-for-ruby?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="> |
 
 This table is generated using https://github.com/markdownTableGenerator.
-
-
-### 📝 Snippets
-
-| Name | Description | Updated |
-| :--- | :--- | :--- |
-| 🍏 [EthereumAddresses.js](https://gist.github.com/a6b8/720d4fd2470cfa5eac97e2e3c537bfe6) | Detect Ethereum Addresses in plaintext | Nov, 2022 |
-| 🍏 [compareArrayOfStrings.js](https://gist.github.com/a6b8/250ee76db881b4e0ad43a992278de42d) | Array of Strings comparison.  | Jan, 2022 |
-| 🍏 [compressJsonValue.js](https://gist.github.com/a6b8/e7dd5822d5eb5ceb173e809cf2e02b5d) | Compress json value to tsv in base64. | Apr, 2022 |
-| 🍏 [createRangeWithOffset.js](https://gist.github.com/a6b8/0dd98fe34cb7f3da4e32b2c6f7346334) | Create Ranges with offset | Aug, 2022 |
-| 🍒 [env_load.rb](https://gist.github.com/a6b8/1805414b8ff076c326f5a05de429e776) | Load  .env file without  a module | Dec, 2021 |
-| 🍏 [estimateErrorRange.js](https://gist.github.com/a6b8/2c54658fa3fb6b851a736fa34ed4c843) | Estimate error range in an array, useful for isolating errors in failed multicall requests. | Jun, 2022 |
-| 🍏 [evmBlocknumberToDate.js](https://gist.github.com/a6b8/9d2f43e5696c2559f3cec52d61b7d080) | Transform evm blocknumber to date | Feb, 2022 |
-| 🍏 [evmDecodeTopics.js](https://gist.github.com/a6b8/566892d82db46729977927698e946347) | Function for decoding Event logs and converting Big Numbers to String. | Apr, 2022 |
-| 🍏 [evmFetchAbiFromEtherscan.js](https://gist.github.com/a6b8/ce415eb8700412b7f80e64df59f6add1) | Fetch contract abi from etherscan without an api key. | Mar, 2022 |
-| 🍏 [evmFetchEnsManually.js](https://gist.github.com/a6b8/b41f0e35e533d78dcb36738f88de256a) | EVM Fetch Ens Manually | Jun, 2022 |
-| 🍏 [evmFindBlockExplorer.js](https://gist.github.com/a6b8/a53174d2a84b0261f95021d6199c5ea8) | find the right block explorer for evm layer 1 and 2 networks. | Mar, 2022 |
-| 🍏 [evmTransferNativeEth.js](https://gist.github.com/a6b8/09dcd9a36fb5c788fd5ade79fbba87e8) | EVM Transfer Native .eth | Jun, 2022 |
-| 🍏 [fetchEnsNamesWithTheGraph.js](https://gist.github.com/a6b8/e7609f6f76e6b0edc93a7d592d7120c9) | Fetch Ethereum Ens Expiring Dates with The Graph | Jun, 2022 |
-| 🍏 [findBrokenLinks.js](https://gist.github.com/a6b8/c9459bf12f05a92d97cca87f79921396) | Find Broken Links | Feb, 2022 |
-| 🍏 [getNftMetadata.js](https://gist.github.com/a6b8/79c9578f514b3f7deef45dd4fdb21b2f) | Get all Token Metadata from an EVM Address over Moralis API | Jun, 2022 |
-| 🍒 [github_get_all_repos.rb](https://gist.github.com/a6b8/cab57677c9496d006ac8c0af9abe66f1) | Github get all repos | Jan, 2022 |
-| 🍏 [merkleTreeForNftMinting.js](https://gist.github.com/a6b8/ce014840e2e395cf7fa927b75b7e29a8) | Merkle Tree for NFT Minting | Jun, 2022 |
-| 🍏 [nftMetadataGenerator.js](https://gist.github.com/a6b8/215c5ebb5dcd15f59f51fc248bbe824f) | NFT Metadata & Image Generator (for Solana Metaplex) | Aug, 2022 |
-| 🍏 [nodejs-cheatsheet.js](https://gist.github.com/a6b8/5729d32c759b5c23e2e845f4e7873817) | Nodejs Cheatsheet | Nov, 2022 |
-| 🍏 [parseOnChainMetadata.js](https://gist.github.com/a6b8/a7a07bb7c613ee9412a21907d6bc301e) | Parse on-chain metadata | Sep, 2022 |
-| 🍏 [ranklist.js](https://gist.github.com/a6b8/9c33a966af4fa3521c8e85ac337a34c5) | Generate Ranklist  | Nov, 2022 |
-| 🍏 [solanaMetaplexMetadata.js](https://gist.github.com/a6b8/2edfef1b3cc33493b6f7fcdd10a1029d) | Get Solana Metadata from a CandyMachine V2 Program | Aug, 2022 |
-| 🍏 [svgToOnChainSolidity.js](https://gist.github.com/a6b8/f86224de1f9996d295b92f701485a35c) | Convert .svg File to on-chain solidity code (buidlguidl implementation). | Jun, 2022 |
-| 🍒 [verify_eth_message.rb](https://gist.github.com/a6b8/100a03b99f423e24c551073816139024) | Verify an ethereum message in  ruby | Sep, 2022 |
-| 🍏 [waitForVariableChange.js](https://gist.github.com/a6b8/359d2f6c44b152740aeefbe4a988c3d4) | Listener Class to detect variable condition changes. Usefull for async data streams. | Apr, 2022 |
-
-
-🍒 Ruby 🍏 JavaScript / Node.js
 <br>
 <br>
 
