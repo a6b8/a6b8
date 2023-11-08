@@ -19,7 +19,7 @@ user_name = "a#{a.length}b#{b.length}"
 
 [Github](https://github.com/a6b8?tab=repositories) <a href="#-modules"><img src="https://img.shields.io/github/stars/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a>, 
 [Gist](https://gist.github.com/a6b8), 
-[Npm](https://www.npmjs.com/~a6b8)
+[EasyMina](https://github.com/easymina)
   
   
 **Npm Packages**
