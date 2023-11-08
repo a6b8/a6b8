@@ -78,7 +78,7 @@ This table is generated using https://github.com/a6b8/badgeTable
 | <a href="https://github.com/a6b8/write-invoice-for-ruby"><img src="https://docs.writeinvoice.com/assets/images/logo.png" style="max-width: 100%; height: 25px; filter: grayscale(1);"></a> | <a href="https://github.com/a6b8/write-invoice-for-ruby"><img src="https://shields.io/uptimerobot/status/m790382405-ad7bffbdf0263dd6daec2d27?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | [https://docs.statosio.com/](https://docs.statosio.com/) |
   
   
-### 🎮 Interactives
+**🎮 Interactives**
   
 | Name |Tags |Year |Url |
 | :--- |:--- |:--- |:--- |
@@ -89,10 +89,9 @@ This table is generated using https://github.com/a6b8/badgeTable
 | [Shortcode Generator for Statosio](https://github.com/a6b8/statosio-shortcode-generator) | [Statosio](https://github.com/search?q=Statosio), [Wordpress](https://github.com/search?q=Wordpress) | 2021 | [🕹️](https://a6b8.github.io/statosio-shortcode-generator) |
 | [Wordpress .yaml generator for Rancher.](https://github.com/a6b8/yaml-generator-wordpress) | [Wordpress](https://github.com/search?q=Wordpress), [Rancher](https://github.com/search?q=Rancher), [Docker](https://github.com/search?q=Docker) | 2018 | [🕹️](https://a6b8.github.io/yaml-generator-wordpress) |
 
-<br>
-
-### Other
-
+  
+**Other**
+  
 | Name |Description |Tags |
 | :--- |:--- |:--- |
 | [Ethereum ENS](https://ethereum-ens-nft.vercel.app/) | Ethereum Name Service Demo | [EVM](https://github.com/search?q=EVM), [Ethereum](https://github.com/search?q=Ethereum) |
