@@ -19,15 +19,11 @@ user_name = "a#{a.length}b#{b.length}"
 
 [Github](https://github.com/a6b8?tab=repositories) <a href="#-modules"><img src="https://img.shields.io/github/stars/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a>, 
 [Gist](https://gist.github.com/a6b8), 
-[RubyGems](https://rubygems.org/profiles/a6b8) <a href="#-modules"><img src="https://img.shields.io/gem/u/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a>,
-[Npm](https://www.npmjs.com/~a6b8),
-[Dockerhub](https://hub.docker.com/u/a6b8)
-   
-
-
-
+[Npm](https://www.npmjs.com/~a6b8)
+  
+  
 **Npm Packages**
-
+  
 | Title | Version | Updated | Statistics | Tests | License |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Badge Table]() | <a href="https://www.npmjs.com/package/badgetable?activeTab=versions"><img src="https://img.shields.io/npm/v/badgetable?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://api.github.com/repos/a6b8/badgeTable"><img src="https://img.shields.io/github/last-commit/a6b8/badgeTable?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/badgeTable/stargazers"><img src="https://img.shields.io/github/stars/a6b8/badgeTable?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a><a href="https://www.npmjs.com/package/badgetable"><img src="https://img.shields.io/npm/dt/badgetable?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/badgeTable"><img src="https://img.shields.io/circleci/build/github/a6b8/badgeTable?logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/badgeTable/blob/main/LICENSE"><img src="https://img.shields.io/github/license/a6b8/badgeTable?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> |
@@ -45,7 +41,7 @@ This table is generated using https://github.com/a6b8/badgeTable
   <h2>Legacy</h2>
 </summary>
 
-
+  
 **Npm Packages**
   
 | Title | Version | Updated | Statistics | Tests | License |
@@ -54,7 +50,7 @@ This table is generated using https://github.com/a6b8/badgeTable
 | [Repo 2 File]() | <a href="https://www.npmjs.com/package/repo2file?activeTab=versions"><img src="https://img.shields.io/npm/v/repo2file?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://api.github.com/repos/a6b8/repo2file"><img src="https://img.shields.io/github/last-commit/a6b8/repo2file?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/repo2file/stargazers"><img src="https://img.shields.io/github/stars/a6b8/repo2file?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a><a href="https://www.npmjs.com/package/repo2file"><img src="https://img.shields.io/npm/dt/repo2file?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/repo2file"><img src="https://img.shields.io/circleci/build/github/a6b8/repo2file?logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/repo2file/blob/main/LICENSE"><img src="https://img.shields.io/github/license/a6b8/repo2file?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> |
   
   
-**Gem Packages**
+**Gem Packages** [RubyGems](https://rubygems.org/profiles/a6b8) <a href="#-modules"><img src="https://img.shields.io/gem/u/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a>
   
 | Title | Version | Updated | Statistics | Tests | License |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -76,7 +72,10 @@ This table is generated using https://github.com/a6b8/badgeTable
 | :-- | :-- | :-- |
 | <a href="https://github.com/a6b8/statosio-for-ruby"><img src="https://docs.statosio.com/assets/images/statosio.png" style="max-width: 100%; height: 25px; filter: grayscale(1);"></a> | <a href="https://github.com/a6b8/statosio-for-ruby"><img src="https://shields.io/uptimerobot/status/m786809205-43089a21ef2cbf3c086bad86?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | [https://docs.statosio.com/](https://docs.statosio.com/) |
 | <a href="https://github.com/a6b8/write-invoice-for-ruby"><img src="https://docs.writeinvoice.com/assets/images/logo.png" style="max-width: 100%; height: 25px; filter: grayscale(1);"></a> | <a href="https://github.com/a6b8/write-invoice-for-ruby"><img src="https://shields.io/uptimerobot/status/m790382405-ad7bffbdf0263dd6daec2d27?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | [https://docs.statosio.com/](https://docs.statosio.com/) |
-  
+
+
+[Dockerhub](https://hub.docker.com/u/a6b8)
+   
   
 **🎮 Interactives**
   
