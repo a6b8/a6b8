@@ -64,31 +64,11 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 </a>
 </summary>
 
-### 🦖 Overview
-
-Stats**
 - Total Stars <a href="#-modules"><img src="https://img.shields.io/github/stars/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a>
 - Ruby Gems <a href="#-modules"><img src="https://img.shields.io/gem/u/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a>
-- npm <a href="#-modules"><img src="https://img.shields.io/npm/u/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a>
+
 
 [RubyGems](https://rubygems.org/profiles/a6b8) 🔸 [Npm](https://www.npmjs.com/~a6b8) 🔸 [Dockerhub](https://hub.docker.com/u/a6b8)
-
-
-### 🧑🏻‍💻 Currently working on
-
-<!--START_SECTION:waka-->
-```text
-> No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-### 🤸🏻 Github Activities
-<!--START_SECTION:activity-->
-
-
-<br>
-<br>
-
 
 </details>
 <details open><summary>
