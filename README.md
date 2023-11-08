@@ -64,22 +64,12 @@ hoo:.    `NMMMMMMMMMMMMMMMMMMMMMMMNso/-sNMMMd/`        Full Stack Developer
 </a>
 </summary>
 
-- 🔭 I’m currently working on **interchangable on-chain nfts**
-- 🌱 I’m currently learning **Solidity and Web3 stuff**
-- 💬 Ask me about **Art, Creative Coding & Ruby**
-- 📫 How to reach me: [@_a6b8_](https://twitter.com/_a6b8) on Twitter
-- ⚡ Fun fact: In the 90´s my favorite Skatespot was a ledge 100m away from the birthplace of Cartographer [Waldseemüller (1470 – 1520)](https://en.wikipedia.org/wiki/Martin_Waldseemüller) which is famous for giving the continent ["America"](https://en.wikipedia.org/wiki/Naming_of_the_Americas) the Name.
-
 ### 🦖 Overview
 
-**Repositories**
-- created: [30](https://github.com/a6b8?tab=repositories&q=&type=source)
-- forks: [7](https://github.com/a6b8?tab=repositories&q=&type=fork)
-- archived: [7](https://github.com/a6b8?tab=repositories&q=&type=archived)
-
-**Stats**
+Stats**
 - Total Stars <a href="#-modules"><img src="https://img.shields.io/github/stars/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a>
 - Ruby Gems <a href="#-modules"><img src="https://img.shields.io/gem/u/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a>
+- npm <a href="#-modules"><img src="https://img.shields.io/npm/u/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a>
 
 [RubyGems](https://rubygems.org/profiles/a6b8) 🔸 [Npm](https://www.npmjs.com/~a6b8) 🔸 [Dockerhub](https://hub.docker.com/u/a6b8)
 
