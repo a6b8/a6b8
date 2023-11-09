@@ -116,3 +116,7 @@ x
 | <a href="#stats">![overview](https://github-readme-stats.vercel.app/api?username=a6b8&show_icons=true&hide_title=true&icon_color=CAD1D8&text_color=CAD1D8&bg_color=0E1116&hide_border=true&title_color=6CCF64) | ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a6b8&langs_count=8&show_icons=true&hide_title=true&icon_color=CAD1D8&text_color=CAD1D8&bg_color=0E1116&hide_border=true&title_color=CAD1D8&layout=compact)</a> |
 
 </details>
+
+<a href="https://jellyfish-app-iig6c.ondigitalocean.app/?x=-216&y=30&z=-40">
+<img src="https://github.com/a6b8/a6b8/blob/main/assets/additional/mina-zk-ignite-cohort-0/looki-looki.png?raw=true">
+</a>
