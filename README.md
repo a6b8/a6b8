@@ -106,4 +106,6 @@ This table is generated using https://github.com/a6b8/badgeTable
 <br>
 </details>
 
-<a href="https://jellyfish-app-iig6c.ondigitalocean.app/?x=-216&y=30&z=-40"><img src="https://github.com/a6b8/a6b8/blob/main/assets/additional/mina-zk-ignite-cohort-0/looki-looki.png?raw=true" style="max-width: 100%; height: 25px; filter: grayscale(1);"></a> 
+
+Have a fun, explore the metaverse!
+<a href="https://jellyfish-app-iig6c.ondigitalocean.app/?x=-216&y=30&z=-40"><img src="https://github.com/a6b8/a6b8/blob/main/assets/additional/mina-zk-ignite-cohort-0/looki-looki.png?raw=true" style="max-width: 100%; height: 100px; filter: grayscale(1);"></a> 
