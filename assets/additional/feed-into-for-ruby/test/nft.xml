@@ -1,0 +1,103 @@
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hacker News - Show HN: &#34;nft&#34;</title><link>https://news.ycombinator.com/shownew</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v1.1-16-gb4aa33c</generator><lastBuildDate>Sat, 22 Jan 2022 02:32:10 +0000</lastBuildDate><atom:link href="https://hnrss.org/show?q=nft" rel="self" type="application/rss+xml"></atom:link><item><title><![CDATA[Show HN: NFT Options Trading on Solana]]></title><description><![CDATA[
+<p>GM to all,<p>We've been working on an opensource NPM package and tool https://nftoptions.app for creating options contracts on the Solana blockchain. The client is in nodejs https://www.npmjs.com/package/solana-options , with an onchain server written in Rust https://github.com/dbanda/solana-nft-options<p>This package allows you to easily create options contracts for tokens on Solana, with specific expiry times and strike values on the blockchain in one line of code. Similarly, you can use it to mint tokens and create contracts on those tokens. This allows you to do things like mint an NFT for a piece of art and then sell a call contract to buy that NFT at a predefined price. Each contract is tied to an NFT too, so you can easily trade them as well.<p>The onchain program is currently available on Solana devnet and testnet. We hope to launch on mainnet soon and possibly drop the NFTs on platforms such as Solsea for easy exchange. Currently, the web app https://nftoptions.app only supports the Phantom wallet but we are looking to add more soon.<p>We are looking for feedback, contributors and testers. Issues can be filed on the GitHub. As always, any feedback is greatly appreciated.<p>Thanks y’all.</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29988799">https://news.ycombinator.com/item?id=29988799</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 19 Jan 2022 01:43:37 +0000</pubDate><link>https://news.ycombinator.com/item?id=29988799</link><dc:creator>the_black_hand</dc:creator><comments>https://news.ycombinator.com/item?id=29988799</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29988799</guid></item><item><title><![CDATA[Show HN: ChainDisco – a toy to explore recent NFT activity]]></title><description><![CDATA[
+<p>Article URL: <a href="https://nft.chaindisco.xyz/">https://nft.chaindisco.xyz/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29981833">https://news.ycombinator.com/item?id=29981833</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+]]></description><pubDate>Tue, 18 Jan 2022 16:49:01 +0000</pubDate><link>https://nft.chaindisco.xyz/</link><dc:creator>davepeck</dc:creator><comments>https://news.ycombinator.com/item?id=29981833</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29981833</guid></item><item><title><![CDATA[Show HN: NFT Smart Contract for releasing your own NFT collections]]></title><description><![CDATA[
+<p>Article URL: <a href="https://community.intercoin.org/t/intercoins-nft-smart-contract-released-audited/2219">https://community.intercoin.org/t/intercoins-nft-smart-contract-released-audited/2219</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29940235">https://news.ycombinator.com/item?id=29940235</a></p>
+<p>Points: 4</p>
+<p># Comments: 2</p>
+]]></description><pubDate>Fri, 14 Jan 2022 20:49:48 +0000</pubDate><link>https://community.intercoin.org/t/intercoins-nft-smart-contract-released-audited/2219</link><dc:creator>EGreg</dc:creator><comments>https://news.ycombinator.com/item?id=29940235</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29940235</guid></item><item><title><![CDATA[Show HN: Myart.bio – NFT stats for any address]]></title><description><![CDATA[
+<p>Article URL: <a href="https://myart.bio">https://myart.bio</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29937913">https://news.ycombinator.com/item?id=29937913</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Fri, 14 Jan 2022 18:11:36 +0000</pubDate><link>https://myart.bio</link><dc:creator>KukiAirani</dc:creator><comments>https://news.ycombinator.com/item?id=29937913</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29937913</guid></item><item><title><![CDATA[Show HN: Free metaverse online course with free NFT]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.squiggly.school/">https://www.squiggly.school/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29926580">https://news.ycombinator.com/item?id=29926580</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Thu, 13 Jan 2022 20:44:43 +0000</pubDate><link>https://www.squiggly.school/</link><dc:creator>edradion</dc:creator><comments>https://news.ycombinator.com/item?id=29926580</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29926580</guid></item><item><title><![CDATA[Show HN: NFT Sales Bot – sell something on OpenSea, ping 1000s of apps]]></title><description><![CDATA[
+<p>Article URL: <a href="https://nftsalesbot.xyz">https://nftsalesbot.xyz</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29860892">https://news.ycombinator.com/item?id=29860892</a></p>
+<p>Points: 1</p>
+<p># Comments: 1</p>
+]]></description><pubDate>Sun, 09 Jan 2022 06:43:21 +0000</pubDate><link>https://nftsalesbot.xyz</link><dc:creator>ryanckulp</dc:creator><comments>https://news.ycombinator.com/item?id=29860892</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29860892</guid></item><item><title><![CDATA[Show HN: Shadow Top NFT Collectors]]></title><description><![CDATA[
+<p>Article URL: <a href="https://whalepeek.com">https://whalepeek.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29836336">https://news.ycombinator.com/item?id=29836336</a></p>
+<p>Points: 2</p>
+<p># Comments: 2</p>
+]]></description><pubDate>Fri, 07 Jan 2022 08:01:21 +0000</pubDate><link>https://whalepeek.com</link><dc:creator>mikerubini</dc:creator><comments>https://news.ycombinator.com/item?id=29836336</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29836336</guid></item><item><title><![CDATA[Show HN: Track the value of any NFT portfolio in real time]]></title><description><![CDATA[
+<p>Article URL: <a href="https://value.app">https://value.app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29795131">https://news.ycombinator.com/item?id=29795131</a></p>
+<p>Points: 6</p>
+<p># Comments: 4</p>
+]]></description><pubDate>Tue, 04 Jan 2022 14:33:04 +0000</pubDate><link>https://value.app</link><dc:creator>joelbqz</dc:creator><comments>https://news.ycombinator.com/item?id=29795131</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29795131</guid></item><item><title><![CDATA[Show HN: ChainlessNFT, a NFT Without Blockchain]]></title><description><![CDATA[
+<p>Article URL: <a href="https://smy20011.github.io/ChainlessNFT/">https://smy20011.github.io/ChainlessNFT/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29719814">https://news.ycombinator.com/item?id=29719814</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Tue, 28 Dec 2021 23:54:04 +0000</pubDate><link>https://smy20011.github.io/ChainlessNFT/</link><dc:creator>smy20011</dc:creator><comments>https://news.ycombinator.com/item?id=29719814</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29719814</guid></item><item><title><![CDATA[Show HN: Give the disappointment of an NFT-gift without having to buy one]]></title><description><![CDATA[
+<p>Article URL: <a href="http://nftgift.info">http://nftgift.info</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29706004">https://news.ycombinator.com/item?id=29706004</a></p>
+<p>Points: 77</p>
+<p># Comments: 13</p>
+]]></description><pubDate>Mon, 27 Dec 2021 19:42:35 +0000</pubDate><link>http://nftgift.info</link><dc:creator>mevorah</dc:creator><comments>https://news.ycombinator.com/item?id=29706004</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29706004</guid></item><item><title><![CDATA[Show HN: NFT Reverse Search Engine]]></title><description><![CDATA[
+<p>Article URL: <a href="https://bing.ly/">https://bing.ly/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29704854">https://news.ycombinator.com/item?id=29704854</a></p>
+<p>Points: 3</p>
+<p># Comments: 6</p>
+]]></description><pubDate>Mon, 27 Dec 2021 17:59:27 +0000</pubDate><link>https://bing.ly/</link><dc:creator>tuangeek</dc:creator><comments>https://news.ycombinator.com/item?id=29704854</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29704854</guid></item><item><title><![CDATA[Show HN: My failed $2000 NFT project]]></title><description><![CDATA[
+<p>Article URL: <a href="https://twitter.com/thachnuida/status/1473472256584007681">https://twitter.com/thachnuida/status/1473472256584007681</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29644702">https://news.ycombinator.com/item?id=29644702</a></p>
+<p>Points: 1</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Wed, 22 Dec 2021 01:56:42 +0000</pubDate><link>https://twitter.com/thachnuida/status/1473472256584007681</link><dc:creator>khidanui</dc:creator><comments>https://news.ycombinator.com/item?id=29644702</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29644702</guid></item><item><title><![CDATA[Show HN: Verify NFT and Token Ownership in Your App]]></title><description><![CDATA[
+<p>Article URL: <a href="https://connect.inloop.to/">https://connect.inloop.to/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29622456">https://news.ycombinator.com/item?id=29622456</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+]]></description><pubDate>Mon, 20 Dec 2021 08:08:00 +0000</pubDate><link>https://connect.inloop.to/</link><dc:creator>cahoodle</dc:creator><comments>https://news.ycombinator.com/item?id=29622456</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29622456</guid></item><item><title><![CDATA[Show HN: I built a Christmas themed NFT game]]></title><description><![CDATA[
+<p>Article URL: <a href="https://santawars-game.vercel.app/">https://santawars-game.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29615600">https://news.ycombinator.com/item?id=29615600</a></p>
+<p>Points: 2</p>
+<p># Comments: 0</p>
+]]></description><pubDate>Sun, 19 Dec 2021 16:57:02 +0000</pubDate><link>https://santawars-game.vercel.app/</link><dc:creator>sssaini</dc:creator><comments>https://news.ycombinator.com/item?id=29615600</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29615600</guid></item><item><title><![CDATA[Show HN: GearSlots, Polygon NFT with tradable attributes]]></title><description><![CDATA[
+<p>Hello. I made Gear Slots. It's a loot-inspired NFT, with tradable attributes. Deployed on Polygon.<p>I really liked the idea behind loot - to have game data stored on chain. However, not having solid randomness in the generation of the gear, as well as static bags of gear (not being able to trade for different gear) was a downside. So, I made Gear Slots.<p>Gear Slots is built completely on-chain - there is no data stored on IPFS, S3, or any other host. The metadata, attributes, and images for Gear Slots are all stored on-chain.<p>When minted, the contract uses randomness from ChainLink's VRF to randomly generate 9 pieces of equipment. Once you've minted a token, you can set a price on a single piece of gear within the token, a few pieces of gear, or every piece of gear. Other token holders can buy that gear from you at the price you set. You can browse gear for sale from other token holders as well. There is no fee to set prices on gear - only gas.<p>With Gear Slots, you swap out individual pieces of gear with other token holders, without trading away your entire token.<p>Gear Slots brings a unique twist to gaming NFTs with tradable attributes. The mint price is 1 MATIC, plus some gas. When you trade gear with other token holders, the fee is whatever the owner set on that gear, plus some gas. If you're not familiar with Polygon or how to setup your wallet, I'm happy to help.<p>The site is https://gearslots.com, and after minting the tokens show on OpenSea as well. If you want to try the contract and token, but not the site, the contract has been verified on Polygonscan, so you can interact over there as well.</p>
+<hr>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29533242">https://news.ycombinator.com/item?id=29533242</a></p>
+<p>Points: 25</p>
+<p># Comments: 4</p>
+]]></description><pubDate>Sun, 12 Dec 2021 20:23:05 +0000</pubDate><link>https://news.ycombinator.com/item?id=29533242</link><dc:creator>deweyair</dc:creator><comments>https://news.ycombinator.com/item?id=29533242</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29533242</guid></item><item><title><![CDATA[Show HN: A site that generates terrible ideas for new NFT collections]]></title><description><![CDATA[
+<p>Article URL: <a href="https://verygoodnftideas.com/">https://verygoodnftideas.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29331000">https://news.ycombinator.com/item?id=29331000</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+]]></description><pubDate>Wed, 24 Nov 2021 15:38:08 +0000</pubDate><link>https://verygoodnftideas.com/</link><dc:creator>mlacher</dc:creator><comments>https://news.ycombinator.com/item?id=29331000</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29331000</guid></item><item><title><![CDATA[Show HN: Slice – Decentralized stores with NFT-based ownership]]></title><description><![CDATA[
+<p>Article URL: <a href="https://slice.so">https://slice.so</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29316311">https://news.ycombinator.com/item?id=29316311</a></p>
+<p>Points: 6</p>
+<p># Comments: 7</p>
+]]></description><pubDate>Tue, 23 Nov 2021 10:31:46 +0000</pubDate><link>https://slice.so</link><dc:creator>jjranalli</dc:creator><comments>https://news.ycombinator.com/item?id=29316311</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29316311</guid></item><item><title><![CDATA[Show HN: Packers Stock Is the Original NFT]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.packers.com/news/green-bay-packers-stock-sale-begins-november-16-2021">https://www.packers.com/news/green-bay-packers-stock-sale-begins-november-16-2021</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29233940">https://news.ycombinator.com/item?id=29233940</a></p>
+<p>Points: 3</p>
+<p># Comments: 2</p>
+]]></description><pubDate>Mon, 15 Nov 2021 22:46:27 +0000</pubDate><link>https://www.packers.com/news/green-bay-packers-stock-sale-begins-november-16-2021</link><dc:creator>ckmar</dc:creator><comments>https://news.ycombinator.com/item?id=29233940</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29233940</guid></item><item><title><![CDATA[Show HN: An NFT customizer on the Solana blockchain]]></title><description><![CDATA[
+<p>Article URL: <a href="https://wurm.app/customizer">https://wurm.app/customizer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29212440">https://news.ycombinator.com/item?id=29212440</a></p>
+<p>Points: 4</p>
+<p># Comments: 4</p>
+]]></description><pubDate>Sat, 13 Nov 2021 19:19:07 +0000</pubDate><link>https://wurm.app/customizer</link><dc:creator>geoffchan23</dc:creator><comments>https://news.ycombinator.com/item?id=29212440</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29212440</guid></item><item><title><![CDATA[Show HN: Wgmi.gg – Official Links for NFT Projects]]></title><description><![CDATA[
+<p>Article URL: <a href="https://www.wgmi.gg/">https://www.wgmi.gg/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=29196254">https://news.ycombinator.com/item?id=29196254</a></p>
+<p>Points: 1</p>
+<p># Comments: 1</p>
+]]></description><pubDate>Fri, 12 Nov 2021 04:15:38 +0000</pubDate><link>https://www.wgmi.gg/</link><dc:creator>lukehamilton</dc:creator><comments>https://news.ycombinator.com/item?id=29196254</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=29196254</guid></item></channel></rss>
