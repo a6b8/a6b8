@@ -4,7 +4,7 @@
   "description": "hello world!",
   "main": "index.js",
   "dependencies": {
-    "badgetable": "^1.1.2"
+    "badgetable": "^1.1.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
