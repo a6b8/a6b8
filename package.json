@@ -1,0 +1,15 @@
+{
+  "name": "a6b8",
+  "version": "1.0.0",
+  "description": "hello world!",
+  "main": "index.js",
+  "dependencies": {
+    "badgetable": "^1.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
