@@ -41,6 +41,12 @@ export const sections = {
                     'githubUserName': 'a6b8',
                     'githubRepository': 'ethGPT',
                     'url': '' 
+                },
+                {
+                    'title': 'upGPT',
+                    'githubUserName': 'a6b8',
+                    'githubRepository': 'upGPT',
+                    'url': ''
                 }
             ]
         },
@@ -53,6 +59,13 @@ export const sections = {
                     'githubUserName': 'a6b8',
                     'githubRepository': 'ordGPT',
                     'url': '' 
+                },
+                {
+                    'title': 'Sat Names',
+                    'packageName': 'satnames',
+                    'githubUserName': 'a6b8',
+                    'githubRepository': 'satnames',
+                    'url': ''
                 }
             ]
         }
@@ -88,13 +101,6 @@ export const sections = {
                     'packageName': 'badgetable',
                     'githubUserName': 'a6b8',
                     'githubRepository': 'badgeTable',
-                    'url': ''
-                },
-                {
-                    'title': 'Sat Names',
-                    'packageName': 'satnames',
-                    'githubUserName': 'a6b8',
-                    'githubRepository': 'satnames',
                     'url': ''
                 },
                 {
