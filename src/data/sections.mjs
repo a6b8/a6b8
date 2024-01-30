@@ -43,7 +43,7 @@ export const sections = {
                     'url': '' 
                 },
                 {
-                    'title': 'upGPT',
+                    'title': 'UP GPT',
                     'githubUserName': 'a6b8',
                     'githubRepository': 'upGPT',
                     'url': ''
