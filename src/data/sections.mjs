@@ -47,7 +47,7 @@ export const sections = {
                     'githubUserName': 'a6b8',
                     'githubRepository': 'upGPT',
                     'url': ''
-                }
+                } 
             ]
         },
         'ordinals': {
