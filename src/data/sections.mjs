@@ -9,7 +9,7 @@ export const sections = {
                     'packageName': 'easymina',
                     'githubUserName': 'EasyMina',
                     'githubRepository': 'easyMina',
-                    'url': ''
+                    'url': 'https://medium.com/@a6b8/roadmap-for-easymina-in-2024-027acbf9961b'
                 },
                 {
                     'title': 'Mina Data',
