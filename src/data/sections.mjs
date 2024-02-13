@@ -25,6 +25,12 @@ export const sections = {
             'preset': 'githubOverviewWithArticle',
             'projects': [
                 {
+                    'title': 'MultiThreadz',
+                    'githubUserName': 'a6b8',
+                    'githubRepository': 'multiThreadz',
+                    'url': ''
+                }
+                {
                     'title': 'EVM Nodes',
                     'githubUserName': 'a6b8',
                     'githubRepository': 'evmNodes',
@@ -35,23 +41,24 @@ export const sections = {
                     'githubUserName': 'a6b8',
                     'githubRepository': 'triangularPairs',
                     'url': ''
-                },
-                {
-                    'title': 'Ethereum GPT',
-                    'githubUserName': 'a6b8',
-                    'githubRepository': 'ethGPT',
-                    'url': '' 
-                },
-                {
-                    'title': 'UP GPT',
-                    'githubUserName': 'a6b8',
-                    'githubRepository': 'upGPT',
-                    'url': ''
-                } 
+                }
             ]
         },
         'ordinals': {
             'title': 'Ordinals',
+            'preset': 'githubOverviewWithArticle',
+            'projects': [
+                {
+                    'title': 'Sat Names',
+                    'packageName': 'satnames',
+                    'githubUserName': 'a6b8',
+                    'githubRepository': 'satnames',
+                    'url': ''
+                }
+            ]
+        },
+        'ai': {
+            'title': 'AI',
             'preset': 'githubOverviewWithArticle',
             'projects': [
                 {
@@ -61,11 +68,16 @@ export const sections = {
                     'url': '' 
                 },
                 {
-                    'title': 'Sat Names',
-                    'packageName': 'satnames',
+                    'title': 'UP GPT',
                     'githubUserName': 'a6b8',
-                    'githubRepository': 'satnames',
+                    'githubRepository': 'upGPT',
                     'url': ''
+                },
+                {
+                    'title': 'Ethereum GPT',
+                    'githubUserName': 'a6b8',
+                    'githubRepository': 'ethGPT',
+                    'url': '' 
                 }
             ]
         }
