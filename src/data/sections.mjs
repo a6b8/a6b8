@@ -29,7 +29,7 @@ export const sections = {
                     'githubUserName': 'a6b8',
                     'githubRepository': 'multiThreadz',
                     'url': ''
-                }
+                },
                 {
                     'title': 'EVM Nodes',
                     'githubUserName': 'a6b8',
