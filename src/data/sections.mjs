@@ -1,21 +1,21 @@
 export const sections = {
     'inDevelopment': {
-        'mina': {
-            'title': 'Mina Blockchain',
+        'ordinals': {
+            'title': 'Ordinals',
             'preset': 'githubOverviewWithArticle',
             'projects': [
                 {
-                    'title': 'Easy Mina',
-                    'packageName': 'easymina',
-                    'githubUserName': 'EasyMina',
-                    'githubRepository': 'easyMina',
-                    'url': 'https://medium.com/@a6b8/roadmap-for-easymina-in-2024-027acbf9961b'
+                    'title': 'Sat Names',
+                    'packageName': 'satnames',
+                    'githubUserName': 'a6b8',
+                    'githubRepository': 'satnames',
+                    'url': ''
                 },
                 {
-                    'title': 'Mina Data',
-                    'packageName': 'minadata',
-                    'githubUserName': 'EasyMina',
-                    'githubRepository': 'minaData',
+                    'title': 'Dynamic Ascii Table',
+                    'packageName': 'dynamicAsciiTable',
+                    'githubUserName': 'a6b8',
+                    'githubRepository': 'dynamicAsciiTable',
                     'url': ''
                 }
             ]
@@ -40,19 +40,6 @@ export const sections = {
                     'title': 'Triangular Pairs',
                     'githubUserName': 'a6b8',
                     'githubRepository': 'triangularPairs',
-                    'url': ''
-                }
-            ]
-        },
-        'ordinals': {
-            'title': 'Ordinals',
-            'preset': 'githubOverviewWithArticle',
-            'projects': [
-                {
-                    'title': 'Sat Names',
-                    'packageName': 'satnames',
-                    'githubUserName': 'a6b8',
-                    'githubRepository': 'satnames',
                     'url': ''
                 }
             ]
@@ -83,6 +70,7 @@ export const sections = {
         }
     },
     'legacy': {
+        
         'npmPackages': {
             'title': 'npm Packages',
             'preset': 'npmPackagesCircleCiWithArticle',
