@@ -17,6 +17,12 @@ export const sections = {
                     'githubUserName': 'a6b8',
                     'githubRepository': 'dynamicAsciiTable',
                     'url': ''
+                },
+                {
+                    'title': 'Continuous Data Exporter',
+                    'githubUserName': 'a6b8',
+                    'githubRepository': 'continuousDataExporter',
+                    'url': ''
                 }
             ]
         },
