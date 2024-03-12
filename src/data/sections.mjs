@@ -19,9 +19,9 @@ export const sections = {
                     'url': ''
                 },
                 {
-                    'title': 'Continuous Data Exporter',
+                    'title': 'Continuous Exporter',
                     'githubUserName': 'a6b8',
-                    'githubRepository': 'continuousDataExporter',
+                    'githubRepository': 'continuousExporter',
                     'url': ''
                 }
             ]
