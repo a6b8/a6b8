@@ -1,14 +1,26 @@
 export const sections = {
     'inDevelopment': {
+        'solana': {
+            'title': 'Solana',
+            'preset': 'githubOverviewWithArticle',
+            'projects': [
+                {
+                    'title': 'PumpCLI',
+                    'packageName': 'satnames',
+                    'githubUserName': 'a6b8',
+                    'githubRepository': 'satnames',
+                    'url': ''
+                }
+            ]
+        },
         'ordinals': {
             'title': 'Ordinals',
             'preset': 'githubOverviewWithArticle',
             'projects': [
                 {
                     'title': 'Sat Names',
-                    'packageName': 'satnames',
                     'githubUserName': 'a6b8',
-                    'githubRepository': 'satnames',
+                    'githubRepository': 'pumpCLI',
                     'url': ''
                 },
                 {
