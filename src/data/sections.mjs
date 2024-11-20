@@ -19,7 +19,7 @@ export const sections = {
                 {
                     'title': 'Sat Names',
                     'githubUserName': 'a6b8',
-                    'githubRepository': 'pumpCLI',
+                    'githubRepository': 'satnames',
                     'url': ''
                 },
                 {
