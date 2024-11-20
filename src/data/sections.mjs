@@ -6,9 +6,8 @@ export const sections = {
             'projects': [
                 {
                     'title': 'PumpCLI',
-                    'packageName': 'satnames',
                     'githubUserName': 'a6b8',
-                    'githubRepository': 'satnames',
+                    'githubRepository': 'pumpCLI',
                     'url': ''
                 }
             ]
