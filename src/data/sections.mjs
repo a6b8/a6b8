@@ -5,6 +5,12 @@ export const sections = {
             'preset': 'githubOverviewWithArticle',
             'projects': [
                 {
+                    'title': 'Solana Tracker',
+                    'githubUserName': 'a6b8',
+                    'githubRepository': 'solanaTracker',
+                    'url': ''
+                },
+                {
                     'title': 'PumpCLI',
                     'githubUserName': 'a6b8',
                     'githubRepository': 'pumpCLI',
