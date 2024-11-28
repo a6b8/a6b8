@@ -5,7 +5,7 @@ export const sections = {
             'preset': 'githubOverviewWithArticle',
             'projects': [
                 {
-                    'title': 'Solana Tracker API',
+                    'title': 'TrackerAPI',
                     'githubUserName': 'a6b8',
                     'githubRepository': 'trackerAPI',
                     'url': ''
