@@ -1,5 +1,17 @@
 export const sections = {
     'inDevelopment': {
+        'data': {
+            'title': 'Data Aggregation',
+            'preset': 'githubOverviewWithArticle',
+            'projects': [
+                {
+                    'title': 'curlaiV4',
+                    'githubUserName': 'a6b8',
+                    'githubRepository': 'curlaiV4',
+                    'url': ''
+                }
+            ]
+        }
         'solana': {
             'title': 'Solana',
             'preset': 'githubOverviewWithArticle',
