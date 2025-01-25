@@ -11,7 +11,7 @@ export const sections = {
                     'url': ''
                 }
             ]
-        }
+        },
         'solana': {
             'title': 'Solana',
             'preset': 'githubOverviewWithArticle',
