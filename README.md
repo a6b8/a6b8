@@ -20,6 +20,10 @@ user_name = "a#{a.length}b#{b.length}"
 [Github](https://github.com/a6b8?tab=repositories) <a href="#-modules"><img src="https://img.shields.io/github/stars/a6b8?color=171B21&logo=F3A966&logoColor=F3A966&style=flat&token=1&label="></a>, 
 [Gist](https://gist.github.com/a6b8)  
   
+### Data Aggregation
+  | Title | Article | Updated | Stars | Commits | Issues | Tests | License |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [curlaiV4](https://github.com/a6b8/curlaiV4) |  | <a href="https://api.github.com/repos/a6b8/curlaiV4"><img src="https://img.shields.io/github/last-commit/a6b8/curlaiV4?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/curlaiV4/stargazers"><img src="https://img.shields.io/github/stars/a6b8/curlaiV4?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/curlaiV4/commits/main"><img src="https://img.shields.io/github/commit-activity/t/a6b8/curlaiV4?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/curlaiV4/issues/"><img src="https://img.shields.io/github/issues/a6b8/curlaiV4?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/curlaiV4"><img src="https://img.shields.io/circleci/build/github/a6b8/curlaiV4?logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://github.com/a6b8/curlaiV4/blob/main/LICENSE"><img src="https://img.shields.io/github/license/a6b8/curlaiV4?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> |
 ### Solana
   | Title | Article | Updated | Stars | Commits | Issues | Tests | License |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -89,4 +93,4 @@ Have a fun, explore the metaverse!
 <a href="https://jellyfish-app-iig6c.ondigitalocean.app/?x=-216&y=30&z=-40"><img src="https://github.com/a6b8/a6b8/blob/main/assets/additional/mina-zk-ignite-cohort-0/looki-looki.png?raw=true" style="max-width: 100%; height: 100px; filter: grayscale(1);"></a> 
 
 
-Last update: 2024-11-28 20:45
+Last update: 2025-01-25 15:33
