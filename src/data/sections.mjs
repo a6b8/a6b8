@@ -5,6 +5,12 @@ export const sections = {
             'preset': 'githubOverviewWithArticle',
             'projects': [
                 {
+                    'title': 'ytAi',
+                    'githubUserName': 'a6b8',
+                    'githubRepository': 'ytAi',
+                    'url': ''
+                },
+                {
                     'title': 'curlaiV4',
                     'githubUserName': 'a6b8',
                     'githubRepository': 'curlaiV4',
