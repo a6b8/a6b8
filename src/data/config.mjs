@@ -80,12 +80,6 @@ const config = [
                 "githubUserName": "a6b8",
                 "githubRepository": "badgeTable",
                 "githubWorkflowPath": "test-on-push.yml"
-            },
-            {
-                "title": "yaml-generator-loadbalancer",
-                "githubUserName": "a6b8",
-                "githubRepository": "yaml-generator-loadbalancer",
-                "githubWorkflowPath": "test-on-push.yml"
             }
         ]
     },

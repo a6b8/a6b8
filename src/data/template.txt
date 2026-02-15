@@ -42,7 +42,6 @@ user_name = "a#{a.length}b#{b.length}"
 - **[three-js-cheatsheet](https://github.com/a6b8/three-js-cheatsheet)** — Three.js resource hub with demos, 3D assets, and generative art links ([Browse](https://a6b8.github.io/three-js-cheatsheet/))
 - **[repos2doc](https://github.com/a6b8/repos2doc)** — Compile GitHub repos into a single file for GPT uploads
 - **[badgeTable](https://github.com/a6b8/badgeTable)** — Generate shields.io badge tables in Markdown
-- **[yaml-generator-loadbalancer](https://github.com/a6b8/yaml-generator-loadbalancer)** — Interactive YAML generator for Docker loadbalancer configs ([Try it](https://a6b8.github.io/yaml-generator-loadbalancer/))
 
 ## Libraries
 
