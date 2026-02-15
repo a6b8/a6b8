@@ -80,6 +80,18 @@ const config = [
                 "githubUserName": "a6b8",
                 "githubRepository": "badgeTable",
                 "githubWorkflowPath": "test.yml"
+            },
+            {
+                "title": "get-sheet",
+                "githubUserName": "a6b8",
+                "githubRepository": "get-sheet",
+                "githubWorkflowPath": "test-on-release.yml"
+            },
+            {
+                "title": "get-ui",
+                "githubUserName": "a6b8",
+                "githubRepository": "get-ui",
+                "githubWorkflowPath": "test-on-release.yml"
             }
         ]
     },
