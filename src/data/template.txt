@@ -33,17 +33,6 @@ user_name = "a#{a.length}b#{b.length}"
 - **[get-sheet](https://github.com/a6b8/get-sheet)** — CLI for Google Sheets: read, write, format, and manage spreadsheets
 - **[get-ui](https://github.com/a6b8/get-ui)** — CLI for managing and searching UI component collections
 
-## Projects
+## All Repositories
 
-{{projects}}
-
-- **[ascii-to-svg-generator-for-ruby](https://github.com/a6b8/ascii-to-svg-generator-for-ruby)** — Generate beautiful SVG vector images from ASCII input. Inspired by Autoglyphs. ([Examples](https://github.com/a6b8/ascii-to-svg-generator-for-ruby#examples))
-- **[statosio-for-javascript](https://github.com/a6b8/statosio-for-javascript)** — D3 add-on for simple charts, fast and reliable ([Docs](https://a6b8.github.io/statosio-docs) · [cdnjs](https://cdnjs.com/libraries/statosio) · [YouTube](https://youtu.be/i6od9O8jz1E))
-- **[svg-3d-renderengine-for-nfts](https://github.com/a6b8/svg-3d-renderengine-for-nfts)** — 3D render engine for on-chain composable SVG NFTs ([Demo](https://a6b8.github.io/svg-3d-renderengine-for-nfts/))
-- **[mina-metaverse-game](https://github.com/a6b8/mina-metaverse-game)** — Looki Looki: 3D browser game with Mina zero-knowledge proofs ([YouTube](https://youtu.be/Kh8_1TYyv1k))
-- **[three-js-cheatsheet](https://github.com/a6b8/three-js-cheatsheet)** — Three.js resource hub with demos, 3D assets, and generative art links ([Browse](https://a6b8.github.io/three-js-cheatsheet/))
-- **[repos2doc](https://github.com/a6b8/repos2doc)** — Compile GitHub repos into a single file for GPT uploads
-- **[badgeTable](https://github.com/a6b8/badgeTable)** — Generate shields.io badge tables in Markdown
-- **[easy-mina-for-nodejs](https://github.com/a6b8/easy-mina-for-nodejs)** — Beginner-friendly ZK development environment for Mina ([Docs](https://easymina.github.io))
-- **[write-invoice-for-ruby](https://github.com/a6b8/write-invoice-for-ruby)** — Ruby gem for PDF invoice generation with 200+ options ([Docs](https://a6b8.github.io/write-invoice-for-ruby-documentation))
-- **[statosio-for-ruby](https://github.com/a6b8/statosio-for-ruby)** — Statosio chart library for Ruby with prawn-svg PDF generation
+[View all 57 public repositories](https://github.com/a6b8/a6b8/blob/main/REPOS.md)
