@@ -24,7 +24,31 @@ const config = [
         ]
     },
     {
-        'replace': '{{creative}}',
+        'replace': '{{ai_tools}}',
+        'preset': 'githubDetailsCodeCoverage',
+        'projects': [
+            {
+                "title": "flowmcp-core",
+                "githubUserName": "FlowMCP",
+                "githubRepository": "flowmcp-core",
+                "githubWorkflowPath": "test-on-push.yml"
+            },
+            {
+                "title": "get-sheet",
+                "githubUserName": "a6b8",
+                "githubRepository": "get-sheet",
+                "githubWorkflowPath": "test-on-release.yml"
+            },
+            {
+                "title": "get-ui",
+                "githubUserName": "a6b8",
+                "githubRepository": "get-ui",
+                "githubWorkflowPath": "test-on-release.yml"
+            }
+        ]
+    },
+    {
+        'replace': '{{projects}}',
         'preset': 'githubDetailsCodeCoverage',
         'projects': [
             {
@@ -50,13 +74,7 @@ const config = [
                 "githubUserName": "a6b8",
                 "githubRepository": "mina-metaverse-game",
                 "githubWorkflowPath": "test-on-release.yml"
-            }
-        ]
-    },
-    {
-        'replace': '{{tools}}',
-        'preset': 'githubDetailsCodeCoverage',
-        'projects': [
+            },
             {
                 "title": "three-js-cheatsheet",
                 "githubUserName": "a6b8",
@@ -75,24 +93,6 @@ const config = [
                 "githubRepository": "badgeTable",
                 "githubWorkflowPath": "test.yml"
             },
-            {
-                "title": "get-sheet",
-                "githubUserName": "a6b8",
-                "githubRepository": "get-sheet",
-                "githubWorkflowPath": "test-on-release.yml"
-            },
-            {
-                "title": "get-ui",
-                "githubUserName": "a6b8",
-                "githubRepository": "get-ui",
-                "githubWorkflowPath": "test-on-release.yml"
-            }
-        ]
-    },
-    {
-        'replace': '{{libraries}}',
-        'preset': 'githubDetailsCodeCoverage',
-        'projects': [
             {
                 "title": "easy-mina-for-nodejs",
                 "githubUserName": "a6b8",
