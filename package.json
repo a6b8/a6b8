@@ -2,12 +2,13 @@
   "name": "a6b8",
   "version": "1.0.0",
   "description": "hello world!",
-  "main": "index.js",
+  "main": "index.mjs",
+  "type": "module",
   "dependencies": {
-    "badgetable": "^1.1.3"
+    "badgetable": "^1.3.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate": "node index.mjs"
   },
   "keywords": [],
   "author": "",
