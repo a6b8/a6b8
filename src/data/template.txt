@@ -24,7 +24,6 @@ user_name = "a#{a.length}b#{b.length}"
 - **[triangularPairs](https://github.com/a6b8/triangularPairs)** — Find triangular arbitrage pairs across Uniswap V2/V3 pools
 - **[trackerAPI](https://github.com/a6b8/trackerAPI)** — Simplified SolanaTracker API with unified querying and swap execution
 - **[rpcBenchmark](https://github.com/a6b8/rpcBenchmark)** — RPC node benchmarking tool
-- **[x402-flowmcp-org](https://github.com/a6b8/x402-flowmcp-org)** — x402 payment layer integration for FlowMCP
 
 ## Creative
 

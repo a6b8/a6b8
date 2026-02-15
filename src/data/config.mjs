@@ -20,12 +20,6 @@ const config = [
                 "githubUserName": "a6b8",
                 "githubRepository": "rpcBenchmark",
                 "githubWorkflowPath": "test-on-release.yml"
-            },
-            {
-                "title": "x402-flowmcp-org",
-                "githubUserName": "a6b8",
-                "githubRepository": "x402-flowmcp-org",
-                "githubWorkflowPath": "test-on-release.yml"
             }
         ]
     },
