@@ -32,6 +32,7 @@ user_name = "a#{a.length}b#{b.length}"
 - **[flowmcp-core](https://github.com/FlowMCP/flowmcp-core)** — Framework for adapting REST APIs into MCP-compatible tools with schema-driven validation
 - **[get-sheet](https://github.com/a6b8/get-sheet)** — CLI for Google Sheets: read, write, format, and manage spreadsheets
 - **[get-ui](https://github.com/a6b8/get-ui)** — CLI for managing and searching UI component collections
+- **[memo-toolkit](https://github.com/a6b8/memo-toolkit)** — Collaborative human-AI strategy documents with live-preview editor and diff tracking
 
 ## All Repositories
 

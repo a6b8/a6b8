@@ -44,6 +44,12 @@ const config = [
                 "githubUserName": "a6b8",
                 "githubRepository": "get-ui",
                 "githubWorkflowPath": "test-on-release.yml"
+            },
+            {
+                "title": "memo-toolkit",
+                "githubUserName": "a6b8",
+                "githubRepository": "memo-toolkit",
+                "githubWorkflowPath": "test-on-release.yml"
             }
         ]
     }
