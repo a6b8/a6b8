@@ -50,6 +50,12 @@ const config = [
                 "githubUserName": "a6b8",
                 "githubRepository": "memo-toolkit",
                 "githubWorkflowPath": "test-on-release.yml"
+            },
+            {
+                "title": "depwatch",
+                "githubUserName": "a6b8",
+                "githubRepository": "depwatch",
+                "githubWorkflowPath": "test-on-push.yml"
             }
         ]
     }
